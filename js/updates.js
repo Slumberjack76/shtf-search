@@ -293,6 +293,13 @@
       actions.appendChild(button("Library", "status-link", () => {
         if (window.SHTF_DRIVE) window.SHTF_DRIVE.open();
       }));
+      const printCards = document.createElement("a");
+      printCards.className = "hit status-link";
+      printCards.href = "print/help-now-cards.pdf";
+      printCards.target = "_blank";
+      printCards.rel = "noopener";
+      printCards.textContent = "Print cards";
+      actions.appendChild(printCards);
       actions.appendChild(button("Updates", "status-link", openUpdates));
       bar.appendChild(actions);
     }

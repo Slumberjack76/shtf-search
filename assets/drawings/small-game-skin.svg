@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Cut skin only. Do not cut into the meat.</text>
+  <!-- rabbit case skin -->
+  <text x="16" y="48" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">RABBIT</text>
+  <ellipse cx="110" cy="120" rx="78" ry="32" fill="#C4A574"/>
+  <circle cx="36" cy="112" r="14" fill="#EED2A4"/>
+  <path d="M70,108 L150,108" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M70,108 L58,96 M70,108 L58,120" stroke="#1B6B93" stroke-width="2"/>
+  <path d="M150,108 L162,96 M150,108 L162,120" stroke="#1B6B93" stroke-width="2"/>
+  <text x="48" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">slit across the back</text>
+  <text x="48" y="184" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">pull hide both ways</text>
+  <!-- squirrel tail -->
+  <text x="220" y="48" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">SQUIRREL</text>
+  <path d="M250,200 L310,150" stroke="#8A6A42" stroke-width="8"/>
+  <path d="M310,150 L360,120" stroke="#5A5A5A" stroke-width="6"/>
+  <path d="M300,168 L250,210" stroke="#C4A574" stroke-width="10"/>
+  <path d="M250,200 L230,240" stroke="#1A1A1A" stroke-width="6"/>
+  <rect x="214" y="236" width="36" height="14" rx="3" fill="#5A5A5A" stroke="none"/>
+  <text x="214" y="268" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">foot on the tail skin</text>
+  <path d="M268,150 L268,110" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M268,110 L260,122 M268,110 L276,122" stroke="#1B6B93" stroke-width="3"/>
+  <text x="220" y="100" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">pull the hind legs up</text>
+  <text x="16" y="292" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Then cut off the head and the feet. They do not go in the pot.</text>
+</svg>

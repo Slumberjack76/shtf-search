@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- ok meat -->
+  <rect x="20" y="36" width="160" height="90" rx="8" fill="#C45C4A" stroke="#2E6F40" stroke-width="3"/>
+  <text x="36" y="78" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">firm, moist</text>
+  <text x="36" y="98" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">mild smell</text>
+  <text x="36" y="148" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">CAN BE COOKED</text>
+  <text x="20" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">if it was kept cold</text>
+  <!-- bad meat -->
+  <rect x="210" y="36" width="170" height="90" rx="8" fill="#6E8A62" stroke="#C62828" stroke-width="3"/>
+  <path d="M230,70 C250,60 280,80 300,66" stroke="#3D6B4F" stroke-width="6"/>
+  <text x="226" y="100" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">green, sticky, sour</text>
+  <text x="226" y="148" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">DO NOT EAT</text>
+  <!-- bloat and hide slip -->
+  <ellipse cx="80" cy="230" rx="50" ry="30" fill="#C4A574" stroke="#C62828" stroke-width="3"/>
+  <text x="28" y="276" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">drum-tight and foul</text>
+  <path d="M200,210 C240,200 280,210 300,230" stroke="#8A6A42" stroke-width="8"/>
+  <path d="M220,214 L250,250" stroke="#6E8A62" stroke-width="6"/>
+  <text x="200" y="270" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">hide slips, skin green</text>
+  <text x="140" y="292" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Rainbow on a dry cut can be normal.</text>
+</svg>

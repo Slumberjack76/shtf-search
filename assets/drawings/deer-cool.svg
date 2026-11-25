@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- shade -->
+  <path d="M20,40 L120,18 L210,40 L210,70 L20,70 Z" fill="#D6D0C4" stroke="none"/>
+  <text x="36" y="58" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">SHADE</text>
+  <!-- ground hot -->
+  <rect x="16" y="248" width="368" height="36" fill="#E7C4A0" stroke="none"/>
+  <text x="24" y="270" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">hot ground — keep meat off it</text>
+  <!-- carcass propped -->
+  <path d="M70,200 L250,188 L268,150 L90,160 Z" fill="#C4A574"/>
+  <path d="M110,168 L200,162 L196,196 L116,200 Z" fill="#F7F3EA"/>
+  <path d="M150,162 L150,200" stroke="#2E6F40" stroke-width="4"/>
+  <text x="156" y="186" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">stick props cavity</text>
+  <!-- air arrows -->
+  <path d="M40,120 L70,150" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M70,150 L58,146 M70,150 L62,138" stroke="#1B6B93" stroke-width="3"/>
+  <text x="24" y="112" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">air</text>
+  <!-- hide off to the side -->
+  <path d="M268,160 C300,150 340,170 348,200 C320,210 280,200 268,180" fill="#8A6A42"/>
+  <text x="286" y="146" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">hide off in heat</text>
+  <!-- hock gland -->
+  <path d="M96,200 L88,236" stroke="#C4A574" stroke-width="8"/>
+  <circle cx="86" cy="228" r="7" fill="#1A1A1A" stroke="none"/>
+  <text x="104" y="214" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">tarsal gland, inside the hock</text>
+  <text x="104" y="230" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">do not touch it, then the meat</text>
+  <text x="150" y="100" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Wipe. Do not rinse in a creek.</text>
+</svg>

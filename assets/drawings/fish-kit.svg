@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Gorge hook. Bait it lengthwise. A pull turns it sideways.</text>
+  <!-- gorge -->
+  <path d="M40,70 L160,70" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M40,70 L28,64 M40,70 L28,76" stroke-width="2"/>
+  <path d="M160,70 L172,64 M160,70 L172,76" stroke-width="2"/>
+  <path d="M100,70 L100,40" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M92,70 L108,70" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="108" y="56" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">line on the middle notch</text>
+  <ellipse cx="100" cy="86" rx="50" ry="12" fill="#E7B4A8" stroke="#C45C4A"/>
+  <text x="40" y="118" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">bait covers the gorge</text>
+  <!-- toggled -->
+  <path d="M70,150 L130,190" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M100,168 L100,140" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M100,140 L92,150 M100,140 L108,150" stroke="#1B6B93" stroke-width="2"/>
+  <text x="140" y="170" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">after the swallow, it toggles</text>
+  <!-- thorn hook -->
+  <path d="M40,230 L90,230" stroke="#8A6A42" stroke-width="5"/>
+  <path d="M90,230 L108,214" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M70,230 L70,210" stroke="#1B6B93" stroke-width="2"/>
+  <text x="120" y="224" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">thorn or bone point lashed into a notch</text>
+  <!-- weight -->
+  <circle cx="300" cy="200" r="18" fill="#5A5A5A" stroke="none"/>
+  <path d="M300,182 L300,150" stroke="#1B6B93" stroke-width="3"/>
+  <text x="250" y="150" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">stone weight</text>
+  <text x="230" y="250" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">tie it above the hook</text>
+  <text x="12" y="286" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Hold the line, or tie it to a straight pole. Set the hook with a firm pull.</text>
+</svg>

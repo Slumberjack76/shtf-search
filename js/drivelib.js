@@ -8,7 +8,8 @@
     maps: null,   // "AZ" | "NV" | null
     letter: "",
     screen: "list", // list | item
-    current: null
+    current: null,
+    howto: ""     // "ios" | "android" once the user or the device picks one
   };
 
   let catalog = null;
@@ -76,12 +77,24 @@
     return Math.round(kb) + " KB";
   }
 
-  function folderHint(p) {
+  // Android only when the UA says Android. iPadOS 13+ often says Macintosh;
+  // a Macintosh with a touch screen is an iPad, not a desktop.
+  function deviceKind() {
+    const ua = navigator.userAgent || "";
+    if (/android/i.test(ua)) return "android";
+    if (/iPhone|iPad|iPod/i.test(ua)) return "ios";
+    if (/Macintosh/i.test(ua) && (navigator.maxTouchPoints || 0) > 0) return "ios";
+    return "other";
+  }
+
+  function folderHint(p, kind) {
     let parts = String(p || "").replace(/\\/g, "/").split("/").filter(Boolean);
     if (parts.length && /^[a-z]:$/i.test(parts[0])) parts.shift();
     const last = parts[parts.length - 1] || "";
     if (parts.length && /\.[a-z0-9]{1,5}$/i.test(last)) parts.pop();
-    return ["SHTF_LIB"].concat(parts).join(" > ");
+    const k = kind || deviceKind();
+    const head = k === "android" ? ["USB storage", "SHTF_LIB"] : ["SHTF_LIB"];
+    return head.concat(parts).join(" > ");
   }
 
   function itemIcon(it) {
@@ -280,51 +293,103 @@
     paint();
   }
 
+  function hintLine(p, kind) {
+    return '<p class="drive-folder-hint">' + escapeHtml(folderHint(p, kind)) + "</p>";
+  }
+
+  const SLOW_ZIM = '<p class="drive-howto-tip">If it\'s slow, try a small ZIM first. Large ZIMs over USB may load slowly.</p>';
+
+  // One platform on screen. Desktop and unknown start on iPad; the toggle can switch.
+  function selectedKind() {
+    if (st.howto === "android" || st.howto === "ios") return st.howto;
+    st.howto = deviceKind() === "android" ? "android" : "ios";
+    return st.howto;
+  }
+
+  function androidSteps(it) {
+    if (isZim(it)) {
+      return "<ol>" +
+        "<li>Open <strong>Kiwix</strong>.</li>" +
+        "<li>Use its open-file / folder button.</li>" +
+        "<li>Pick USB storage &gt; SHTF_LIB &gt; the folder shown &gt; the .zim.</li>" +
+        "<li>It reads from the drive. Don't copy big files to the phone.</li>" +
+        "</ol>" +
+        SLOW_ZIM;
+    }
+    return "<ol>" +
+      "<li>Open Samsung <strong>My Files</strong>.</li>" +
+      "<li>Tap USB storage (SHTF_LIB).</li>" +
+      "<li>Go to the folder shown.</li>" +
+      "<li>Tap the file.</li>" +
+      "</ol>";
+  }
+
+  function iosSteps(it) {
+    if (isZim(it)) {
+      return "<ol>" +
+        "<li>Open the <strong>Files</strong> app.</li>" +
+        "<li>Follow the folders in the line above.</li>" +
+        "<li>Tap the .zim file.</li>" +
+        "<li>Open it in <strong>Kiwix</strong>. Choose Open, not Import.</li>" +
+        "</ol>" +
+        SLOW_ZIM;
+    }
+    return "<ol>" +
+      "<li>Open the <strong>Files</strong> app.</li>" +
+      "<li>Follow the folders in the line above.</li>" +
+      "<li>Tap the file. On iPad you can also open a PDF in Books.</li>" +
+      "</ol>";
+  }
+
+  function leadFor(it) {
+    if (it.x === "zim") return "<p>This file opens in the <strong>Kiwix</strong> app. Leave it on the drive.</p>";
+    if (it.x === "book") return "<p>This is one book split into chapter files.</p>";
+    if (it.x === "map" && /\.pbf$/i.test(it.p || "")) return "<p>This is a map file for an app such as Organic Maps.</p>";
+    return "<p>This file is on the drive, not inside this app.</p>";
+  }
+
+  function howtoToggle(kind) {
+    const iosOn = kind !== "android";
+    const btn = (k, label, on) =>
+      '<button type="button" class="hit drive-howto-opt' + (on ? " is-on" : "") + '" data-kind="' + k + '" aria-pressed="' + (on ? "true" : "false") + '">' + label + "</button>";
+    return '<div class="drive-howto-toggle" role="group" aria-label="iPad or Android">' +
+      btn("ios", "iPad", iosOn) +
+      '<span class="drive-howto-bar" aria-hidden="true">|</span>' +
+      btn("android", "Android", !iosOn) +
+      "</div>";
+  }
+
+  function bindHowtoToggle(wrap, it) {
+    wrap.querySelectorAll(".drive-howto-opt").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const next = btn.getAttribute("data-kind");
+        if (next !== "ios" && next !== "android") return;
+        if (st.howto === next) return;
+        st.howto = next;
+        fillHowto(wrap, it);
+      });
+    });
+  }
+
+  function fillHowto(wrap, it) {
+    const kind = selectedKind();
+    const toggle = howtoToggle(kind);
+    const hint = hintLine(it.p, kind);
+    if (it.x === "app") {
+      wrap.innerHTML = "<h2>This app</h2>" + toggle + hint +
+        "<p>You are already in this Help Library. A copy also sits in the 30_App_Search folder. You do not need to open those files.</p>";
+    } else {
+      const steps = kind === "android" ? androidSteps(it) : iosSteps(it);
+      wrap.innerHTML = "<h2>How to open this</h2>" + toggle + hint + leadFor(it) + steps;
+    }
+    bindHowtoToggle(wrap, it);
+  }
+
   function howtoBlock(it) {
     const wrap = document.createElement("div");
     wrap.className = "drive-howto";
-    const hint = '<p class="drive-folder-hint">' + escapeHtml(folderHint(it.p)) + "</p>";
-    let html = "";
-    if (it.x === "app") {
-      html = "<h2>This app</h2>" + hint +
-        "<p>You are already in this Help Library. A copy also sits in the 30_App_Search folder. You do not need to open those files.</p>";
-    } else if (it.x === "zim") {
-      html = "<h2>How to open this</h2>" + hint +
-        "<p>This file opens in the Kiwix app. Leave it on the drive.</p>" +
-        "<ol>" +
-        "<li>Open the Files app.</li>" +
-        "<li>Follow the folders in the line above.</li>" +
-        "<li>Tap the .zim file.</li>" +
-        "<li>Open it in Kiwix. Choose Open, not Import.</li>" +
-        "</ol>";
-    } else if (it.x === "book") {
-      html = "<h2>How to open this</h2>" + hint +
-        "<p>This is one book split into chapter files.</p>" +
-        "<ol>" +
-        "<li>Open the Files app.</li>" +
-        "<li>Follow the folders in the line above.</li>" +
-        "<li>Tap a chapter. On iPad you can also open it in Books.</li>" +
-        "</ol>";
-    } else if (it.x === "map" && /\.pbf$/i.test(it.p || "")) {
-      html = "<h2>How to open this</h2>" + hint +
-        "<p>This is a map file for an app such as Organic Maps.</p>" +
-        "<ol>" +
-        "<li>Open the Files app.</li>" +
-        "<li>Follow the folders in the line above.</li>" +
-        "<li>Tap the file.</li>" +
-        "</ol>";
-    } else if (it.x === "maps-az" || it.x === "maps-nv") {
-      html = "";
-    } else {
-      html = "<h2>How to open this</h2>" + hint +
-        "<p>This file is on the drive, not inside this app.</p>" +
-        "<ol>" +
-        "<li>Open the Files app.</li>" +
-        "<li>Follow the folders in the line above.</li>" +
-        "<li>Tap the file. On iPad you can also open a PDF in Books.</li>" +
-        "</ol>";
-    }
-    if (html) wrap.innerHTML = html;
+    if (it.x === "maps-az" || it.x === "maps-nv") return wrap;
+    fillHowto(wrap, it);
     return wrap;
   }
 

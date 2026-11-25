@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="360" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Improved clinch. Blue standing line. Red tag end.</text>
+  <text x="12" y="44" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">1. Five wraps.</text>
+  <path d="M48,168 L48,150" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="48" cy="142" r="8" fill="none" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M48,134 L48,56" stroke="#1B6B93" stroke-width="4"/>
+  <ellipse cx="48" cy="124" rx="16" ry="7" stroke="#C62828" stroke-width="2.5"/>
+  <ellipse cx="48" cy="108" rx="16" ry="7" stroke="#C62828" stroke-width="2.5"/>
+  <ellipse cx="48" cy="92" rx="16" ry="7" stroke="#C62828" stroke-width="2.5"/>
+  <ellipse cx="48" cy="76" rx="16" ry="7" stroke="#C62828" stroke-width="2.5"/>
+  <ellipse cx="48" cy="60" rx="16" ry="7" stroke="#C62828" stroke-width="2.5"/>
+  <text x="70" y="128" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">1</text>
+  <text x="70" y="112" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">2</text>
+  <text x="70" y="96" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">3</text>
+  <text x="70" y="80" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">4</text>
+  <text x="70" y="64" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">5</text>
+  <text x="92" y="100" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">to the reel</text>
+  <text x="188" y="44" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">2. Tag through A, then B.</text>
+  <path d="M230,168 L230,156" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="230" cy="148" r="10" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <path d="M230,138 L230,78" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M250,70 L236,140" stroke="#C62828" stroke-width="3"/>
+  <path d="M236,140 L230,132 M236,140 L242,132" stroke="#C62828" stroke-width="2"/>
+  <text x="246" y="156" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">A small loop, first</text>
+  <ellipse cx="320" cy="88" rx="36" ry="24" fill="none" stroke="#C62828" stroke-width="3"/>
+  <path d="M248,100 L300,88" stroke="#C62828" stroke-width="3"/>
+  <path d="M300,88 L288,82 M300,88 L290,96" stroke="#C62828" stroke-width="2"/>
+  <text x="268" y="124" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">B big loop, second</text>
+  <text x="188" y="186" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">Second pass makes it improved.</text>
+  <text x="12" y="206" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">3. Finished. Coils stacked on the eye. Short tag left on.</text>
+  <path d="M48,300 L48,268" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="48" cy="260" r="8" fill="none" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M48,252 L48,228" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M34,254 L62,254 M34,248 L62,248 M34,242 L62,242 M36,236 L60,236 M38,230 L58,230" stroke="#C62828" stroke-width="2.5"/>
+  <path d="M62,242 L86,232" stroke="#C62828" stroke-width="2.5"/>
+  <text x="92" y="236" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">tag stub</text>
+  <text x="92" y="268" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Wet the line. Pull the tag to stack the coils.</text>
+  <text x="92" y="288" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Pull the standing line so the knot slides to the eye.</text>
+  <text x="12" y="324" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Light line: 7 wraps. Heavier line: 5. Do not let the wraps cross.</text>
+  <text x="12" y="348" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Passing the tag through the big loop is what makes it improved.</text>
+</svg>

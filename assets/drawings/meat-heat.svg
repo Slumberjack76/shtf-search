@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- bad -->
+  <rect x="12" y="36" width="176" height="180" rx="8" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <text x="48" y="58" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">DO NOT</text>
+  <rect x="40" y="80" width="120" height="70" fill="#1A1A1A"/>
+  <path d="M55,100 L90,100 L90,130 L55,130 Z" fill="#C45C4A"/>
+  <path d="M95,108 L140,108 L140,136 L95,136 Z" fill="#C45C4A"/>
+  <text x="28" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">stacked in plastic</text>
+  <text x="28" y="194" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">in the sun</text>
+  <!-- good -->
+  <rect x="204" y="36" width="184" height="180" rx="8" fill="#FFFFFF" stroke="#2E6F40" stroke-width="3"/>
+  <text x="250" y="58" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">DO THIS</text>
+  <path d="M220,70 L370,70" stroke="#8A6A42" stroke-width="4"/>
+  <path d="M250,70 L250,110" stroke="#5A5A5A" stroke-width="2"/>
+  <path d="M310,70 L310,110" stroke="#5A5A5A" stroke-width="2"/>
+  <rect x="236" y="110" width="28" height="40" fill="#C45C4A"/>
+  <rect x="296" y="110" width="28" height="40" fill="#C45C4A"/>
+  <path d="M230,100 L330,100 L340,160 L220,160 Z" fill="#D7E6EE" opacity="0.85"/>
+  <text x="220" y="184" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">apart, in shade, wet cloth</text>
+  <text x="220" y="200" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">air must move through</text>
+  <text x="12" y="244" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">A wet cloth in dry air only slows spoilage.</text>
+  <text x="12" y="266" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">It does not cool meat to 40°F. Use ice, or cook it.</text>
+  <text x="12" y="288" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">Ice in a shaded cooler. Drain melt water. Do not soak the meat.</text>
+</svg>

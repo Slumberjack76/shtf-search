@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Look at the liver and any lump before you keep the meat.</text>
+  <!-- ok liver -->
+  <path d="M30,70 C30,50 110,48 120,72 C128,96 90,112 48,104 Z" fill="#8C3A32"/>
+  <text x="30" y="132" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">smooth, dark red</text>
+  <text x="30" y="148" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">wet, no spots — look on</text>
+  <!-- spotted -->
+  <path d="M160,70 C160,50 240,48 250,72 C258,96 220,112 178,104 Z" fill="#8C3A32" stroke="#C62828" stroke-width="3"/>
+  <circle cx="190" cy="78" r="4" fill="#FFFFFF" stroke="none"/>
+  <circle cx="210" cy="86" r="4" fill="#FFFFFF" stroke="none"/>
+  <circle cx="200" cy="96" r="3" fill="#F5D76E" stroke="none"/>
+  <circle cx="222" cy="74" r="3" fill="#FFFFFF" stroke="none"/>
+  <text x="160" y="132" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">many white spots</text>
+  <text x="160" y="148" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">DO NOT EAT</text>
+  <!-- abscess -->
+  <rect x="280" y="56" width="90" height="60" rx="8" fill="#C45C4A"/>
+  <ellipse cx="324" cy="86" rx="16" ry="12" fill="#F5D76E" stroke="#1A1A1A"/>
+  <text x="276" y="132" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">pus in the meat</text>
+  <text x="276" y="148" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">DO NOT EAT</text>
+  <text x="12" y="186" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">A bad smell, green discharge, or a sick-acting animal: do not eat it.</text>
+  <text x="12" y="214" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Deer and elk: do not eat the brain, spinal cord, eyes,</text>
+  <text x="12" y="234" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">spleen, tonsils, or lymph nodes. You cannot see CWD.</text>
+  <text x="12" y="268" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Found already dead, or acting tame or stumbling:</text>
+  <text x="12" y="288" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">do not eat it. You do not know why it died.</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="320" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Thermometer in the center. Not touching bone.</text>
+  <!-- roast -->
+  <ellipse cx="90" cy="110" rx="60" ry="36" fill="#C45C4A"/>
+  <path d="M70,100 L110,124" stroke="#F4F1EA" stroke-width="6"/>
+  <path d="M100,40 L78,100" stroke="#1B6B93" stroke-width="3"/>
+  <circle cx="100" cy="40" r="8" fill="#FFFFFF" stroke="#1B6B93"/>
+  <path d="M120,70 L100,100" stroke="#C62828" stroke-width="2"/>
+  <text x="124" y="68" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">not on bone</text>
+  <!-- temps -->
+  <text x="180" y="56" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Deer, elk — 160°F</text>
+  <text x="180" y="80" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Rabbit, squirrel — 165°F</text>
+  <text x="180" y="104" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Birds — 165°F</text>
+  <text x="180" y="128" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Fish — 145°F</text>
+  <text x="180" y="152" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Bear, wild pig — 160°F</text>
+  <text x="16" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Ground meat: 160°F. Ground bird: 165°F. Leftovers: 165°F.</text>
+  <!-- jerky -->
+  <rect x="16" y="206" width="368" height="98" rx="8" fill="#FFFFFF" stroke="#D6D0C4"/>
+  <text x="28" y="228" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">JERKY</text>
+  <rect x="28" y="240" width="70" height="10" fill="#C45C4A"/>
+  <rect x="28" y="256" width="70" height="10" fill="#C45C4A"/>
+  <text x="110" y="252" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">slice 1/4 inch or thinner</text>
+  <text x="110" y="272" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">heat to 160°F (bird 165°F)</text>
+  <text x="28" y="292" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">Then dry until a piece cracks when bent, but does not snap in two.</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="320" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">On its side. Skin from the backbone. Guts stay sealed in.</text>
+  <!-- body -->
+  <path d="M36,150 C50,110 90,96 150,100 L280,108 C330,112 360,140 366,176 C360,210 320,230 260,228 L120,222 C70,218 40,196 36,150 Z" fill="#EED2A4"/>
+  <circle cx="48" cy="128" r="16" fill="#EED2A4"/>
+  <text x="28" y="112" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">head</text>
+  <!-- spine skin cut -->
+  <path d="M70,118 L330,128" stroke="#1B6B93" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="140" y="108" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">skin cut along the spine</text>
+  <!-- backstrap -->
+  <path d="M120,124 L300,132 L296,148 L124,142 Z" fill="#C45C4A"/>
+  <text x="160" y="142" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">backstrap — outside</text>
+  <!-- ribs -->
+  <path d="M150,150 L250,158" stroke="#D6D0C4" stroke-width="6"/>
+  <path d="M160,156 L156,190 M190,160 L186,196 M220,164 L218,200" stroke="#D6D0C4" stroke-width="3"/>
+  <!-- tenderloin: inside the belly, under the loin, from the last rib back to the hip -->
+  <path d="M230,168 L292,178" stroke="#2E6F40" stroke-width="6" stroke-dasharray="5 3"/>
+  <text x="168" y="164" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">tenderloin inside, behind the ribs</text>
+  <!-- shoulder -->
+  <path d="M90,140 L130,150 L124,210 L86,196 Z" fill="#D4A574" stroke="#1B6B93"/>
+  <text x="40" y="246" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">front leg: muscle only</text>
+  <text x="40" y="262" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">no bone joint to cut</text>
+  <!-- hip -->
+  <circle cx="300" cy="196" r="14" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+  <circle cx="300" cy="196" r="5" fill="#1A1A1A" stroke="none"/>
+  <path d="M312,200 L348,230" stroke="#C4A574" stroke-width="10"/>
+  <text x="250" y="248" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">hip: ball and socket</text>
+  <text x="250" y="264" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">knife stays on the bone</text>
+  <!-- bladder warning inside pelvis -->
+  <ellipse cx="276" cy="188" rx="12" ry="8" fill="#F5D76E" stroke="#C62828"/>
+  <text x="12" y="300" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Bladder and gut are just inside the pelvis. Do not stab through.</text>
+</svg>

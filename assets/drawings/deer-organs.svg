@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="360" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Belly open. Head at the top. Red outline: do not cut.</text>
+  <path d="M78,40 C78,40 96,54 108,78 L116,250 C118,300 160,322 200,322 C240,322 284,300 286,250 L294,78 C306,54 322,40 322,40" stroke="#8A6A42" stroke-width="8" fill="#F7F3EA"/>
+  <text x="176" y="36" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">HEAD</text>
+  <ellipse cx="150" cy="86" rx="32" ry="22" fill="#F3C1C8"/>
+  <ellipse cx="248" cy="86" rx="32" ry="22" fill="#F3C1C8"/>
+  <path d="M184,78 C184,66 216,66 216,86 C216,104 184,104 184,78 Z" fill="#B22222"/>
+  <text x="132" y="90" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">lung</text>
+  <text x="188" y="90" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">heart</text>
+  <path d="M118,122 Q200,142 284,122" stroke="#5A5A5A" stroke-width="4"/>
+  <text x="158" y="118" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">diaphragm</text>
+  <path d="M122,150 C122,136 168,132 184,148 C196,166 172,190 140,188 C120,184 116,168 122,150 Z" fill="#8C3A32"/>
+  <text x="132" y="168" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">LIVER</text>
+  <rect x="8" y="148" width="108" height="52" rx="6" fill="#FFFFFF" stroke="#1A1A1A"/>
+  <text x="16" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">NO BILE SAC</text>
+  <text x="16" y="186" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">Deer have none.</text>
+  <path d="M116,174 L122,160" stroke="#1A1A1A" stroke-width="1.5"/>
+  <path d="M204,148 C220,136 300,140 306,172 C312,214 286,240 232,236 C198,232 186,200 192,174 C196,158 196,150 204,148 Z" fill="#E6C98A" stroke="#C62828" stroke-width="3"/>
+  <text x="226" y="184" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">RUMEN</text>
+  <text x="214" y="202" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">stomach</text>
+  <text x="214" y="220" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">DON'T CUT</text>
+  <ellipse cx="156" cy="230" rx="36" ry="22" fill="#E7B4A8" stroke="#C62828" stroke-width="3"/>
+  <path d="M128,214 C118,228 124,248 146,244" stroke="#E7B4A8" stroke-width="8"/>
+  <text x="132" y="226" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">GUT</text>
+  <text x="124" y="244" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">DON'T CUT</text>
+  <path d="M188,248 C210,270 230,292 236,308" stroke="#E7B4A8" stroke-width="7"/>
+  <circle cx="240" cy="318" r="6" fill="none" stroke="#1B6B93" stroke-width="2"/>
+  <text x="252" y="322" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">tie the anus</text>
+  <ellipse cx="150" cy="286" rx="20" ry="13" fill="#F5D76E" stroke="#C62828" stroke-width="3"/>
+  <text x="128" y="284" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">BLADDER</text>
+  <path d="M140,298 L118,318" stroke="#C62828" stroke-width="2"/>
+  <text x="16" y="336" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">bladder tube — do not cut</text>
+  <text x="12" y="354" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">Kidneys sit on the spine, under these organs. Liver is on the animal's right.</text>
+</svg>

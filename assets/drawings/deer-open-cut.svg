@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="340" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">On its back. Head slightly downhill. Shallow midline cut.</text>
+  <path d="M24,118 C44,100 78,96 112,102 L250,108 C292,110 322,122 340,146 L354,176 C334,184 300,176 268,168 L120,162 C78,158 44,146 24,118 Z" fill="#C4A574"/>
+  <circle cx="16" cy="108" r="12" fill="#EED2A4"/>
+  <path d="M112,102 L100,72" stroke="#C4A574" stroke-width="8"/>
+  <path d="M248,108 L262,74" stroke="#C4A574" stroke-width="8"/>
+  <path d="M120,162 L108,200" stroke="#C4A574" stroke-width="8"/>
+  <path d="M246,164 L260,202" stroke="#C4A574" stroke-width="8"/>
+  <path d="M70,128 L292,136" stroke="#1B6B93" stroke-width="3" stroke-dasharray="7 4"/>
+  <text x="86" y="122" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">breastbone</text>
+  <text x="168" y="126" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">midline</text>
+  <circle cx="318" cy="156" r="9" fill="none" stroke="#1B6B93" stroke-width="3"/>
+  <text x="250" y="198" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">tie the anus</text>
+  <path d="M40,58 L18,78" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M18,78 L30,74 M18,78 L22,66" stroke-width="2"/>
+  <text x="46" y="56" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">head downhill</text>
+  <rect x="12" y="214" width="376" height="114" rx="8" fill="#FFFFFF" stroke="#D6D0C4"/>
+  <text x="22" y="234" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Knife from the inside. Edge toward the hide.</text>
+  <rect x="22" y="246" width="200" height="16" rx="2" fill="#8A6A42" stroke="none"/>
+  <text x="28" y="258" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">HIDE — outside</text>
+  <rect x="22" y="264" width="200" height="14" fill="#E7D3A8" stroke="none"/>
+  <path d="M36,292 L150,278 L168,286 L150,294 Z" fill="#D0D0D0" stroke="#1A1A1A"/>
+  <path d="M36,286 L148,278" stroke="#1B6B93" stroke-width="3"/>
+  <text x="172" y="276" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">edge UP</text>
+  <path d="M168,286 L210,300 L210,274 Z" fill="#5A5A5A"/>
+  <text x="214" y="292" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">handle</text>
+  <path d="M70,300 C86,286 100,286 112,302" stroke="#E2BB82" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96,304 C112,290 126,292 136,306" stroke="#EED2A4" stroke-width="8" stroke-linecap="round"/>
+  <text x="150" y="312" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">two fingers push the guts down</text>
+  <rect x="22" y="308" width="120" height="12" rx="2" fill="#E7B4A8" stroke="none"/>
+</svg>

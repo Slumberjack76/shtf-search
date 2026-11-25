@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="340" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Figure-4. Low end of the log sits on the ground.</text>
+  <path d="M16,248 L384,248" stroke="#8A6A42" stroke-width="3"/>
+  <path d="M28,248 L24,260 M52,248 L48,262 M300,248 L296,260 M348,248 L344,258" stroke="#2E6F40" stroke-width="2"/>
+  <!-- log rests on the release tip. Low end is on the ground. Upright stands clear of the log. -->
+  <path d="M145,48 L185,40 L320,230 L290,248 L155,78 Z" fill="#8A6A42"/>
+  <ellipse cx="158" cy="50" rx="20" ry="13" fill="#6E5434"/>
+  <!-- upright: flat on the ground, bevel down toward the bait, square side notch -->
+  <path d="M92,248 L92,162 L108,150 L108,190 L96,190 L96,206 L108,206 L108,248 Z" fill="#E7D3A8"/>
+  <!-- release: long end at the bait hook, notch on the bevel, short tip under the log -->
+  <path d="M40,198 L175,103" stroke="#C4A574" stroke-width="8"/>
+  <circle cx="104" cy="148" r="8" fill="#FFFFFF" stroke="#C62828" stroke-width="2"/>
+  <text x="100" y="152" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">1</text>
+  <!-- bait -->
+  <path d="M28,190 L214,190 L228,182 L214,198 L28,198 Z" fill="#E7D3A8"/>
+  <path d="M40,190 L56,180 L64,190 Z" fill="#F4F1EA"/>
+  <circle cx="48" cy="194" r="8" fill="#FFFFFF" stroke="#C62828" stroke-width="2"/>
+  <text x="44" y="198" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">3</text>
+  <circle cx="100" cy="194" r="8" fill="#FFFFFF" stroke="#C62828" stroke-width="2"/>
+  <text x="96" y="198" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">2</text>
+  <text x="232" y="196" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">point under the log</text>
+  <text x="180" y="96" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">short tip</text>
+  <text x="12" y="276" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">1 release notch on the bevel. 2 square notch in the upright.</text>
+  <text x="12" y="294" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">3 angled hook holds the long end. Do not pound the upright in.</text>
+  <text x="12" y="316" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">The sticks make a 4. Hands stay out from under the log.</text>
+  <text x="12" y="334" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">The log must kill at once.</text>
+</svg>

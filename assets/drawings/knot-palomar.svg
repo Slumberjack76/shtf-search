@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="340" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Palomar. Doubled line. Blue and red stay side by side.</text>
+  <text x="12" y="46" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">1. Double the line through the eye. Loose overhand.</text>
+  <path d="M70,150 L70,118" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="70" cy="110" r="8" fill="none" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M64,102 L64,70" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M76,102 L76,70" stroke="#C62828" stroke-width="3"/>
+  <path d="M64,78 C40,68 40,48 66,52 C92,56 96,84 70,86 C46,88 52,70 76,74" stroke="#1A1A1A" stroke-width="2.5"/>
+  <text x="100" y="80" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">loose overhand</text>
+  <text x="100" y="98" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">do not twist the two strands</text>
+  <text x="100" y="116" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">do not tighten yet</text>
+  <text x="12" y="178" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">2. Whole hook through the loop.</text>
+  <ellipse cx="90" cy="230" rx="48" ry="32" stroke="#1A1A1A" stroke-width="2.5"/>
+  <path d="M78,200 L78,176" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M102,200 L102,176" stroke="#C62828" stroke-width="3"/>
+  <path d="M90,262 L90,300" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M90,300 C112,312 120,296 110,288" stroke="#5A5A5A" stroke-width="3"/>
+  <text x="150" y="224" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">hook goes through</text>
+  <text x="150" y="242" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">this loop, point first</text>
+  <text x="248" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">3. Pull both ends.</text>
+  <path d="M300,300 L300,250" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="300" cy="242" r="8" fill="none" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M294,234 L294,190" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M306,234 L306,200" stroke="#C62828" stroke-width="3"/>
+  <path d="M286,200 C300,184 322,190 306,206" stroke="#1A1A1A" stroke-width="2.5"/>
+  <path d="M288,214 L312,214" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="328" y="220" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">parallel</text>
+  <text x="332" y="186" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">collar</text>
+  <text x="12" y="328" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Trim the tag. Leave a short stub. Test with a hard tug.</text>
+</svg>

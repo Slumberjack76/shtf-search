@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Trotline. Short droppers that cannot tangle.</text>
+  <!-- water -->
+  <rect x="16" y="70" width="368" height="160" fill="#D7E6EE" stroke="#1B6B93"/>
+  <path d="M200,90 L250,90" stroke="#1B6B93" stroke-width="2"/>
+  <path d="M250,90 L240,84 M250,90 L240,96" stroke="#1B6B93" stroke-width="2"/>
+  <text x="200" y="84" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">fast current — stay out of it</text>
+  <!-- stakes -->
+  <path d="M50,50 L50,240" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M340,50 L340,240" stroke="#8A6A42" stroke-width="6"/>
+  <!-- main line -->
+  <path d="M50,120 L340,120" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="140" y="112" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">main line</text>
+  <!-- droppers -->
+  <path d="M110,120 L110,170" stroke="#C62828" stroke-width="2"/>
+  <path d="M180,120 L180,175" stroke="#C62828" stroke-width="2"/>
+  <path d="M250,120 L250,168" stroke="#C62828" stroke-width="2"/>
+  <path d="M110,176 L122,168" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M180,181 L192,173" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M250,174 L262,166" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="60" y="210" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">dropper shorter than half the gap</text>
+  <!-- weight -->
+  <circle cx="300" cy="150" r="10" fill="#5A5A5A" stroke="none"/>
+  <path d="M300,120 L300,140" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="280" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">weight</text>
+  <!-- bank cover -->
+  <path d="M16,230 L120,230 L110,250 L20,250 Z" fill="#2E6F40"/>
+  <text x="130" y="256" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">set along the edge, near cover</text>
+  <text x="12" y="286" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">Tie droppers so they cannot slide. Check the line often.</text>
+</svg>

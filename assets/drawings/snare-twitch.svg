@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Twitch-up. Dry dead sticks. Green sap can glue the trigger.</text>
+  <!-- sapling -->
+  <path d="M30,260 C40,180 80,80 200,40" stroke="#2E6F40" stroke-width="6"/>
+  <text x="40" y="40" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">bent sapling</text>
+  <!-- cord -->
+  <path d="M200,40 L240,120" stroke="#1B6B93" stroke-width="3"/>
+  <!-- fork in ground: long leg down, short leg horizontal -->
+  <path d="M250,250 L250,150" stroke="#8A6A42" stroke-width="5"/>
+  <path d="M250,160 L300,160" stroke="#8A6A42" stroke-width="5"/>
+  <text x="256" y="270" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">driven in</text>
+  <!-- second fork hooked: long leg up to the cord, short leg hooked under -->
+  <path d="M240,120 L300,150" stroke="#5A5A5A" stroke-width="5"/>
+  <path d="M294,150 L250,172" stroke="#5A5A5A" stroke-width="5"/>
+  <circle cx="276" cy="160" r="8" fill="none" stroke="#C62828" stroke-width="3"/>
+  <text x="250" y="108" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">short legs hook</text>
+  <!-- noose -->
+  <path d="M240,120 C180,140 140,180 150,210 C170,240 210,230 200,190" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="70" y="230" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">noose on the trail</text>
+  <text x="12" y="292" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">The sapling must be strong enough to lift the animal clear.</text>
+</svg>

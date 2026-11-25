@@ -889,6 +889,11 @@ main {
   border: 2px solid var(--line);
   color: var(--ink-strong);
 }
+a.status-link,
+a.status-link:visited {
+  color: var(--ink-strong);
+  text-decoration: none;
+}
 [data-theme="night"] .offline-badge { background: transparent; color: var(--ink-strong); border: 2px solid var(--ink-strong); }
 [data-theme="night"] .status-text.is-tap { background: transparent; color: var(--ink-strong); border: 2px solid var(--ink-strong); }
 
@@ -1068,6 +1073,12 @@ main {
   font-weight: 700;
   color: var(--ink-strong);
 }
+.drive-howto h3 {
+  margin: 14px 0 8px;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--ink-strong);
+}
 .drive-howto p, .drive-howto li {
   margin: 0 0 8px;
   font-size: 20px;
@@ -1075,6 +1086,61 @@ main {
   color: var(--ink-strong);
 }
 .drive-howto ol { margin: 0 0 12px; padding-left: 28px; }
+.drive-howto strong { font-weight: 800; }
+.drive-howto-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 12px;
+}
+.drive-howto-opt {
+  min-width: 64px;
+  min-height: 64px;
+  padding: 0 18px;
+  border-radius: 10px;
+  border: 2px solid var(--line);
+  background: var(--bg);
+  color: var(--ink-strong);
+  font-size: 20px;
+  font-weight: 700;
+}
+.drive-howto-opt.is-on {
+  background: var(--emergency);
+  color: #fff;
+  border-color: var(--emergency);
+}
+.drive-howto-bar {
+  color: var(--muted);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+}
+.drive-howto-tip {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 2px solid var(--line);
+  background: var(--bg);
+  color: var(--ink-strong);
+  font-size: 20px;
+  font-weight: 600;
+}
+[data-theme="night"] .drive-howto-opt {
+  background: #1A0202;
+  border-color: #5A1410;
+  color: var(--ink-strong);
+}
+[data-theme="night"] .drive-howto-opt.is-on {
+  background: transparent;
+  color: var(--ink-strong);
+  border-color: var(--ink-strong);
+  border-width: 3px;
+}
+[data-theme="night"] .drive-howto-tip {
+  background: #1A0202;
+  border-color: var(--ink-strong);
+  color: var(--ink-strong);
+}
 .drive-letters {
   display: flex;
   flex-wrap: wrap;

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="16" y="28" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">FRESH — eat today if you keep it cold</text>
+  <path d="M30,90 C70,60 140,60 170,90 C140,120 70,120 30,90 Z" fill="#B7C9C4"/>
+  <circle cx="150" cy="88" r="6" fill="#FFFFFF" stroke="#1A1A1A"/>
+  <circle cx="150" cy="88" r="2.5" fill="#1A1A1A" stroke="none"/>
+  <path d="M120,100 C128,108 140,108 146,100" stroke="#C62828" stroke-width="4"/>
+  <text x="180" y="80" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14">eye is clear and full</text>
+  <text x="180" y="102" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">gills red or pink</text>
+  <text x="180" y="124" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14">flesh springs back</text>
+  <text x="16" y="168" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">SPOILED — do not eat. Cooking will not fix it.</text>
+  <path d="M30,210 C70,180 140,180 170,210 C140,240 70,240 30,210 Z" fill="#A8B0A4"/>
+  <path d="M142,206 C148,212 156,212 160,204" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M120,222 C128,230 140,228 146,220" stroke="#5A5A5A" stroke-width="4"/>
+  <text x="180" y="200" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14">sunken cloudy eye</text>
+  <text x="180" y="222" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14">gills brown or gray</text>
+  <text x="180" y="244" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14">slime, smell, or a dent that stays</text>
+  <text x="16" y="286" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">A sharp or peppery taste means stop eating it.</text>
+</svg>

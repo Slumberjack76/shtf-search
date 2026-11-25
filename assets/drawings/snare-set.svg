@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="24" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">On a trail, in a narrow spot. Loop at head height.</text>
+  <!-- funnel brush -->
+  <path d="M20,80 L20,250" stroke="#2E6F40" stroke-width="8"/>
+  <path d="M20,100 L70,90 M20,140 L78,130 M20,180 L74,176 M20,220 L64,214" stroke="#2E6F40" stroke-width="3"/>
+  <path d="M300,70 L300,250" stroke="#2E6F40" stroke-width="8"/>
+  <path d="M300,110 L250,100 M300,160 L246,154 M300,210 L256,200" stroke="#2E6F40" stroke-width="3"/>
+  <text x="24" y="68" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">funnel</text>
+  <!-- stake and line -->
+  <path d="M340,40 L340,250" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M328,250 L352,250" stroke-width="3"/>
+  <text x="316" y="36" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">stake</text>
+  <path d="M340,80 L230,120" stroke="#1B6B93" stroke-width="3"/>
+  <!-- noose -->
+  <ellipse cx="180" cy="160" rx="36" ry="48" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M160,120 L168,108 M200,120 L192,108" stroke="#5A5A5A" stroke-width="2"/>
+  <text x="120" y="230" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">big enough for the head</text>
+  <text x="120" y="248" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">not low enough for a foot</text>
+  <!-- trail arrow -->
+  <path d="M90,270 L250,270" stroke="#8A6A42" stroke-width="4"/>
+  <path d="M250,270 L238,262 M250,270 L238,278" stroke="#8A6A42" stroke-width="3"/>
+  <text x="130" y="292" fill="#8A6A42" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">game trail</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Rabbit or squirrel belly. Shallow slit, then pull the guts.</text>
+  <!-- body cavity -->
+  <path d="M40,70 L200,60 L210,200 L50,210 Z" fill="#F7F3EA" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M70,80 L180,74" stroke="#1B6B93" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="70" y="100" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">slit the belly wall only</text>
+  <!-- liver -->
+  <path d="M70,120 C70,108 120,108 128,124 C132,140 100,150 78,142 Z" fill="#8C3A32"/>
+  <circle cx="96" cy="128" r="6" fill="#2E6F40" stroke="#1A1A1A"/>
+  <text x="136" y="128" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">green bile sac</text>
+  <text x="48" y="158" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">do not break it</text>
+  <!-- intestines -->
+  <path d="M80,170 C100,188 90,200 110,190 C96,206 78,198 80,180" stroke="#E7B4A8" stroke-width="8"/>
+  <text x="48" y="196" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">don't cut the gut</text>
+  <!-- bladder -->
+  <ellipse cx="168" cy="176" rx="14" ry="10" fill="#F5D76E" stroke="#C62828"/>
+  <text x="154" y="198" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">bladder</text>
+  <!-- bad liver inset -->
+  <rect x="230" y="50" width="156" height="180" rx="8" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <text x="242" y="72" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">DO NOT EAT</text>
+  <path d="M258,96 C258,84 310,84 318,100 C324,120 290,132 262,124 Z" fill="#8C3A32"/>
+  <circle cx="274" cy="108" r="3" fill="#FFFFFF" stroke="none"/>
+  <circle cx="288" cy="114" r="3" fill="#FFFFFF" stroke="none"/>
+  <circle cx="300" cy="104" r="3" fill="#FFFFFF" stroke="none"/>
+  <circle cx="282" cy="120" r="2.5" fill="#FFFFFF" stroke="none"/>
+  <text x="242" y="156" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">Many white spots</text>
+  <text x="242" y="174" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">on the liver, or a</text>
+  <text x="242" y="192" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">big swollen spleen.</text>
+  <text x="242" y="214" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Wash your hands.</text>
+  <text x="16" y="286" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13">A smooth dark-red liver is normal. Spots mean disease.</text>
+</svg>
