@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Bleach: drops from a dropper into a clear gallon jug, count the drops, mix, wait half an hour -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="215" cy="262" rx="160" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- PLAIN WHITE BLEACH BOTTLE with blank label and a drop symbol -->
+  <path d="M74,258 L74,178 C74,166 82,158 94,154 L100,142 L118,142 L122,154 C134,158 142,166 142,178 L142,258 Z" fill="#FFFFFF"/>
+  <path d="M124,160 C134,160 138,168 138,178 L128,178 C128,172 126,170 122,170 Z" fill="#F4F1EA"/>
+  <rect x="98" y="130" width="22" height="13" rx="3" fill="#5A5A5A"/>
+  <path d="M104,132 L104,141 M110,132 L110,141 M116,132 L116,141" fill="none" stroke="#1A1A1A" stroke-width="1.5"/>
+  <rect x="82" y="194" width="52" height="48" rx="4" fill="#FFFFFF"/>
+  <path d="M108,202 C114,212 118,218 118,224 C118,230 114,234 108,234 C102,234 98,230 98,224 C98,218 102,212 108,202 Z" fill="#1B6B93" stroke-width="2"/>
+  <path d="M80,186 L80,252" fill="none" stroke="#D6D0C4" stroke-width="4"/>
+
+  <!-- CLEAR GALLON JUG, open mouth -->
+  <path d="M176,262 C166,262 162,258 162,250 L162,176 C162,164 172,158 186,154 L196,146 L196,132 L224,132 L224,146 L234,154 C248,158 258,164 258,176 L258,250 C258,258 254,262 244,262 Z" fill="#D7E6EE"/>
+  <path d="M163,180 L257,180 L257,250 C257,257 253,261 244,261 L176,261 C167,261 163,257 163,250 Z" fill="#B3C9D0" stroke="none"/>
+  <path d="M163,180 L257,180" fill="none" stroke="#1B6B93" stroke-width="2"/>
+  <path d="M176,262 C166,262 162,258 162,250 L162,176 C162,164 172,158 186,154 L196,146 L196,132 L224,132 L224,146 L234,154 C248,158 258,164 258,176 L258,250 C258,258 254,262 244,262 Z" fill="none"/>
+  <ellipse cx="210" cy="132" rx="14" ry="4" fill="#5A5A5A"/>
+  <path d="M174,192 L174,250" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <!-- mix swirl arrow around the jug -->
+  <path d="M176,206 C170,230 250,232 246,206 C244,196 232,192 222,194" fill="none" stroke="#1B6B93" stroke-width="4.5"/>
+  <path d="M228,186 L220,194 L230,202" fill="none" stroke="#1B6B93" stroke-width="4.5"/>
+
+  <!-- DROPPER over the jug mouth, drops falling -->
+  <path d="M206,64 L214,64 L214,104 L211,112 L209,112 L206,104 Z" fill="#D7E6EE"/>
+  <path d="M208,88 L212,88 L212,104 L210,109 L208,104 Z" fill="#B3C9D0" stroke="none"/>
+  <path d="M210,114 C213,118 214,121 214,123 C214,126 212,128 210,128 C208,128 206,126 206,123 C206,121 207,118 210,114 Z" fill="#D7E6EE" stroke-width="2"/>
+  <path d="M203,64 L217,64 L217,58 L203,58 Z" fill="#5A5A5A"/>
+  <path d="M203,58 C196,46 198,24 210,22 C222,24 224,46 217,58 Z" fill="#5A5A5A"/>
+
+  <!-- hand pinching the bulb, blue sleeve from the upper left -->
+  <path d="M90,-12 C110,4 128,18 146,30" fill="none" stroke="#1A1A1A" stroke-width="34"/>
+  <path d="M90,-12 C110,4 128,18 146,30" fill="none" stroke="#1B6B93" stroke-width="29"/>
+  <path d="M144,32 C158,38 168,42 178,44" fill="none" stroke="#1A1A1A" stroke-width="24"/>
+  <path d="M144,32 C158,38 168,42 178,44" fill="none" stroke="#EED2A4" stroke-width="19"/>
+  <path d="M138,14 C146,22 148,34 144,46" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- index finger arching over the top of the bulb, tip on the far right side -->
+  <path d="M182,30 C188,16 204,10 216,12 C226,14 232,24 230,36 C229,42 222,42 221,36 C221,28 218,22 212,22 C204,22 196,28 192,36 Z" fill="#EED2A4"/>
+  <!-- palm -->
+  <path d="M170,36 C176,28 186,26 194,30 L198,40 C198,50 192,58 182,58 C172,58 166,46 170,36 Z" fill="#EED2A4"/>
+  <!-- thumb pressing the near side of the bulb -->
+  <path d="M186,52 C192,46 200,42 206,42 C212,42 213,50 208,53 C202,56 196,58 190,60 C184,61 182,56 186,52 Z" fill="#EED2A4"/>
+  <path d="M206,45 C208,47 208,50 206,52" fill="none" stroke-width="1.8"/>
+  <path d="M224,30 C226,32 226,35 224,37" fill="none" stroke-width="1.8"/>
+
+  <!-- CLOCK: half hour shaded -->
+  <circle cx="318" cy="152" r="44" fill="#FFFFFF" stroke-width="4"/>
+  <path d="M318,152 L318,112 A40,40 0 0 1 318,192 Z" fill="#D7E6EE" stroke="none"/>
+  <path d="M318,112 A40,40 0 0 1 318,192" fill="none" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M318,112 L318,120 M358,152 L350,152 M318,192 L318,184 M278,152 L286,152" fill="none" stroke-width="3"/>
+  <path d="M338,118 L336,122 M352,132 L348,134 M352,172 L348,170 M338,186 L336,182 M298,186 L300,182 M284,172 L288,170 M284,132 L288,134 M298,118 L300,122" fill="none" stroke-width="2"/>
+  <path d="M318,152 L318,186" fill="none" stroke="#1A1A1A" stroke-width="4"/>
+  <path d="M318,152 L298,140" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+  <circle cx="318" cy="152" r="4.5" fill="#1A1A1A"/>
+
+  <!-- counted drops: a row of eight -->
+  <g fill="#B3C9D0" stroke-width="2">
+    <path d="M282,220 C286,226 288,230 288,233 C288,237 285,239 282,239 C279,239 276,237 276,233 C276,230 278,226 282,220 Z"/>
+    <path d="M296,220 C300,226 302,230 302,233 C302,237 299,239 296,239 C293,239 290,237 290,233 C290,230 292,226 296,220 Z"/>
+    <path d="M310,220 C314,226 316,230 316,233 C316,237 313,239 310,239 C307,239 304,237 304,233 C304,230 306,226 310,220 Z"/>
+    <path d="M324,220 C328,226 330,230 330,233 C330,237 327,239 324,239 C321,239 318,237 318,233 C318,230 320,226 324,220 Z"/>
+    <path d="M338,220 C342,226 344,230 344,233 C344,237 341,239 338,239 C335,239 332,237 332,233 C332,230 334,226 338,220 Z"/>
+    <path d="M352,220 C356,226 358,230 358,233 C358,237 355,239 352,239 C349,239 346,237 346,233 C346,230 348,226 352,220 Z"/>
+    <path d="M366,220 C370,226 372,230 372,233 C372,237 369,239 366,239 C363,239 360,237 360,233 C360,230 362,226 366,220 Z"/>
+    <path d="M380,220 C384,226 386,230 386,233 C386,237 383,239 380,239 C377,239 374,237 374,233 C374,230 376,226 380,220 Z"/>
+  </g>
+</svg>

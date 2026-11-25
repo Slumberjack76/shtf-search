@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Right: forearm laid on padding on a rigid board that runs past the elbow and past the wrist; tied at two points away from the injury -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="206" cy="246" rx="192" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- rigid board: top face, front edge, end -->
+  <path d="M28,196 L384,196 L374,212 L18,212 Z" fill="#D6D0C4"/>
+  <path d="M18,212 L374,212 L374,240 L18,240 Z" fill="#D6D0C4"/>
+  <path d="M374,212 L384,196 L384,224 L374,240 Z" fill="#D6D0C4"/>
+  <path d="M40,224 C100,222 160,226 220,223 M240,230 C290,228 330,231 362,228" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+
+  <!-- soft padding on the board -->
+  <path d="M60,206 C56,194 64,184 78,186 C130,182 230,182 330,184 C352,182 368,186 370,196 C372,206 364,210 352,210 C330,212 310,208 286,212 C256,214 226,208 196,212 C166,214 136,208 106,212 C86,214 64,214 60,206 Z" fill="#FFFFFF"/>
+  <path d="M120,192 C124,198 128,204 130,210 M230,190 C234,198 236,204 238,210" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+
+  <!-- PATIENT arm resting on the padding; elbow at x=120, wrist at x=300 -->
+  <path d="M60,112 C82,112 104,116 116,120 C122,126 130,126 136,124 C200,132 260,140 304,146 L306,196 C250,196 190,196 140,196 C128,202 112,202 104,196 L60,196 Z" fill="#EED2A4"/>
+  <!-- inner elbow crease and elbow point -->
+  <path d="M116,122 C122,132 130,134 138,132" fill="none" stroke-width="2"/>
+  <path d="M112,186 C116,192 124,194 132,192" fill="none" stroke-width="1.8"/>
+
+  <!-- hand, palm down, relaxed with fingers loosely curled onto the pad -->
+  <path d="M300,146 C322,148 340,152 352,158 L354,196 L304,196 Z" fill="#EED2A4" stroke="none"/>
+  <path d="M302,146 C322,148 340,152 352,158" fill="none"/>
+  <!-- curled fingers, far to near -->
+  <path d="M342,154 C358,154 372,162 376,176 C378,186 372,192 366,188 C364,178 356,170 344,168 Z" fill="#EED2A4"/>
+  <path d="M344,162 C360,164 370,176 370,188 C370,196 362,199 358,194 C358,184 352,178 342,176 Z" fill="#EED2A4"/>
+  <path d="M340,170 C354,174 362,186 360,196 C358,201 350,201 348,196 C348,188 342,184 334,182 Z" fill="#EED2A4"/>
+  <!-- thumb on the near side, resting forward on the pad -->
+  <path d="M308,178 C320,174 334,178 342,186 C346,192 342,198 336,197 L306,197" fill="#EED2A4"/>
+  <path d="M336,191 C338,189 340,189 342,191" fill="none" stroke-width="1.6"/>
+
+  <!-- gold sleeve on the upper arm -->
+  <path d="M-4,100 C24,98 52,100 70,104 C78,132 78,180 70,206 C46,208 20,208 -4,206 Z" fill="#F5D76E"/>
+  <path d="M58,106 C66,132 66,178 58,204" fill="none" stroke-width="1.8"/>
+
+  <!-- cloth tie between elbow and injury -->
+  <path d="M152,126 C158,126 168,127 174,128 L176,242 C168,243 158,243 152,242 Z" fill="#FFFFFF"/>
+  <path d="M158,138 L158,236 M169,138 L170,236" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+  <path d="M154,128 C146,118 146,108 154,108 C160,108 162,118 163,127 C166,118 172,108 178,110 C182,114 178,124 172,128 Z" fill="#FFFFFF" stroke-width="2.2"/>
+  <ellipse cx="163" cy="128" rx="6" ry="4" fill="#FFFFFF" stroke-width="2.2"/>
+
+  <!-- cloth tie between injury and wrist -->
+  <path d="M262,140 C268,140 278,141 284,142 L286,242 C278,243 268,243 262,242 Z" fill="#FFFFFF"/>
+  <path d="M268,152 L268,236 M279,152 L280,236" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+  <path d="M264,142 C256,132 256,122 264,122 C270,122 272,132 273,141 C276,132 282,122 288,124 C292,128 288,138 282,142 Z" fill="#FFFFFF" stroke-width="2.2"/>
+  <ellipse cx="273" cy="142" rx="6" ry="4" fill="#FFFFFF" stroke-width="2.2"/>
+</svg>

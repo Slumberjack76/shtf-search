@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Tourniquet on the upper arm, 2 to 3 inches above the wound (toward the shoulder), well above the elbow; rescuer twists the windlass -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="220" cy="262" rx="180" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- PATIENT arm lying flat, shoulder at left, forearm and hand off to the right -->
+  <path d="M84,150 C150,148 240,152 296,160 C302,164 308,164 314,162 C346,164 376,166 404,166 L404,204 C376,206 348,210 330,214 C324,224 312,226 304,220 C240,222 150,222 84,222 Z" fill="#EED2A4"/>
+  <!-- inner elbow crease -->
+  <path d="M300,164 C304,170 308,172 312,172" fill="none" stroke-width="2"/>
+  <!-- gold sleeve and shoulder -->
+  <path d="M-4,118 C30,112 80,124 110,142 C118,170 118,204 112,226 C80,232 30,232 -4,230 Z" fill="#F5D76E"/>
+  <path d="M100,148 C106,172 106,204 100,224" fill="none" stroke-width="1.8"/>
+
+  <!-- small white dressing over the wound -->
+  <path d="M232,152 C242,152 254,153 262,154 L264,220 C252,221 242,221 232,221 Z" fill="#FFFFFF"/>
+  <path d="M242,160 L242,212 M254,160 L254,212" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+
+  <!-- TOURNIQUET band around the upper arm, toward the shoulder from the wound -->
+  <path d="M164,145 C174,144 186,144 196,145 L198,224 C188,226 174,226 162,224 Z" fill="#1A1A1A"/>
+  <path d="M172,150 L172,220 M188,150 L188,220" fill="none" stroke="#5A5A5A" stroke-width="2"/>
+  <!-- red tab on the free end -->
+  <path d="M166,222 L152,250 L166,256 L178,226 Z" fill="#C62828"/>
+  <!-- windlass clip -->
+  <path d="M168,150 L172,134 L188,134 L192,150 Z" fill="#5A5A5A"/>
+  <path d="M174,140 L186,140" fill="none" stroke-width="2"/>
+  <!-- windlass rod, being turned -->
+  <path d="M116,186 L246,112" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M116,186 L246,112" fill="none" stroke="#5A5A5A" stroke-width="8"/>
+
+  <!-- gap bracket: band to wound -->
+  <path d="M180,234 L180,244 L248,244 L248,234" fill="none" stroke="#1B6B93" stroke-width="3" stroke-dasharray="6 5"/>
+
+  <!-- RESCUER left hand: fist around the near end of the rod -->
+  <path d="M60,-14 L124,150" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M60,-14 L124,150" fill="none" stroke="#1B6B93" stroke-width="35"/>
+  <path d="M72,10 L118,128" fill="none" stroke="#14526F" stroke-width="2"/>
+  <path d="M116,150 C114,138 124,130 136,132 C148,134 158,142 160,156 C162,170 152,180 140,180 C128,180 118,166 116,150 Z" fill="#EED2A4"/>
+  <!-- curled fingers wrapping under the rod -->
+  <path d="M132,178 C140,180 148,176 150,170 M138,182 C148,184 158,178 160,168" fill="none" stroke-width="1.8"/>
+  <path d="M130,174 C128,182 132,190 140,190 C150,190 160,182 160,168" fill="#EED2A4"/>
+  <path d="M140,190 C138,184 140,178 146,176 M152,186 C150,180 152,174 158,172" fill="none" stroke-width="1.8"/>
+  <!-- thumb pressing along the top of the rod -->
+  <path d="M132,140 C142,134 156,130 164,132 C170,134 170,142 164,144 C156,146 146,150 140,154 Z" fill="#EED2A4"/>
+  <path d="M162,134 C164,137 164,140 163,142" fill="none" stroke-width="1.6"/>
+
+  <!-- RESCUER right hand: fist around the far end of the rod -->
+  <path d="M284,-14 L236,112" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M284,-14 L236,112" fill="none" stroke="#1B6B93" stroke-width="35"/>
+  <path d="M274,8 L240,96" fill="none" stroke="#14526F" stroke-width="2"/>
+  <path d="M206,124 C204,110 214,100 228,100 C240,100 248,110 246,124 C244,136 232,144 220,142 C212,140 208,134 206,124 Z" fill="#EED2A4"/>
+  <!-- curled fingers on the near side of the rod -->
+  <path d="M204,130 C204,142 214,150 226,146 C234,144 240,138 242,130" fill="#EED2A4"/>
+  <path d="M214,146 C214,140 216,136 220,134 M226,146 C226,140 228,134 232,132" fill="none" stroke-width="1.8"/>
+  <!-- thumb along the top of the rod -->
+  <path d="M230,104 C222,104 210,108 202,114 C198,118 200,124 206,124 C214,122 222,118 228,116 Z" fill="#EED2A4"/>
+  <path d="M204,116 C203,119 204,122 206,123" fill="none" stroke-width="1.6"/>
+
+  <!-- twist arrow -->
+  <path d="M142,108 C150,74 200,64 216,88" fill="none" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M202,86 L217,90 L219,74" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

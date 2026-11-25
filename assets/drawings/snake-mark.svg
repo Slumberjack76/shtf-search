@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Snakebite care: lower leg resting flat, clean cloth laid loosely over two small puncture dots, helper marks the edge of the swelling with a pen; soap and water nearby -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="200" cy="216" rx="190" ry="12" fill="#D6D0C4" stroke="none"/>
+
+  <!-- lower leg lying flat, knee at left, foot at right -->
+  <path d="M30,134 C110,130 210,136 304,150 L304,188 C280,192 240,198 200,206 C150,216 90,216 30,212 Z" fill="#EED2A4"/>
+  <!-- slight swelling around the bite -->
+  <path d="M150,136 C170,128 210,130 226,140" fill="#EED2A4"/>
+  <path d="M152,137 C172,134 206,136 224,141" fill="none" stroke="#EED2A4" stroke-width="4"/>
+  <!-- rolled pant cuff at the knee -->
+  <path d="M0,128 L44,126 C50,150 50,196 44,216 L0,216 Z" fill="#A8C2CC"/>
+  <path d="M44,126 C38,150 38,194 44,216" fill="none" stroke-width="2"/>
+  <path d="M30,128 C26,152 26,192 30,214" fill="none" stroke="#8FB0C2" stroke-width="2"/>
+  <!-- shoe, toes up -->
+  <path d="M298,146 C304,118 320,96 338,94 C350,94 354,104 350,118 L334,198 C320,206 302,204 298,192 Z" fill="#5A5A5A"/>
+  <path d="M300,190 L334,192" fill="none" stroke-width="2"/>
+  <path d="M298,146 C300,160 300,178 298,192" fill="none" stroke-width="2"/>
+
+  <!-- faint dashed ring drawn on the skin around the swelling -->
+  <ellipse cx="188" cy="168" rx="62" ry="30" fill="none" stroke="#5A5A5A" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <!-- time written beside the ring (abstract squiggle) -->
+  <path d="M106,196 C110,190 112,200 116,194 C120,188 122,200 126,194" fill="none" stroke="#5A5A5A" stroke-width="2"/>
+
+  <!-- two tiny puncture dots, peeking out where the cloth edge is turned back -->
+  <circle cx="156" cy="170" r="2.6" fill="#1A1A1A" stroke="none"/>
+  <circle cx="167" cy="172" r="2.6" fill="#1A1A1A" stroke="none"/>
+  <!-- clean white cloth laid loosely over the bite, left edge turned back -->
+  <path d="M184,152 C202,146 224,148 240,154 L244,188 C226,194 204,194 186,190 C190,178 190,164 184,152 Z" fill="#FFFFFF"/>
+  <path d="M184,152 C190,164 190,178 186,190 L174,184 C178,174 180,164 184,152 Z" fill="#D6D0C4" stroke-width="2"/>
+  <path d="M208,152 C210,164 210,178 208,190 M226,152 C228,166 228,178 226,190" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+
+  <!-- helper's hand drawing the ring with a pen -->
+  <path d="M300,0 C292,30 282,60 272,88" fill="none" stroke="#1A1A1A" stroke-width="24"/>
+  <path d="M300,0 C292,30 282,60 272,88" fill="none" stroke="#1B6B93" stroke-width="19"/>
+  <path d="M274,84 L262,110" fill="none" stroke="#1A1A1A" stroke-width="20"/>
+  <path d="M274,84 L262,110" fill="none" stroke="#EED2A4" stroke-width="15"/>
+  <!-- pen -->
+  <path d="M234,142 L262,104 L270,110 L242,146 Z" fill="#1B6B93"/>
+  <path d="M234,142 L242,146 L236,150 Z" fill="#1A1A1A"/>
+  <!-- hand: curled fingers, index finger along the pen, thumb on the near side -->
+  <path d="M256,108 C258,96 272,90 282,98 C288,106 284,120 274,126 C266,130 258,128 256,122 Z" fill="#EED2A4"/>
+  <path d="M270,108 L248,134" fill="none" stroke="#1A1A1A" stroke-width="11"/>
+  <path d="M270,108 L248,134" fill="none" stroke="#EED2A4" stroke-width="6.5"/>
+  <path d="M262,118 C254,118 248,124 250,130 C254,132 258,128 262,126" fill="#EED2A4" stroke-width="2"/>
+  <path d="M266,122 C270,124 274,122 276,118" fill="none" stroke-width="2"/>
+
+  <!-- soap bar and water bottle beside the leg -->
+  <path d="M92,244 C92,236 98,232 106,232 L140,232 C148,232 152,236 152,244 L152,252 C152,260 148,264 140,264 L106,264 C98,264 92,260 92,252 Z" fill="#FFFFFF"/>
+  <path d="M104,240 C114,238 132,238 142,240" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+  <path d="M110,226 C108,222 112,218 115,221 M126,224 C124,219 129,216 131,219" fill="none" stroke="#B3C9D0" stroke-width="2"/>
+  <path d="M200,240 L282,240 C290,240 296,246 296,254 C296,262 290,268 282,268 L200,268 C194,268 190,262 190,254 C190,246 194,240 200,240 Z" fill="#D7E6EE"/>
+  <path d="M192,254 L296,254 C296,262 290,268 282,268 L200,268 C194,268 192,262 192,254 Z" fill="#B3C9D0" stroke="none"/>
+  <path d="M200,240 L282,240 C290,240 296,246 296,254 C296,262 290,268 282,268 L200,268 C194,268 190,262 190,254 C190,246 194,240 200,240 Z" fill="none"/>
+  <path d="M296,246 L310,248 L310,260 L296,262 Z" fill="#1B6B93"/>
+  <path d="M220,240 L220,268 M262,240 L262,268" fill="none" stroke="#B3C9D0" stroke-width="2"/>
+</svg>

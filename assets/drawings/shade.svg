@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Move to shade: helper (blue) supports an overheated person (gold) out of the sun and under a ramada -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- desert ground line and shade patch under the ramada -->
+  <path d="M0,262 L400,262" fill="none" stroke="#D6D0C4" stroke-width="3"/>
+  <path d="M250,256 L400,256 L400,282 L236,282 Z" fill="#D6D0C4" stroke="none"/>
+  <ellipse cx="200" cy="270" rx="70" ry="6" fill="#D6D0C4" stroke="none"/>
+
+  <!-- SUN and heat on the left -->
+  <circle cx="62" cy="58" r="22" fill="#F5D76E"/>
+  <path d="M62,24 L62,14 M62,92 L62,102 M28,58 L18,58 M96,58 L106,58 M38,34 L31,27 M86,34 L93,27 M38,82 L31,89 M86,82 L93,89" fill="none" stroke="#E08A00" stroke-width="3"/>
+  <path d="M34,128 C40,120 46,136 52,128 C58,120 64,136 70,128 C76,120 82,136 88,128" fill="none" stroke="#E08A00" stroke-width="3"/>
+  <path d="M28,160 C34,152 40,168 46,160 C52,152 58,168 64,160 C70,152 76,168 82,160" fill="none" stroke="#E08A00" stroke-width="3"/>
+  <path d="M40,192 C46,184 52,200 58,192 C64,184 70,200 76,192 C82,184 88,200 94,192" fill="none" stroke="#E08A00" stroke-width="3"/>
+  <!-- small desert plant -->
+  <path d="M104,262 L104,226 M104,240 C96,240 94,234 94,226 M104,236 C112,236 114,230 114,222" fill="none" stroke="#2E6F40" stroke-width="7"/>
+
+  <!-- RAMADA on the right (roof kept below the top-right corner) -->
+  <path d="M276,96 L276,262 M384,96 L384,262" fill="none" stroke="#1A1A1A" stroke-width="11"/>
+  <path d="M276,96 L276,262 M384,96 L384,262" fill="none" stroke="#5A5A5A" stroke-width="6"/>
+  <path d="M252,80 L398,80 L398,98 L252,98 Z" fill="#5A5A5A"/>
+  <path d="M262,80 L262,98 M282,80 L282,98 M302,80 L302,98 M322,80 L322,98 M342,80 L342,98 M362,80 L362,98 M382,80 L382,98" fill="none" stroke="#1A1A1A" stroke-width="1.8"/>
+
+  <!-- HELPER (blue), right, facing viewer, turned toward the shade -->
+  <!-- legs in stride -->
+  <path d="M222,206 L250,206 L258,258 L244,260 L236,226 L232,260 L216,260 Z" fill="#5A5A5A"/>
+  <path d="M214,258 L234,258 C240,258 242,266 236,268 L212,268 Z" fill="#1A1A1A"/>
+  <path d="M244,256 L262,256 C270,257 272,265 266,267 L244,267 Z" fill="#1A1A1A"/>
+  <!-- right arm (viewer left) reaching behind the patient's back -->
+  <path d="M216,158 C208,174 200,186 192,196" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M216,158 C208,174 200,186 192,196" fill="none" stroke="#1B6B93" stroke-width="12"/>
+  <!-- torso -->
+  <path d="M214,150 C222,144 250,144 258,150 C262,170 258,192 254,210 L218,210 C214,192 210,170 214,150 Z" fill="#1B6B93"/>
+  <path d="M236,152 L236,206" fill="none" stroke="#14526F" stroke-width="2"/>
+
+  <!-- PATIENT (gold), left, slumped toward helper -->
+  <!-- legs, dragging step -->
+  <path d="M150,208 L184,208 L188,258 L174,260 L168,228 L162,260 L146,260 Z" fill="#A8C2CC"/>
+  <path d="M168,228 L168,252" fill="none" stroke="#8FB0C2" stroke-width="2"/>
+  <path d="M144,258 L164,258 C170,258 172,266 166,268 L142,268 Z" fill="#1A1A1A"/>
+  <path d="M174,256 L192,256 C200,257 202,265 196,267 L174,267 Z" fill="#1A1A1A"/>
+  <!-- torso, leaning toward helper -->
+  <path d="M146,156 C156,148 182,146 194,152 C196,172 190,192 186,212 L150,212 C146,192 142,174 146,156 Z" fill="#F5D76E"/>
+  <!-- limp left arm (viewer left) hanging at the side -->
+  <path d="M148,162 C142,180 140,196 142,212" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M148,162 C142,180 140,196 142,206" fill="none" stroke="#F5D76E" stroke-width="11"/>
+  <path d="M142,200 L142,224" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M142,200 L142,224" fill="none" stroke="#EED2A4" stroke-width="8.5"/>
+  <circle cx="142" cy="228" r="6" fill="#EED2A4"/>
+  <!-- patient's right arm across the helper's shoulders (behind helper's neck) -->
+  <path d="M190,158 C202,146 220,142 240,142 C250,142 258,146 262,152" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M190,158 C202,146 216,143 226,143" fill="none" stroke="#F5D76E" stroke-width="10"/>
+  <path d="M222,143 C236,142 250,143 258,150" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <!-- patient neck and head, tilted, eyes half closed, sweating -->
+  <path d="M164,140 L178,138 L180,152 L166,154 Z" fill="#EED2A4"/>
+  <path d="M152,120 C150,106 160,96 173,96 C186,96 194,106 194,119 C194,132 185,142 173,142 C162,142 154,134 152,120 Z" fill="#EED2A4"/>
+  <path d="M152,120 C148,104 160,92 174,94 C186,95 195,104 194,116 C188,108 180,104 172,104 C164,106 158,112 156,122 Z" fill="#5A5A5A"/>
+  <path d="M174,118 C177,120 180,120 182,118" fill="none" stroke-width="2"/>
+  <path d="M186,118 C188,120 190,120 192,118" fill="none" stroke-width="2"/>
+  <path d="M180,132 C183,131 186,131 188,132" fill="none" stroke-width="2"/>
+  <path d="M160,122 C164,120 166,126 162,128" fill="#E2BB82" stroke-width="2"/>
+  <path d="M148,128 C145,133 146,137 149,137 C152,137 152,133 148,128 Z" fill="#D7E6EE" stroke-width="1.8"/>
+  <path d="M199,114 C196,119 197,123 200,123 C203,123 203,119 199,114 Z" fill="#D7E6EE" stroke-width="1.8"/>
+
+  <!-- helper neck and head, looking at patient -->
+  <path d="M229,132 L243,132 L243,146 L229,146 Z" fill="#EED2A4"/>
+  <path d="M216,114 C216,100 226,92 238,92 C250,92 258,102 258,114 C258,128 248,136 237,136 C226,136 216,128 216,114 Z" fill="#EED2A4"/>
+  <path d="M216,114 C214,98 226,88 240,90 C252,91 260,100 258,112 C254,104 246,100 236,102 C228,104 222,108 220,116 Z" fill="#5A5A5A"/>
+  <circle cx="226" cy="116" r="2" fill="#1A1A1A" stroke="none"/>
+  <circle cx="240" cy="116" r="2" fill="#1A1A1A" stroke="none"/>
+  <path d="M228,126 C231,128 235,128 238,126" fill="none" stroke-width="2"/>
+  <path d="M254,114 C258,112 260,118 256,120" fill="#E2BB82" stroke-width="2"/>
+
+  <!-- helper's left arm (viewer right): elbow down, hand up holding the patient's wrist at the shoulder -->
+  <path d="M258,154 C266,168 270,180 270,190" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M258,154 C266,168 270,180 270,190" fill="none" stroke="#1B6B93" stroke-width="12"/>
+  <path d="M270,188 C272,176 270,164 264,156" fill="none" stroke="#1A1A1A" stroke-width="14"/>
+  <path d="M270,188 C272,176 270,164 264,156" fill="none" stroke="#EED2A4" stroke-width="9"/>
+  <!-- patient's hand draped over the helper's shoulder -->
+  <path d="M256,146 C264,146 268,152 266,160 C262,164 256,162 254,156 Z" fill="#EED2A4"/>
+  <!-- helper's hand gripping it, thumb on top -->
+  <path d="M258,152 C262,146 272,146 274,154 C276,160 270,164 262,162 Z" fill="#EED2A4"/>
+  <path d="M262,150 C264,145 270,144 272,148" fill="none" stroke-width="2"/>
+
+  <!-- arrow: moving into the shade -->
+  <path d="M150,288 L250,288 M240,280 L252,288 L240,296" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

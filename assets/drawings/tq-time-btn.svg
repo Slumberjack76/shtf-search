@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Mark the time: tourniquet locked on the upper arm, rescuer writes on the white time tab; a stopwatch floats beside -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="220" cy="262" rx="180" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- PATIENT arm lying flat, shoulder at left, forearm off to the right -->
+  <path d="M84,150 C150,148 240,152 296,160 C302,164 308,164 314,162 C346,164 376,166 404,166 L404,204 C376,206 348,210 330,214 C324,224 312,226 304,220 C240,222 150,222 84,222 Z" fill="#EED2A4"/>
+  <path d="M300,164 C304,170 308,172 312,172" fill="none" stroke-width="2"/>
+  <!-- gold sleeve and shoulder -->
+  <path d="M-4,118 C30,112 80,124 110,142 C118,170 118,204 112,226 C80,232 30,232 -4,230 Z" fill="#F5D76E"/>
+  <path d="M100,148 C106,172 106,204 100,224" fill="none" stroke-width="1.8"/>
+
+  <!-- small white dressing over the wound -->
+  <path d="M236,152 C246,152 256,153 264,154 L266,220 C256,221 246,221 236,221 Z" fill="#FFFFFF"/>
+  <path d="M246,160 L246,212 M256,160 L256,212" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+
+  <!-- TOURNIQUET band -->
+  <path d="M150,145 C164,144 188,144 202,145 L204,224 C188,226 164,226 148,224 Z" fill="#1A1A1A"/>
+  <!-- red tab on the free end -->
+  <path d="M154,222 L140,250 L154,256 L166,226 Z" fill="#C62828"/>
+  <!-- windlass rod laid along the band, end locked in the clip -->
+  <path d="M176,150 L176,212" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M176,150 L176,212" fill="none" stroke="#5A5A5A" stroke-width="8"/>
+  <!-- clip: a hook over the lower end of the rod -->
+  <path d="M160,218 L160,200 C160,192 192,192 192,200 L192,218 L184,218 L184,204 C184,200 168,200 168,204 L168,218 Z" fill="#5A5A5A"/>
+  <!-- white time tab across the band, over the rod -->
+  <path d="M144,160 L208,160 L208,188 L144,188 Z" fill="#FFFFFF"/>
+  <!-- abstract writing marks -->
+  <path d="M152,170 C155,166 157,176 160,170 C163,165 165,176 168,170 M152,180 C156,176 158,184 162,179 C165,176 168,183 172,179" fill="none" stroke-width="2"/>
+
+  <!-- RESCUER hand writing with a marker, coming in from the upper right -->
+  <path d="M302,-14 L266,96" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M302,-14 L266,96" fill="none" stroke="#1B6B93" stroke-width="35"/>
+  <path d="M294,8 L268,82" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- back of hand -->
+  <path d="M232,120 C230,102 248,90 266,94 C282,98 288,116 280,130 C272,142 254,146 242,140 C236,136 232,128 232,120 Z" fill="#EED2A4"/>
+  <!-- middle finger curled under the pen -->
+  <path d="M238,136 C230,146 222,154 214,158 C209,162 213,168 220,166 C230,160 242,152 250,142" fill="#EED2A4"/>
+  <!-- marker, end resting over the web of the hand -->
+  <path d="M188,172 L197,161 L203,169 Z" fill="#1A1A1A" stroke-width="2"/>
+  <path d="M197,161 L269,116 L275,124 L203,169 Z" fill="#FFFFFF"/>
+  <path d="M269,116 L284,107 L290,115 L275,124 Z" fill="#1A1A1A"/>
+  <!-- index finger along the top of the pen -->
+  <path d="M248,108 C236,120 222,134 210,146 C206,152 212,157 217,153 C230,142 244,130 256,120 Z" fill="#EED2A4"/>
+  <path d="M212,148 C214,150 216,151 217,150" fill="none" stroke-width="1.6"/>
+  <!-- thumb on the near side of the pen -->
+  <path d="M262,128 C250,138 236,150 226,158 C221,164 226,169 231,166 C244,158 258,148 270,138 Z" fill="#EED2A4"/>
+
+  <!-- stopwatch, hands only -->
+  <path d="M84,22 L84,30" fill="none" stroke-width="7"/>
+  <path d="M76,18 L92,18" fill="none" stroke-width="6"/>
+  <path d="M108,34 L114,28" fill="none" stroke-width="6"/>
+  <circle cx="84" cy="70" r="38" fill="#FFFFFF" stroke-width="4"/>
+  <path d="M84,40 L84,46 M114,70 L108,70 M84,100 L84,94 M54,70 L60,70" fill="none" stroke-width="2.5"/>
+  <path d="M84,70 L84,48 M84,70 L100,80" fill="none" stroke-width="4"/>
+  <circle cx="84" cy="70" r="4" fill="#1A1A1A" stroke="none"/>
+  <!-- tick lines -->
+  <path d="M132,52 L142,46 M134,70 L146,70 M132,88 L142,94" fill="none" stroke="#1B6B93" stroke-width="3.5"/>
+</svg>

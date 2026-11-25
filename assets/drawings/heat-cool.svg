@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Cool the skin: person lies in shade (seen from above), wet cloths on neck and both armpits, ice pack on the groin over shorts, helper fans with cardboard -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- shade on the ground -->
+  <path d="M40,150 C80,128 300,124 400,140 L400,300 L70,300 C40,270 30,180 40,150 Z" fill="#D6D0C4" stroke="none"/>
+
+  <!-- HELPER kneeling on the far side, facing the viewer -->
+  <!-- thighs and knees (behind the patient's legs) -->
+  <path d="M236,150 L290,150 C298,164 300,178 298,190 L230,190 C228,176 230,162 236,150 Z" fill="#5A5A5A"/>
+  <path d="M264,156 L264,190" fill="none" stroke="#1A1A1A" stroke-width="1.8"/>
+  <!-- torso -->
+  <path d="M238,94 C246,86 282,86 290,94 C294,114 294,136 290,156 L238,156 C234,136 234,114 238,94 Z" fill="#1B6B93"/>
+  <path d="M264,96 L264,152" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- left arm (viewer right) hand resting on the thigh -->
+  <path d="M288,100 C298,118 300,136 296,152" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M288,100 C298,118 300,136 296,152" fill="none" stroke="#1B6B93" stroke-width="11"/>
+  <path d="M296,148 L290,168" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M296,148 L290,168" fill="none" stroke="#EED2A4" stroke-width="8.5"/>
+  <path d="M282,168 C284,162 296,162 298,168 C298,176 286,178 282,172 Z" fill="#EED2A4"/>
+  <!-- neck and head, looking down at the patient -->
+  <path d="M256,78 L272,78 L272,92 L256,92 Z" fill="#EED2A4"/>
+  <path d="M244,58 C244,44 252,36 264,36 C276,36 284,44 284,58 C284,72 276,82 264,82 C252,82 244,72 244,58 Z" fill="#EED2A4"/>
+  <path d="M244,58 C242,42 252,32 266,34 C278,35 286,44 284,56 C280,48 272,44 262,46 C254,48 248,52 246,60 Z" fill="#5A5A5A"/>
+  <circle cx="256" cy="63" r="2" fill="#1A1A1A" stroke="none"/>
+  <circle cx="272" cy="63" r="2" fill="#1A1A1A" stroke="none"/>
+  <path d="M258,72 C261,74 266,74 269,72" fill="none" stroke-width="2"/>
+
+  <!-- PATIENT lying face up, head left, arms slightly out from the sides -->
+  <!-- far arm, angled out -->
+  <path d="M124,186 C148,174 168,164 186,156" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M124,186 C136,180 142,177 146,175" fill="none" stroke="#F5D76E" stroke-width="12"/>
+  <path d="M144,176 C160,168 172,162 186,156" fill="none" stroke="#EED2A4" stroke-width="12"/>
+  <path d="M184,150 C194,146 202,150 200,158 C198,164 190,166 184,162 Z" fill="#EED2A4"/>
+  <!-- near arm, angled out -->
+  <path d="M124,244 C148,256 168,266 186,274" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M124,244 C136,250 142,253 146,255" fill="none" stroke="#F5D76E" stroke-width="12"/>
+  <path d="M144,254 C160,262 172,268 186,274" fill="none" stroke="#EED2A4" stroke-width="12"/>
+  <path d="M184,268 C194,266 202,272 200,280 C196,286 188,284 184,280 Z" fill="#EED2A4"/>
+  <!-- legs -->
+  <path d="M256,190 C290,188 330,190 360,192 L360,212 C330,212 290,212 256,212 Z" fill="#EED2A4"/>
+  <path d="M256,218 C290,218 330,218 360,218 L360,238 C330,240 290,242 256,242 Z" fill="#EED2A4"/>
+  <path d="M358,190 C368,186 376,192 376,201 C376,210 368,214 358,211 Z" fill="#1A1A1A"/>
+  <path d="M358,219 C368,216 376,221 376,229 C376,238 368,242 358,239 Z" fill="#1A1A1A"/>
+  <!-- shorts -->
+  <path d="M206,184 L258,186 C264,200 264,230 258,244 L206,246 Z" fill="#A8C2CC"/>
+  <path d="M236,215 L262,215" fill="none" stroke="#8FB0C2" stroke-width="2.5"/>
+  <!-- torso, gold shirt -->
+  <path d="M112,192 C116,182 124,180 134,180 L210,182 C214,198 214,232 210,248 L134,250 C124,250 116,248 112,238 C108,224 108,206 112,192 Z" fill="#F5D76E"/>
+  <path d="M184,190 C186,206 186,226 184,240" fill="none" stroke="#1A1A1A" stroke-width="1.8"/>
+  <!-- neck and head, face up -->
+  <path d="M96,204 L116,202 L116,228 L96,226 Z" fill="#EED2A4"/>
+  <path d="M56,215 C56,201 66,192 80,192 C94,192 104,201 104,215 C104,229 94,238 80,238 C66,238 56,229 56,215 Z" fill="#EED2A4"/>
+  <path d="M80,238 C64,238 54,226 56,212 C58,198 68,192 80,192 C72,198 68,206 68,215 C68,224 72,232 80,238 Z" fill="#5A5A5A"/>
+  <path d="M84,204 C86,206 86,209 84,211" fill="none" stroke-width="2"/>
+  <path d="M84,219 C86,221 86,224 84,226" fill="none" stroke-width="2"/>
+  <path d="M94,212 C96,214 96,218 94,220" fill="none" stroke-width="2"/>
+
+  <!-- wet cloths: neck and both armpits -->
+  <path d="M98,196 C104,194 114,194 120,196 L120,234 C114,236 104,236 98,234 Z" fill="#D7E6EE"/>
+  <path d="M104,198 L104,232 M112,198 L112,232" fill="none" stroke="#B3C9D0" stroke-width="2"/>
+  <path d="M126,176 C134,166 150,162 160,166 L162,182 C150,186 136,188 124,190 Z" fill="#D7E6EE"/>
+  <path d="M134,174 L136,186 M146,168 L148,184" fill="none" stroke="#B3C9D0" stroke-width="2"/>
+  <path d="M126,254 C134,264 150,268 160,264 L162,248 C150,244 136,242 124,240 Z" fill="#D7E6EE"/>
+  <path d="M134,256 L136,244 M146,262 L148,246" fill="none" stroke="#B3C9D0" stroke-width="2"/>
+
+  <!-- ice pack over the shorts at the groin -->
+  <path d="M220,200 C220,194 224,192 230,192 L250,192 C256,192 258,196 258,202 L258,228 C258,234 256,238 250,238 L230,238 C224,238 220,234 220,228 Z" fill="#B3C9D0"/>
+  <path d="M228,200 L238,200 L238,210 L228,210 Z M242,206 L252,206 L252,216 L242,216 Z M230,218 L240,218 L240,228 L230,228 Z" fill="#FFFFFF" stroke-width="1.8"/>
+
+  <!-- helper's right arm (viewer left) holding the cardboard fan over the patient's head and chest -->
+  <path d="M240,100 C222,110 204,116 188,118" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M240,100 C222,110 204,116 188,118" fill="none" stroke="#1B6B93" stroke-width="11"/>
+  <path d="M192,118 L166,116" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M192,118 L166,116" fill="none" stroke="#EED2A4" stroke-width="8.5"/>
+  <!-- cardboard -->
+  <path d="M96,96 L162,86 L170,134 L104,144 Z" fill="#E2BB82"/>
+  <path d="M110,104 L156,98 M114,122 L160,116" fill="none" stroke="#5A5A5A" stroke-width="1.8"/>
+  <!-- hand gripping the edge, thumb on top -->
+  <path d="M170,108 C162,106 156,110 156,116 C156,124 162,126 170,124 Z" fill="#EED2A4"/>
+  <path d="M160,110 C158,104 166,102 170,106" fill="#EED2A4" stroke-width="2"/>
+  <!-- fanning motion and air flow toward the face and neck -->
+  <path d="M90,84 C84,96 84,112 88,124" fill="none" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M80,152 C86,160 80,168 86,176 M100,150 C106,158 100,166 106,174 M120,148 C126,156 120,164 126,172" fill="none" stroke="#1B6B93" stroke-width="3"/>
+
+  <!-- water droplets -->
+  <path d="M138,276 C134,282 135,286 138,286 C141,286 142,282 138,276 Z" fill="#D7E6EE" stroke-width="1.8"/>
+  <path d="M112,248 C108,254 109,258 112,258 C115,258 116,254 112,248 Z" fill="#D7E6EE" stroke-width="1.8"/>
+  <path d="M170,154 C166,160 167,164 170,164 C173,164 174,160 170,154 Z" fill="#D7E6EE" stroke-width="1.8"/>
+</svg>

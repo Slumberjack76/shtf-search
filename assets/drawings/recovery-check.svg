@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Check breathing first: person in gold on the back, eyes closed; rescuer in blue kneels at the head, cheek over the mouth, eyes looking down the chest (look, listen, feel) -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="220" cy="254" rx="165" ry="9" fill="#D6D0C4" stroke="none"/>
+
+  <!-- RESCUER (blue), kneeling upright on the far side by the head and shoulders, bent forward from the hips -->
+  <!-- shins on the floor behind the person, foot showing past the hip -->
+  <path d="M196,236 L250,240 C258,241 262,246 260,252 L198,252 Z" fill="#5A5A5A"/>
+  <!-- thigh, upright from the knee on the floor to the hip -->
+  <path d="M178,170 C188,156 212,156 218,172 L212,248 C204,254 188,254 182,246 Z" fill="#5A5A5A"/>
+  <!-- near arm: upper arm behind the head, forearm down to the forehead -->
+  <path d="M132,126 C112,134 94,146 82,160" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M132,126 C112,134 94,146 82,160" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M82,158 C78,174 75,190 74,204" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M82,158 C78,174 75,190 74,204" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <!-- torso, hinged forward from the hips -->
+  <path d="M118,124 C120,110 136,102 150,106 C172,114 196,134 212,158 C220,172 214,186 200,188 L184,186 C170,168 152,150 132,142 C122,138 116,132 118,124 Z" fill="#1B6B93"/>
+  <path d="M140,112 C164,124 184,142 198,164" fill="none" stroke="#14526F" stroke-width="2"/>
+  <path d="M182,184 C190,176 204,170 216,170" fill="none" stroke-width="2"/>
+  <!-- neck, joining behind the turned head -->
+  <path d="M100,160 L118,118 L136,128 L114,170 Z" fill="#EED2A4"/>
+  <!-- head lowered and turned sideways: cheek just above the mouth, eyes looking down the chest -->
+  <g transform="translate(102,164) rotate(14) scale(-1,1) translate(-271,-56)">
+    <path d="M248,54 C248,40 258,32 271,32 C285,32 294,42 294,56 C294,70 284,80 270,80 C262,80 254,76 250,70 L244,68 C242,66 243,62 246,61 L249,60 Z" fill="#EED2A4"/>
+    <path d="M250,50 C252,36 266,28 280,32 C292,36 298,48 294,62 C290,56 286,50 280,48 C272,52 262,52 252,50 Z" fill="#5A5A5A"/>
+    <circle cx="256" cy="58" r="2" fill="#1A1A1A" stroke="none"/>
+    <path d="M254,71 C257,73 260,73 262,72" fill="none" stroke-width="2"/>
+    <path d="M282,58 C286,56 288,62 284,66" fill="#E2BB82" stroke-width="2"/>
+  </g>
+
+  <!-- PERSON lying on the back, head left -->
+  <!-- far leg -->
+  <path d="M226,206 C258,200 302,204 342,210 L346,226 C302,224 262,222 226,226 Z" fill="#8FB0C2"/>
+  <!-- torso -->
+  <path d="M116,214 C128,202 180,200 226,204 L230,250 C190,254 140,254 120,250 C110,244 108,224 116,214 Z" fill="#F5D76E"/>
+  <!-- near leg -->
+  <path d="M224,214 C262,210 308,214 348,222 L350,248 C308,250 264,252 228,252 Z" fill="#A8C2CC"/>
+  <path d="M292,222 C296,230 296,240 292,250" fill="none" stroke-width="1.8"/>
+  <!-- shoes, toes up -->
+  <path d="M350,226 C354,212 360,198 368,196 C375,196 377,204 375,216 L372,232 Z" fill="#1A1A1A"/>
+  <path d="M344,250 L344,228 C348,214 354,202 362,200 C369,200 371,208 369,220 L366,250 Z" fill="#5A5A5A"/>
+  <path d="M344,244 L366,244" fill="none" stroke-width="2"/>
+  <!-- near arm resting along the side -->
+  <path d="M130,232 C160,236 192,238 212,236" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M130,232 C160,236 192,238 202,237" fill="none" stroke="#F5D76E" stroke-width="10"/>
+  <path d="M192,237 L216,236" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <circle cx="220" cy="236" r="6.5" fill="#EED2A4"/>
+  <!-- neck and head, face up, eyes closed -->
+  <path d="M100,224 L118,218 L120,242 L102,244 Z" fill="#EED2A4"/>
+  <path d="M66,230 C66,216 77,207 90,207 C103,207 112,217 112,230 C112,243 102,252 89,252 C77,252 66,243 66,230 Z" fill="#EED2A4"/>
+  <path d="M89,252 C74,252 66,240 67,228 C68,216 76,209 84,208 C80,214 78,222 82,232 C86,242 96,247 108,246 C103,250 96,252 89,252 Z" fill="#5A5A5A"/>
+  <path d="M88,210 C88,202 92,199 96,202 C97,205 95,208 93,210" fill="#EED2A4" stroke-width="2"/>
+  <path d="M80,214 C82,216 85,216 87,214" fill="none" stroke-width="2"/>
+  <path d="M100,213 C102,215 105,215 106,213" fill="none" stroke-width="2"/>
+  <path d="M91,229 C95,227 97,233 93,235" fill="#E2BB82" stroke-width="2"/>
+  <!-- rescuer hand on the forehead, on top -->
+  <path d="M64,206 C70,200 82,202 84,208 C82,214 72,216 66,214 Z" fill="#EED2A4"/>
+
+  <!-- breath lines from the mouth up to the cheek -->
+  <path d="M97,204 C94,199 99,196 96,191" fill="none" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M105,204 C102,199 107,196 104,191" fill="none" stroke="#1B6B93" stroke-width="3"/>
+  <!-- chest rise and fall -->
+  <path d="M162,172 L162,196 M155,180 L162,171 L169,180 M155,188 L162,197 L169,188" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

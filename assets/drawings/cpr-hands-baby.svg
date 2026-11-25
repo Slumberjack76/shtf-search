@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Infant hand placement, close-up from above: two fingertips in the center of the chest just below the nipple line, other hand gently on the forehead -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- firm flat table top -->
+  <path d="M-4,18 L404,18 L404,268 L-4,268 Z" fill="#D6D0C4"/>
+  <path d="M-4,268 L404,268 L404,282 L-4,282 Z" fill="#5A5A5A"/>
+
+  <!-- BABY on the back, head to the left, gold onesie -->
+  <!-- legs bent out, feet together (footed onesie) -->
+  <path d="M286,112 C304,96 324,88 340,92" fill="none" stroke="#1A1A1A" stroke-width="32"/>
+  <path d="M286,112 C304,96 324,88 340,92" fill="none" stroke="#F5D76E" stroke-width="27"/>
+  <path d="M342,92 C356,98 366,114 366,134" fill="none" stroke="#1A1A1A" stroke-width="28"/>
+  <path d="M342,92 C356,98 366,114 366,134" fill="none" stroke="#F5D76E" stroke-width="23"/>
+  <path d="M286,192 C304,208 324,216 340,212" fill="none" stroke="#1A1A1A" stroke-width="32"/>
+  <path d="M286,192 C304,208 324,216 340,212" fill="none" stroke="#F5D76E" stroke-width="27"/>
+  <path d="M342,212 C356,206 366,190 366,170" fill="none" stroke="#1A1A1A" stroke-width="28"/>
+  <path d="M342,212 C356,206 366,190 366,170" fill="none" stroke="#F5D76E" stroke-width="23"/>
+  <!-- arms up beside the head, soft fists -->
+  <path d="M168,98 C160,78 150,66 136,62" fill="none" stroke="#1A1A1A" stroke-width="22"/>
+  <path d="M168,98 C160,78 150,66 136,62" fill="none" stroke="#F5D76E" stroke-width="17"/>
+  <circle cx="132" cy="62" r="10" fill="#EED2A4"/>
+  <path d="M168,206 C160,226 150,238 136,242" fill="none" stroke="#1A1A1A" stroke-width="22"/>
+  <path d="M168,206 C160,226 150,238 136,242" fill="none" stroke="#F5D76E" stroke-width="17"/>
+  <circle cx="132" cy="242" r="10" fill="#EED2A4"/>
+  <!-- chubby torso -->
+  <path d="M152,106 C162,90 200,84 240,86 C280,88 302,102 304,124 L304,180 C302,202 280,216 240,218 C200,220 162,214 152,198 C144,172 144,132 152,106 Z" fill="#F5D76E"/>
+  <!-- collar -->
+  <path d="M146,124 C160,134 160,170 146,180" fill="#EED2A4"/>
+  <!-- big round head, crown to the left, calm, eyes closed -->
+  <path d="M42,152 C42,120 66,96 98,96 C128,96 150,120 150,152 C150,184 128,208 98,208 C66,208 42,184 42,152 Z" fill="#EED2A4"/>
+  <path d="M48,134 C54,126 60,124 66,126 M46,148 C52,142 58,142 62,146" fill="none" stroke="#5A5A5A" stroke-width="2.5"/>
+  <path d="M98,96 C98,88 110,86 112,94 M98,208 C98,216 110,218 112,210" fill="#EED2A4" stroke-width="2"/>
+  <path d="M116,132 C121,135 121,142 116,145 M116,159 C121,162 121,169 116,172" fill="none" stroke-width="2.2"/>
+  <path d="M128,148 C132,147 134,150 132,154 C131,156 128,156 128,154" fill="#E2BB82" stroke-width="2"/>
+  <path d="M138,147 C140,150 140,154 138,157" fill="none" stroke-width="2"/>
+
+  <!-- nipple line landmark -->
+  <path d="M190,100 L190,206" fill="none" stroke="#1B6B93" stroke-width="2" stroke-dasharray="5 5"/>
+
+  <!-- RESCUER -->
+  <!-- left hand resting gently on the forehead at the crown, face left clear -->
+  <g transform="translate(56,96) scale(0.8) translate(-84,-96)">
+  <path d="M84,96 C82,64 78,34 74,4" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M84,96 C82,64 78,34 74,4" fill="none" stroke="#E2BB82" stroke-width="35"/>
+  <path d="M76,20 L72,-30" fill="none" stroke="#1A1A1A" stroke-width="50"/>
+  <path d="M76,20 L72,-30" fill="none" stroke="#14526F" stroke-width="45"/>
+  <path d="M60,96 C62,86 106,86 108,96 L110,150 C110,164 104,174 96,176 L72,176 C64,174 58,164 58,150 Z" fill="#EED2A4"/>
+  <path d="M72,146 L72,172 M84,146 L84,174 M96,146 L96,172" fill="none" stroke="#E2BB82" stroke-width="2"/>
+  <path d="M60,110 C46,118 42,136 48,146 C54,150 60,144 60,136 Z" fill="#EED2A4"/>
+  </g>
+
+  <!-- right hand: index and middle fingertips on the breastbone just below the nipple line, other fingers curled -->
+  <path d="M218,74 C220,44 222,16 224,-10" fill="none" stroke="#1A1A1A" stroke-width="44"/>
+  <path d="M218,74 C220,44 222,16 224,-10" fill="none" stroke="#EED2A4" stroke-width="39"/>
+  <path d="M222,8 L224,-30" fill="none" stroke="#1A1A1A" stroke-width="54"/>
+  <path d="M222,8 L224,-30" fill="none" stroke="#1B6B93" stroke-width="49"/>
+  <!-- two straight fingers, tips pressing -->
+  <path d="M200,110 L200,150 C200,160 218,160 218,150 L219,110 Z" fill="#EED2A4"/>
+  <path d="M221,110 L221,152 C221,162 239,162 239,152 L240,110 Z" fill="#EED2A4"/>
+  <path d="M203,150 C207,153 213,153 216,150 M224,152 C228,155 234,155 237,152" fill="none" stroke="#E2BB82" stroke-width="2"/>
+  <!-- back of the hand -->
+  <path d="M192,74 C194,64 244,64 246,74 L248,114 C246,122 194,122 190,114 Z" fill="#EED2A4"/>
+  <path d="M208,96 L209,114 M230,96 L230,114" fill="none" stroke="#E2BB82" stroke-width="2"/>
+  <!-- ring and little finger curled under -->
+  <path d="M190,96 C178,100 174,114 180,124 C186,130 196,126 198,118 Z" fill="#E2BB82"/>
+  <path d="M184,112 C180,118 182,124 188,126" fill="none" stroke-width="2"/>
+  <!-- thumb -->
+  <path d="M244,84 C260,90 266,108 260,118 C254,124 246,118 246,110 Z" fill="#EED2A4"/>
+</svg>

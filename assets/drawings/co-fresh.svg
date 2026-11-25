@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- CO safety do/don't: left (X) stove burning in a closed tent, CO alarm sounding, person dizzy; right (check) same person outside in fresh air, stove used on open ground away from the tent -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+
+  <!-- LEFT PANEL: closed tent, cut away to show inside -->
+  <path d="M4,270 L192,270" fill="none" stroke="#D6D0C4" stroke-width="10"/>
+  <path d="M10,266 C14,160 54,70 100,52 C146,70 186,160 190,266 Z" fill="#A9C7B0"/>
+  <path d="M24,262 C30,170 62,90 100,72 C138,90 170,170 176,262 Z" fill="#F4F1EA"/>
+  <!-- closed door flap with zipper on the right wall -->
+  <path d="M176,262 C172,214 164,176 152,148" fill="none" stroke="#2E6F40" stroke-width="2"/>
+  <!-- faint fumes filling the tent -->
+  <g fill="none" stroke="#5A5A5A" stroke-width="2.5" stroke-opacity="0.45">
+    <path d="M142,206 C134,196 148,186 140,174 C132,162 146,152 138,140"/>
+    <path d="M154,204 C162,192 150,182 158,170 C166,158 154,146 160,132"/>
+    <path d="M60,108 C72,100 84,112 96,104 C108,96 120,108 134,100"/>
+    <path d="M40,200 C50,192 44,184 54,176"/>
+  </g>
+  <!-- tent pole with CO alarm and red signal arcs -->
+  <path d="M100,72 L100,262" fill="none" stroke="#5A5A5A" stroke-width="4"/>
+  <circle cx="100" cy="118" r="10" fill="#FFFFFF"/>
+  <circle cx="100" cy="118" r="3.5" fill="#C62828" stroke="none"/>
+  <path d="M84,108 C79,114 79,122 84,128 M116,108 C121,114 121,122 116,128 M77,103 C70,112 70,124 77,133 M123,103 C130,112 130,124 123,133" fill="none" stroke="#C62828" stroke-width="2.5"/>
+  <!-- camp stove burning inside -->
+  <path d="M126,236 L166,236 L166,258 L126,258 Z" fill="#5A5A5A"/>
+  <path d="M130,236 L162,236 L162,230 L130,230 Z" fill="#1A1A1A"/>
+  <path d="M146,230 C138,222 142,214 146,208 C148,214 154,218 150,224 C154,222 156,226 154,230 Z" fill="#E08A00"/>
+  <circle cx="136" cy="247" r="3" fill="#D6D0C4"/>
+
+  <!-- person inside, sitting, holding their head, dizzy -->
+  <path d="M30,250 C30,236 40,228 58,228 C76,228 86,236 86,250 C86,258 80,262 58,262 C36,262 30,258 30,250 Z" fill="#A8C2CC"/>
+  <path d="M58,234 L58,262" fill="none" stroke="#8FB0C2" stroke-width="2"/>
+  <path d="M40,180 C44,172 72,172 76,180 C80,196 80,216 78,236 L38,236 C36,216 36,196 40,180 Z" fill="#F5D76E"/>
+  <!-- arms up: one hand on the temple, the other on the forehead -->
+  <path d="M42,182 C32,178 28,168 32,158" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M42,182 C32,178 28,168 32,158" fill="none" stroke="#F5D76E" stroke-width="8.5"/>
+  <path d="M32,162 C32,152 36,146 42,144" fill="none" stroke="#1A1A1A" stroke-width="11"/>
+  <path d="M32,162 C32,152 36,146 42,144" fill="none" stroke="#EED2A4" stroke-width="7"/>
+  <path d="M74,182 C86,180 92,170 90,160" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M74,182 C86,180 92,170 90,160" fill="none" stroke="#F5D76E" stroke-width="8.5"/>
+  <path d="M90,164 C90,154 86,148 80,146" fill="none" stroke="#1A1A1A" stroke-width="11"/>
+  <path d="M90,164 C90,154 86,148 80,146" fill="none" stroke="#EED2A4" stroke-width="7"/>
+  <path d="M52,170 L64,170 L64,180 L52,180 Z" fill="#EED2A4"/>
+  <path d="M42,152 C42,140 49,134 58,134 C67,134 74,140 74,152 C74,164 67,172 58,172 C49,172 42,164 42,152 Z" fill="#EED2A4"/>
+  <path d="M42,150 C40,138 48,130 58,130 C68,130 76,138 74,150 C70,144 64,140 58,140 C52,140 46,144 42,150 Z" fill="#5A5A5A"/>
+  <path d="M50,154 C52,152 54,152 56,154 M60,154 C62,152 64,152 66,154" fill="none" stroke-width="2"/>
+  <path d="M54,164 L62,164" fill="none" stroke-width="2"/>
+  <!-- hand on the temple (thumb down) and palm across the forehead -->
+  <path d="M38,146 C38,138 46,136 48,142 L48,154 C44,158 38,154 38,146 Z" fill="#EED2A4"/>
+  <path d="M82,140 C76,136 62,136 54,140 C50,144 52,150 58,150 L80,152 C86,150 86,144 82,140 Z" fill="#EED2A4"/>
+  <path d="M60,141 L76,141 M60,146 L76,146" fill="none" stroke-width="1.6"/>
+  <path d="M80,150 C82,156 86,158 88,154" fill="none" stroke-width="2"/>
+  <!-- dizzy swirls -->
+  <path d="M46,118 C42,112 48,106 54,110 C58,114 54,118 51,116 M66,116 C64,110 70,106 74,110 C77,114 73,117 70,115" fill="none" stroke-width="2"/>
+
+  <!-- red X, top-left of the left panel -->
+  <path d="M12,10 L36,34 M36,10 L12,34" fill="none" stroke="#C62828" stroke-width="6"/>
+
+  <!-- panel divider -->
+  <path d="M196,0 L204,0 L204,300 L196,300 Z" fill="#D6D0C4" stroke="none"/>
+
+  <!-- RIGHT PANEL: open air -->
+  <path d="M208,270 L396,270" fill="none" stroke="#D6D0C4" stroke-width="10"/>
+  <!-- breeze lines in the open sky -->
+  <path d="M246,70 C262,62 278,78 294,70 C304,64 312,66 316,72 M226,100 C244,92 260,108 278,100 C290,94 300,96 306,102 M262,130 C276,122 290,136 304,130" fill="none" stroke="#1B6B93" stroke-width="3"/>
+  <!-- tent in the background, door open -->
+  <path d="M352,266 C354,238 364,220 376,216 C388,220 396,238 398,266 Z" fill="#A9C7B0"/>
+  <path d="M372,266 C372,246 374,232 376,224 C378,232 380,246 382,266 Z" fill="#F4F1EA"/>
+  <g transform="translate(-8,0)">
+  <!-- camp stove outside on the ground, away from the tent -->
+  <path d="M290,240 L330,240 L330,262 L290,262 Z" fill="#5A5A5A"/>
+  <path d="M294,240 L326,240 L326,234 L294,234 Z" fill="#1A1A1A"/>
+  <path d="M310,234 C302,226 306,218 310,212 C312,218 318,222 314,228 C318,226 320,230 318,234 Z" fill="#E08A00"/>
+  <circle cx="300" cy="251" r="3" fill="#D6D0C4"/>
+
+  </g>
+  <g transform="translate(-12,0)">
+  <!-- same person sitting calmly outside -->
+  <path d="M226,250 C226,236 236,228 254,228 C272,228 282,236 282,250 C282,258 276,262 254,262 C232,262 226,258 226,250 Z" fill="#A8C2CC"/>
+  <path d="M254,234 L254,262" fill="none" stroke="#8FB0C2" stroke-width="2"/>
+  <path d="M236,180 C240,172 268,172 272,180 C276,196 276,216 274,236 L234,236 C232,216 232,196 236,180 Z" fill="#F5D76E"/>
+  <!-- arms down, hands resting on the knees -->
+  <path d="M238,182 C232,198 230,214 232,228" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M238,182 C232,198 230,212 231,220" fill="none" stroke="#F5D76E" stroke-width="8.5"/>
+  <path d="M231,216 L232,234" fill="none" stroke="#EED2A4" stroke-width="8.5"/>
+  <path d="M270,182 C276,198 278,214 276,228" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M270,182 C276,198 278,212 277,220" fill="none" stroke="#F5D76E" stroke-width="8.5"/>
+  <path d="M277,216 L276,234" fill="none" stroke="#EED2A4" stroke-width="8.5"/>
+  <path d="M226,236 C226,230 236,228 238,234 C238,240 230,242 226,236 Z" fill="#EED2A4"/>
+  <path d="M282,236 C282,230 272,228 270,234 C270,240 278,242 282,236 Z" fill="#EED2A4"/>
+  <path d="M248,170 L260,170 L260,180 L248,180 Z" fill="#EED2A4"/>
+  <path d="M238,152 C238,140 245,134 254,134 C263,134 270,140 270,152 C270,164 263,172 254,172 C245,172 238,164 238,152 Z" fill="#EED2A4"/>
+  <path d="M238,150 C236,138 244,130 254,130 C264,130 272,138 270,150 C266,144 260,140 254,140 C248,140 242,144 238,150 Z" fill="#5A5A5A"/>
+  <circle cx="248" cy="154" r="2" fill="#1A1A1A" stroke="none"/>
+  <circle cx="260" cy="154" r="2" fill="#1A1A1A" stroke="none"/>
+  <path d="M249,163 C252,166 256,166 259,163" fill="none" stroke-width="2"/>
+
+  </g>
+
+  <!-- green check, top-left of the right panel -->
+  <path d="M212,24 L222,34 L242,10" fill="none" stroke="#2E6F40" stroke-width="6"/>
+
+  <!-- blue arrow: out of the tent door into the fresh air -->
+  <path d="M160,200 C176,194 192,194 210,198 M198,188 L212,198 L198,208" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

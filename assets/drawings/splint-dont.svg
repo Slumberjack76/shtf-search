@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Wrong: two hands pull a bent forearm in opposite directions to force it straight -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="200" cy="214" rx="190" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- PATIENT forearm resting thumb side up, with a mild bend mid-shaft -->
+  <path d="M70,158 C120,158 170,162 200,170 C236,158 276,146 308,138 L320,176 C286,184 248,194 210,212 C170,206 120,204 70,204 Z" fill="#EED2A4"/>
+  <!-- patient hand, relaxed, fingers loosely curled -->
+  <path d="M300,140 C320,132 344,130 360,138 C374,146 378,162 372,176 C366,188 352,192 344,186 C340,182 340,176 344,172 C336,176 328,178 319,177 Z" fill="#EED2A4" stroke="none"/>
+  <path d="M306,138 C320,132 344,130 360,138 C374,146 378,162 372,176 C366,188 352,192 344,186 C340,182 340,176 344,172 C336,176 328,178 319,179" fill="none"/>
+  <path d="M362,152 C368,160 370,170 366,180 M352,156 C358,164 358,174 354,184" fill="none" stroke-width="1.8"/>
+  <!-- patient thumb resting along the index finger -->
+  <path d="M316,142 C330,136 346,140 354,148 C358,154 352,159 346,157 C338,153 328,152 318,154" fill="#EED2A4"/>
+  <!-- gold sleeve -->
+  <path d="M-4,146 C30,142 70,144 90,148 C96,168 96,196 90,214 C60,218 30,218 -4,216 Z" fill="#F5D76E"/>
+  <path d="M80,150 C86,168 86,196 80,212" fill="none" stroke-width="1.8"/>
+
+  <!-- RESCUER left hand gripping near the elbow, pulling left -->
+  <path d="M60,-14 L118,124" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M60,-14 L118,124" fill="none" stroke="#1B6B93" stroke-width="35"/>
+  <path d="M72,10 L112,106" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- back of hand over the top of the forearm -->
+  <path d="M104,132 C104,118 118,110 134,112 C150,114 160,126 160,142 L158,162 L106,160 Z" fill="#EED2A4"/>
+  <!-- fingers wrapping down over the front of the forearm -->
+  <path d="M108,158 C106,174 108,188 112,196 C116,200 122,198 122,192 L120,160" fill="#EED2A4"/>
+  <path d="M120,160 C120,176 122,190 126,198 C130,202 136,200 136,194 L134,162" fill="#EED2A4"/>
+  <path d="M134,162 C134,178 136,190 140,198 C144,202 150,200 150,194 L148,162" fill="#EED2A4"/>
+  <path d="M148,162 C148,176 150,186 154,192 C158,196 164,194 163,188 L160,160" fill="#EED2A4"/>
+  <!-- thumb on the top edge -->
+  <path d="M152,124 C164,128 174,136 178,146 C180,152 174,156 170,152 C166,146 160,140 152,138" fill="#EED2A4"/>
+
+  <!-- RESCUER right hand gripping near the wrist, pulling right -->
+  <path d="M300,-14 L262,108" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M300,-14 L262,108" fill="none" stroke="#1B6B93" stroke-width="35"/>
+  <path d="M288,10 L260,96" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- back of hand over the top of the forearm -->
+  <path d="M236,140 C232,126 244,112 260,110 C276,110 288,120 288,134 L292,150 L246,164 Z" fill="#EED2A4"/>
+  <!-- fingers wrapping down over the front of the forearm -->
+  <path d="M246,162 C248,178 252,190 258,196 C262,200 268,196 266,190 L258,160" fill="#EED2A4"/>
+  <path d="M258,158 C260,174 264,186 270,192 C274,196 280,192 278,186 L270,156" fill="#EED2A4"/>
+  <path d="M270,156 C272,170 276,182 282,188 C286,192 292,188 290,182 L282,152" fill="#EED2A4"/>
+  <path d="M282,152 C284,164 288,174 292,180 C296,184 302,180 300,174 L292,150" fill="#EED2A4"/>
+  <!-- thumb on the top edge -->
+  <path d="M244,128 C232,130 222,138 218,148 C216,154 222,158 226,154 C230,148 236,144 244,142" fill="#EED2A4"/>
+
+  <!-- pull arrows, opposite directions -->
+  <path d="M84,96 L30,96 M42,86 L28,96 L42,106" fill="none" stroke="#1B6B93" stroke-width="5"/>
+  <path d="M296,96 L350,96 M338,86 L352,96 L338,106" fill="none" stroke="#1B6B93" stroke-width="5"/>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Let them sip water: awake person sits up against a shady rock, sips from a bottle, helper crouches and steadies it -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- shade cast by the rock -->
+  <path d="M60,252 L400,252 L400,286 L60,286 Z" fill="#D6D0C4" stroke="none"/>
+  <!-- big rock behind the person -->
+  <path d="M66,262 C56,220 60,150 80,118 C96,92 130,84 150,96 C166,106 170,140 166,180 L176,262 Z" fill="#D6D0C4"/>
+  <path d="M92,130 C100,120 112,116 122,118 M86,190 C96,184 106,184 114,188" fill="none" stroke="#5A5A5A" stroke-width="2"/>
+  <!-- small cactus -->
+  <path d="M372,262 L372,212 M372,232 C362,232 360,224 360,216 M372,226 C382,226 384,218 384,210" fill="none" stroke="#2E6F40" stroke-width="8"/>
+
+  <!-- PATIENT sitting against the rock, facing right, knees up -->
+  <!-- far leg (behind), knee up -->
+  <path d="M170,244 L226,204 L256,254" fill="none" stroke="#1A1A1A" stroke-width="24"/>
+  <path d="M170,244 L226,204 L256,254" fill="none" stroke="#8FB0C2" stroke-width="19"/>
+  <path d="M246,248 C258,244 272,246 274,258 L246,258 Z" fill="#1A1A1A"/>
+  <!-- torso, gold shirt, back against the rock -->
+  <path d="M146,170 C152,158 174,154 186,162 C192,190 194,226 190,258 L150,258 C146,228 144,196 146,170 Z" fill="#F5D76E"/>
+  <!-- near leg: thigh up to the knee, shin down to the foot -->
+  <path d="M168,250 L236,214 L264,258" fill="none" stroke="#1A1A1A" stroke-width="26"/>
+  <path d="M168,250 L236,214 L264,258" fill="none" stroke="#A8C2CC" stroke-width="21"/>
+  <path d="M252,252 C266,246 284,248 286,264 L252,264 Z" fill="#5A5A5A"/>
+  <path d="M254,258 L284,258" fill="none" stroke-width="2"/>
+  <!-- neck and head in profile, eyes open, sipping -->
+  <path d="M160,140 L176,138 L178,160 L162,160 Z" fill="#EED2A4"/>
+  <path d="M150,122 C150,106 160,96 174,96 C188,96 198,106 198,118 L202,128 C204,130 202,134 199,134 L198,140 C196,148 186,152 174,152 C160,152 150,140 150,122 Z" fill="#EED2A4"/>
+  <path d="M150,124 C146,106 158,92 174,94 C188,95 198,104 196,114 C188,112 180,112 172,108 C166,114 160,120 156,128 Z" fill="#5A5A5A"/>
+  <circle cx="186" cy="120" r="2.2" fill="#1A1A1A" stroke="none"/>
+  <path d="M182,114 C185,112 189,112 191,114" fill="none" stroke-width="1.8"/>
+  <path d="M164,124 C160,122 158,128 162,132" fill="#E2BB82" stroke-width="2"/>
+
+  <!-- near arm: elbow down, hand up holding the bottle -->
+  <path d="M166,170 C172,186 180,198 192,202" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M166,170 C172,186 180,198 192,202" fill="none" stroke="#F5D76E" stroke-width="11"/>
+  <path d="M188,202 C200,196 208,178 210,158" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M188,202 C200,196 208,178 210,158" fill="none" stroke="#EED2A4" stroke-width="8.5"/>
+
+  <!-- water bottle, nearly level, cap end at the lips (small sip) -->
+  <path d="M196,136 L204,134 L206,146 L198,148 Z" fill="#1B6B93"/>
+  <path d="M204,134 C210,130 218,128 226,126 L250,120 C256,119 260,122 261,128 L264,140 C265,146 262,149 256,150 L232,154 C224,155 216,154 206,146 Z" fill="#D7E6EE"/>
+  <path d="M226,142 L262,136 L264,140 C265,146 262,149 256,150 L232,154 C228,154 226,150 226,142 Z" fill="#B3C9D0" stroke="none"/>
+  <path d="M236,124 L238,152 M246,122 L248,150" fill="none" stroke="#B3C9D0" stroke-width="2"/>
+  <!-- patient's hand wrapped around the bottle, thumb on top -->
+  <path d="M206,134 C212,128 224,128 228,134 L230,152 C224,158 212,158 208,152 Z" fill="#EED2A4"/>
+  <path d="M212,134 C214,128 222,126 226,130" fill="none" stroke-width="2"/>
+  <path d="M212,142 L226,140 M212,148 L226,146" fill="none" stroke-width="1.8"/>
+
+  <!-- HELPER crouching on the right, facing left -->
+  <!-- legs in a squat: far leg, then near leg -->
+  <path d="M334,218 L300,200 L304,254" fill="none" stroke="#1A1A1A" stroke-width="24"/>
+  <path d="M334,218 L300,200 L304,254" fill="none" stroke="#5A5A5A" stroke-width="19"/>
+  <path d="M292,252 C304,248 320,250 322,262 L292,262 Z" fill="#1A1A1A"/>
+  <path d="M336,222 L292,212 L316,256" fill="none" stroke="#1A1A1A" stroke-width="26"/>
+  <path d="M336,222 L292,212 L316,256" fill="none" stroke="#5A5A5A" stroke-width="21"/>
+  <path d="M306,254 C318,250 334,252 336,264 L306,264 Z" fill="#1A1A1A"/>
+  <!-- torso leaning forward -->
+  <path d="M290,140 C298,128 318,126 328,136 C340,160 346,190 344,214 C332,222 312,220 302,212 C294,190 288,164 290,140 Z" fill="#1B6B93"/>
+  <path d="M308,136 C312,162 316,188 318,212" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- far arm resting on the knee -->
+  <path d="M312,150 C306,172 300,190 296,204" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M312,150 C306,172 300,190 296,204" fill="none" stroke="#14526F" stroke-width="10"/>
+  <path d="M296,202 L290,214" fill="none" stroke="#1A1A1A" stroke-width="12"/>
+  <path d="M296,202 L290,214" fill="none" stroke="#E2BB82" stroke-width="8"/>
+  <!-- neck and head in profile facing left -->
+  <path d="M298,112 L314,110 L316,132 L300,134 Z" fill="#EED2A4"/>
+  <path d="M282,94 C282,80 292,70 306,70 C320,70 328,80 328,94 C328,108 320,118 306,118 C296,118 290,114 286,108 L280,106 C278,104 280,100 282,99 Z" fill="#EED2A4"/>
+  <path d="M286,86 C288,72 302,64 316,68 C328,72 332,86 328,100 C324,92 320,86 314,84 C306,88 296,88 286,86 Z" fill="#5A5A5A"/>
+  <circle cx="290" cy="95" r="2" fill="#1A1A1A" stroke="none"/>
+  <path d="M290,107 C293,109 296,109 298,108" fill="none" stroke-width="2"/>
+  <path d="M316,94 C320,92 322,98 318,102" fill="#E2BB82" stroke-width="2"/>
+  <!-- near arm reaching out to steady the bottle base -->
+  <path d="M318,146 C310,162 298,170 284,170" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M318,146 C310,162 298,170 284,170" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M288,170 C278,166 272,156 268,146" fill="none" stroke="#1A1A1A" stroke-width="14"/>
+  <path d="M288,170 C278,166 272,156 268,146" fill="none" stroke="#EED2A4" stroke-width="9.5"/>
+  <!-- helper's hand cupping the bottom of the bottle, thumb up -->
+  <path d="M258,132 C264,126 274,128 276,136 L276,148 C272,156 262,156 258,150 Z" fill="#EED2A4"/>
+  <path d="M262,132 C258,124 264,120 268,124 L270,130" fill="#EED2A4" stroke-width="2"/>
+</svg>

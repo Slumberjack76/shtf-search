@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- If they can cough, let them cough: person in gold leans forward coughing into a loose fist; helper in blue stands beside with an open hand on the upper back -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="215" cy="266" rx="140" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- HELPER (blue), standing to the right, facing left -->
+  <!-- far leg -->
+  <path d="M270,160 L292,160 L294,254 L276,254 Z" fill="#5A5A5A"/>
+  <path d="M276,254 L294,254 C296,262 292,266 286,266 L262,266 C256,266 256,258 264,256 Z" fill="#1A1A1A"/>
+  <!-- near leg -->
+  <path d="M250,160 L274,160 L270,256 L250,256 Z" fill="#5A5A5A"/>
+  <path d="M250,256 L270,256 C272,262 270,266 264,266 L238,266 C232,266 232,258 240,256 Z" fill="#1A1A1A"/>
+  <!-- far arm hanging behind -->
+  <path d="M286,104 C292,128 294,148 292,164" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M286,104 C292,128 294,148 292,164" fill="none" stroke="#14526F" stroke-width="12"/>
+  <path d="M292,158 L292,184" fill="none" stroke="#1A1A1A" stroke-width="14"/>
+  <path d="M292,158 L292,184" fill="none" stroke="#E2BB82" stroke-width="9"/>
+  <circle cx="292" cy="190" r="6.5" fill="#E2BB82"/>
+  <!-- torso -->
+  <path d="M248,100 C252,90 266,86 276,86 C288,86 296,94 296,108 L294,166 L248,166 C246,142 246,120 248,100 Z" fill="#1B6B93"/>
+  <path d="M282,100 C286,124 286,146 284,164" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- neck and head, smiling, looking at the person -->
+  <path d="M262,90 L264,74 L280,74 L280,90 Z" fill="#EED2A4"/>
+  <path d="M248,54 C248,40 258,32 271,32 C285,32 294,42 294,56 C294,70 284,80 270,80 C262,80 254,76 250,70 L244,68 C242,66 243,62 246,61 L249,60 Z" fill="#EED2A4"/>
+  <path d="M250,50 C252,36 266,28 280,32 C292,36 298,48 294,62 C290,56 286,50 280,48 C272,52 262,52 252,50 Z" fill="#5A5A5A"/>
+  <path d="M255,57 C257,55 260,55 262,57" fill="none" stroke-width="2"/>
+  <path d="M253,68 C256,71 260,71 263,69" fill="none" stroke-width="2"/>
+  <path d="M282,58 C286,56 288,62 284,66" fill="#E2BB82" stroke-width="2"/>
+
+  <!-- PERSON (gold), leaning a little forward, facing left -->
+  <!-- far leg -->
+  <path d="M168,160 L192,160 L194,254 L176,254 Z" fill="#8FB0C2"/>
+  <path d="M176,254 L194,254 C196,262 192,266 186,266 L162,266 C156,266 156,258 164,256 Z" fill="#1A1A1A"/>
+  <!-- near leg -->
+  <path d="M150,160 L174,160 L168,256 L150,256 Z" fill="#A8C2CC"/>
+  <path d="M150,256 L168,256 C170,262 168,266 162,266 L136,266 C130,266 130,258 138,256 Z" fill="#5A5A5A"/>
+  <!-- torso, tipped forward -->
+  <path d="M132,104 C136,92 152,88 164,88 C176,88 186,94 188,106 C194,126 196,148 196,168 L148,168 C146,146 140,124 132,104 Z" fill="#F5D76E"/>
+  <!-- neck -->
+  <path d="M132,96 L138,80 L154,84 L150,98 Z" fill="#EED2A4"/>
+  <!-- head, tipped down, eyes squeezed, mouth open in a cough -->
+  <path d="M112,58 C112,44 122,36 135,36 C149,36 158,46 158,60 C158,74 148,84 134,84 C126,84 118,80 114,74 L108,73 C106,71 107,67 110,66 L113,65 Z" fill="#EED2A4"/>
+  <path d="M114,54 C116,40 130,32 144,36 C156,40 162,52 158,66 C154,60 150,54 144,52 C136,56 126,56 116,54 Z" fill="#5A5A5A"/>
+  <path d="M118,60 C120,62 123,62 125,60" fill="none" stroke-width="2"/>
+  <path d="M146,62 C150,60 152,66 148,70" fill="#E2BB82" stroke-width="2"/>
+  <!-- near arm: elbow forward in front of the chest, loose fist up at the mouth -->
+  <path d="M158,104 C152,116 144,126 134,134" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M158,104 C152,116 144,126 134,134" fill="none" stroke="#F5D76E" stroke-width="13"/>
+  <path d="M136,134 C126,120 120,104 118,92" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M136,134 C126,120 120,104 118,92" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <path d="M104,82 C104,72 112,68 120,70 C128,72 130,80 128,88 C124,94 112,94 106,90 Z" fill="#EED2A4"/>
+  <path d="M110,74 C114,76 120,76 124,74" fill="none" stroke-width="2"/>
+  <path d="M106,84 C110,86 116,86 120,84" fill="none" stroke-width="2"/>
+
+  <!-- HELPER near arm on top: open hand flat on the upper back -->
+  <path d="M258,102 C246,116 232,124 218,124" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M258,102 C246,116 232,124 218,124" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M224,124 C218,123 212,120 206,116" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M224,124 C218,123 212,120 206,116" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <path d="M190,114 C184,118 177,118 175,114 C174,110 180,107 188,106 Z" fill="#EED2A4"/>
+  <path d="M214,114 L194,90 C188,83 177,88 180,97 L188,118 C193,126 206,126 214,114 Z" fill="#EED2A4"/>
+  <path d="M184,88 L192,98 M180,94 L189,104" fill="none" stroke-width="1.8"/>
+
+  <!-- cough puffs -->
+  <path d="M94,62 C88,64 86,70 88,74" fill="none" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M84,52 C76,56 74,66 76,72" fill="none" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M92,84 C86,86 82,92 84,98" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Boil time: boiling pot, a timer with a short sweep, and on a high mountain a timer with a sweep three times longer; then a clean closed container -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="200" cy="262" rx="190" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- SMALL BOILING POT on a camp stove (left) -->
+  <g transform="translate(0,78)">
+  <path d="M60,158 C60,154 104,154 104,158 L104,178 C104,184 60,184 60,178 Z" fill="#5A5A5A"/>
+  <rect x="76" y="146" width="12" height="10" fill="#5A5A5A"/>
+  <ellipse cx="82" cy="146" rx="16" ry="4" fill="#1A1A1A"/>
+  <path d="M70,145 C68,138 72,132 74,128 C78,134 80,140 78,145 Z M80,145 C78,136 82,128 86,124 C90,132 92,140 88,145 Z M90,145 C88,138 92,132 94,128 C98,134 98,140 96,145 Z" fill="#E08A00" stroke-width="1.8"/>
+  <path d="M83,145 C82,140 84,136 86,134 C88,138 89,142 88,145 Z" fill="#1B6B93" stroke="none"/>
+  <path d="M56,126 L68,132 L96,132 L108,126" fill="none" stroke-width="3"/>
+  <path d="M28,74 C16,72 14,86 30,88" fill="none" stroke-width="4"/>
+  <path d="M136,74 C148,72 150,86 134,88" fill="none" stroke-width="4"/>
+  <path d="M26,68 L34,116 C34,128 130,128 130,116 L138,68 Z" fill="#5A5A5A"/>
+  <ellipse cx="82" cy="68" rx="56" ry="16" fill="#D6D0C4"/>
+  <ellipse cx="82" cy="72" rx="50" ry="12" fill="#B3C9D0" stroke-width="2"/>
+  <path d="M50,74 C50,62 68,62 68,74 Z M74,70 C74,56 96,56 96,70 Z M98,78 C98,66 114,66 114,78 Z" fill="#D7E6EE" stroke-width="2"/>
+  <path d="M26,68 C26,90 138,90 138,68" fill="none" stroke-width="3.5"/>
+  <path d="M60,46 C54,38 66,32 60,24 M100,46 C94,38 106,32 100,24" fill="none" stroke="#1A1A1A" stroke-width="8"/>
+  <path d="M60,46 C54,38 66,32 60,24 M100,46 C94,38 106,32 100,24" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  </g>
+
+  <!-- BIG TIMER: short sweep -->
+  <rect x="198" y="102" width="18" height="12" rx="2" fill="#5A5A5A"/>
+  <rect x="192" y="94" width="30" height="10" rx="3" fill="#5A5A5A"/>
+  <path d="M248,128 L258,118" fill="none" stroke="#5A5A5A" stroke-width="8"/>
+  <path d="M248,128 L258,118" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+  <circle cx="207" cy="170" r="58" fill="#5A5A5A"/>
+  <circle cx="207" cy="170" r="48" fill="#FFFFFF"/>
+  <path d="M207,170 L207,122 A48,48 0 0 1 255,170 Z" fill="#D7E6EE" stroke="none"/>
+  <path d="M207,122 A48,48 0 0 1 255,170" fill="none" stroke="#1B6B93" stroke-width="5"/>
+  <path d="M207,126 L207,134 M251,170 L243,170 M207,214 L207,206 M163,170 L171,170" fill="none" stroke-width="3"/>
+  <path d="M229,132 L227,136 M245,148 L241,150 M245,192 L241,190 M229,208 L227,204 M185,208 L187,204 M169,192 L173,190 M169,148 L173,150 M185,132 L187,136" fill="none" stroke-width="2"/>
+  <path d="M207,170 L245,170" fill="none" stroke="#1A1A1A" stroke-width="4"/>
+  <circle cx="207" cy="170" r="5" fill="#1A1A1A"/>
+
+  <!-- MOUNTAIN with high-elevation line near the peak -->
+  <path d="M262,262 L320,96 L382,262 Z" fill="#5A5A5A"/>
+  <path d="M308,130 L320,96 L332,130 L326,126 L320,132 L314,126 Z" fill="#FFFFFF"/>
+  <path d="M272,136 L376,136" fill="none" stroke="#1B6B93" stroke-width="4" stroke-dasharray="9 7"/>
+  <!-- small timer on the mountain: sweep three times longer -->
+  <rect x="314" y="152" width="12" height="8" rx="2" fill="#1A1A1A" stroke="#FFFFFF" stroke-width="1.5"/>
+  <circle cx="320" cy="190" r="30" fill="#FFFFFF"/>
+  <path d="M320,190 L320,164 A26,26 0 1 1 294,190 Z" fill="#D7E6EE" stroke="none"/>
+  <path d="M320,164 A26,26 0 1 1 294,190" fill="none" stroke="#1B6B93" stroke-width="4"/>
+  <circle cx="320" cy="190" r="30" fill="none" stroke-width="3"/>
+  <path d="M320,190 L298,190" fill="none" stroke="#1A1A1A" stroke-width="3.5"/>
+  <circle cx="320" cy="190" r="3.5" fill="#1A1A1A"/>
+
+  <!-- CLEAN CLOSED CONTAINER (bottom right) -->
+  <path d="M340,226 C340,220 344,218 350,218 L378,218 C384,218 388,220 388,226 L388,258 C388,262 384,264 380,264 L348,264 C344,264 340,262 340,258 Z" fill="#D7E6EE"/>
+  <path d="M341,232 L387,232 L387,258 C387,261 384,263 380,263 L348,263 C344,263 341,261 341,258 Z" fill="#B3C9D0" stroke="none"/>
+  <path d="M341,232 L387,232" fill="none" stroke="#1B6B93" stroke-width="2"/>
+  <path d="M340,226 C340,220 344,218 350,218 L378,218 C384,218 388,220 388,226 L388,258 C388,262 384,264 380,264 L348,264 C344,264 340,262 340,258 Z" fill="none"/>
+  <rect x="336" y="206" width="56" height="13" rx="3" fill="#1B6B93"/>
+  <path d="M348,238 L348,256" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+</svg>

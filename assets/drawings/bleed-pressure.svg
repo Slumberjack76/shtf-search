@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Press hard on the wound: rescuer kneels on the far side, arms straight, shoulders over stacked hands on a cloth on the thigh -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="205" cy="260" rx="185" ry="9" fill="#D6D0C4" stroke="none"/>
+
+  <!-- RESCUER (behind the patient) -->
+  <!-- far shin and foot, kneeling -->
+  <path d="M292,236 L352,240 C360,241 364,246 362,252 L296,252 Z" fill="#5A5A5A"/>
+  <path d="M352,240 C366,236 378,240 380,252 L360,252" fill="#1A1A1A"/>
+  <!-- thigh from hip down to knee on the ground -->
+  <path d="M286,182 C300,176 322,182 326,198 L312,250 C304,256 286,256 280,248 Z" fill="#5A5A5A"/>
+  <!-- torso, leaning forward, shoulders stacked over the hands -->
+  <path d="M236,118 C244,104 268,98 284,104 C304,118 322,156 326,192 C314,204 292,206 280,200 C268,178 252,150 238,132 Z" fill="#1B6B93"/>
+  <path d="M262,104 C266,130 278,168 290,198" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- far arm (darker skin, slightly behind) -->
+  <path d="M262,118 C264,140 262,162 260,176" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M262,118 C264,140 262,162 260,176" fill="none" stroke="#14526F" stroke-width="12"/>
+  <path d="M260,170 L256,206" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M260,170 L256,206" fill="none" stroke="#E2BB82" stroke-width="10"/>
+  <!-- neck and head, looking down at the hands -->
+  <path d="M236,104 L232,86 L248,82 L254,102 Z" fill="#EED2A4"/>
+  <path d="M222,58 C222,44 234,36 248,38 C262,40 270,52 268,66 C266,80 256,88 242,88 C232,88 224,82 220,76 L214,74 C212,72 214,68 216,67 L220,66 Z" fill="#EED2A4"/>
+  <path d="M224,56 C226,40 242,32 258,36 C270,40 274,54 270,66 C266,60 262,54 256,52 C250,56 240,56 230,54 Z" fill="#5A5A5A"/>
+  <circle cx="230" cy="64" r="2" fill="#1A1A1A" stroke="none"/>
+  <path d="M228,76 C231,78 234,78 236,77" fill="none" stroke-width="2"/>
+  <path d="M258,62 C262,60 264,66 260,70" fill="#E2BB82" stroke-width="2"/>
+  <!-- near arm: sleeve then forearm, locked straight -->
+  <path d="M244,114 C246,136 246,156 246,172" fill="none" stroke="#1A1A1A" stroke-width="19"/>
+  <path d="M244,114 C246,136 246,156 246,172" fill="none" stroke="#1B6B93" stroke-width="14"/>
+  <path d="M246,166 L246,200" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M246,166 L246,200" fill="none" stroke="#EED2A4" stroke-width="11"/>
+
+  <!-- PATIENT lying on the back, head left -->
+  <!-- far leg (slightly higher, behind) -->
+  <path d="M206,206 C240,200 290,204 334,210 L340,226 C296,224 246,222 206,226 Z" fill="#8FB0C2"/>
+  <!-- torso and shirt -->
+  <path d="M78,214 C90,202 160,200 206,204 L212,250 C170,254 104,254 82,250 C72,244 70,224 78,214 Z" fill="#F5D76E"/>
+  <path d="M92,214 C96,226 96,240 92,250" fill="none" stroke-width="2"/>
+  <!-- near leg -->
+  <path d="M204,214 C244,210 300,214 342,222 L344,248 C300,250 248,252 208,252 Z" fill="#A8C2CC"/>
+  <path d="M286,222 C290,230 290,240 286,250" fill="none" stroke-width="1.8"/>
+  <!-- shoes, toes up -->
+  <path d="M344,226 C348,212 354,198 362,196 C369,196 371,204 369,216 L366,232 Z" fill="#1A1A1A"/>
+  <path d="M338,250 L338,228 C342,214 348,202 356,200 C363,200 365,208 363,220 L360,250 Z" fill="#5A5A5A"/>
+  <path d="M338,244 L360,244" fill="none" stroke-width="2"/>
+  <!-- near arm resting along the side -->
+  <path d="M96,232 C130,236 170,238 196,236" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M96,232 C130,236 170,238 186,237" fill="none" stroke="#F5D76E" stroke-width="10"/>
+  <path d="M176,237 L200,236" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <circle cx="204" cy="236" r="6.5" fill="#EED2A4"/>
+  <!-- neck and head, face up -->
+  <path d="M62,222 L80,218 L82,240 L64,242 Z" fill="#EED2A4"/>
+  <path d="M31,230 C31,216 42,207 55,207 C68,207 76,217 76,230 C76,243 66,252 53,252 C41,252 31,243 31,230 Z" fill="#EED2A4"/>
+  <path d="M53,252 C38,252 30,240 31,228 C32,214 42,207 54,207 C47,213 44,222 47,231 C51,240 60,246 72,246 C67,250 60,252 53,252 Z" fill="#5A5A5A"/>
+  <path d="M55,210 C55,203 59,200 63,203 C64,206 62,209 60,210" fill="#EED2A4" stroke-width="2"/>
+  <path d="M47,214 C49,216 52,216 54,214" fill="none" stroke-width="2"/>
+  <path d="M66,214 C68,216 70,216 72,214" fill="none" stroke-width="2"/>
+  <path d="M55,229 C59,227 61,233 57,235" fill="#E2BB82" stroke-width="2"/>
+
+  <!-- cloth on the thigh, hands stacked and pressing -->
+  <path d="M226,208 C238,202 260,202 272,206 L276,222 C262,228 238,228 222,222 Z" fill="#FFFFFF"/>
+  <path d="M236,206 L234,224 M250,204 L250,226 M262,205 L264,224" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+  <!-- bottom hand flat, fingers forward -->
+  <path d="M228,206 C232,196 252,192 266,196 C270,200 268,206 262,208 L230,210 Z" fill="#EED2A4"/>
+  <path d="M230,208 C224,206 222,200 226,198 L238,198" fill="#EED2A4" stroke-width="2"/>
+  <!-- top hand laced over it -->
+  <path d="M234,198 C236,184 256,180 266,186 C272,192 270,200 262,202 C252,204 240,204 234,198 Z" fill="#EED2A4"/>
+  <path d="M240,198 L236,204 M248,200 L245,206 M256,200 L254,206" fill="none" stroke-width="2"/>
+  <path d="M246,184 L246,170" fill="none" stroke="#1A1A1A" stroke-width="14"/>
+  <path d="M246,186 L246,168" fill="none" stroke="#EED2A4" stroke-width="9"/>
+
+  <!-- press arrows -->
+  <path d="M206,132 L206,176 M198,166 L206,178 L214,166" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Close-up of the front of the person's belly: helper's fist just above the belly button, well below the tip of the breastbone, other hand wrapped over it; blue sleeves come round from behind -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+
+  <!-- PERSON torso, gold shirt, front view -->
+  <path d="M96,-4 L304,-4 C302,60 294,140 290,252 L110,252 C106,140 98,60 96,-4 Z" fill="#F5D76E"/>
+  <!-- pants and waistband -->
+  <path d="M110,248 L290,248 L292,304 L108,304 Z" fill="#A8C2CC"/>
+  <path d="M110,262 L290,262" fill="none" stroke-width="2"/>
+  <path d="M200,262 L200,304" fill="none" stroke-width="2"/>
+
+  <!-- tip of the breastbone, faint dashed mark with rib edges -->
+  <path d="M150,122 C168,106 186,94 200,86 C214,94 232,106 250,122" fill="none" stroke="#1B6B93" stroke-width="2.5" stroke-dasharray="6 6" opacity="0.6"/>
+  <circle cx="200" cy="86" r="4.5" fill="#1B6B93" stroke="none" opacity="0.6"/>
+
+  <!-- belly button through the shirt -->
+  <path d="M195,218 C197,222 203,222 205,218" fill="none" stroke-width="2.5"/>
+  <circle cx="200" cy="216" r="2.2" fill="#1A1A1A" stroke="none"/>
+
+  <!-- forearms -->
+  <path d="M110,166 C150,174 164,176 176,176" fill="none" stroke="#1A1A1A" stroke-width="30"/>
+  <path d="M110,166 C150,174 164,176 176,176" fill="none" stroke="#EED2A4" stroke-width="25"/>
+  <path d="M290,166 C254,174 244,176 236,176" fill="none" stroke="#1A1A1A" stroke-width="30"/>
+  <path d="M290,166 C254,174 244,176 236,176" fill="none" stroke="#EED2A4" stroke-width="25"/>
+  <!-- HELPER arms from both sides, blue sleeves -->
+  <path d="M10,138 C44,146 80,156 112,166" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M10,138 C44,146 80,156 112,166" fill="none" stroke="#1B6B93" stroke-width="35"/>
+  <path d="M390,138 C356,146 320,156 288,166" fill="none" stroke="#1A1A1A" stroke-width="40"/>
+  <path d="M390,138 C356,146 320,156 288,166" fill="none" stroke="#1B6B93" stroke-width="35"/>
+  <path d="M50,160 C70,164 88,170 104,176 M350,160 C330,164 312,170 296,176" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- fist (left side of the picture), thumb side turned in against the belly -->
+  <path d="M166,154 C176,146 200,146 212,150 L214,200 C200,204 178,204 168,198 C160,190 158,164 166,154 Z" fill="#EED2A4"/>
+  <path d="M168,164 C174,162 180,162 184,164 M166,176 C172,174 180,174 184,176 M168,188 C174,186 180,186 184,188" fill="none" stroke-width="2"/>
+  <!-- other hand wrapped over the fist -->
+  <path d="M242,158 C232,148 214,146 200,150 C190,152 182,158 184,166 C186,170 192,170 198,166 C192,172 188,180 192,186 C194,190 200,190 204,186 C198,192 196,198 200,202 C206,206 222,204 232,198 C244,192 248,170 242,158 Z" fill="#EED2A4"/>
+  <path d="M198,166 C206,164 214,166 220,168 M204,186 C210,184 216,184 222,186" fill="none" stroke-width="2"/>
+  <!-- thumb of the covering hand, curled over the top -->
+  <path d="M226,152 C218,146 206,144 196,146 C190,148 190,154 196,154 C206,154 216,156 222,160" fill="#EED2A4" stroke-width="2.5"/>
+</svg>

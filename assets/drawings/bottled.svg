@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Use bottled water: a hand lifts one sealed bottle out of a case; a gallon jug stands beside -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="225" cy="262" rx="160" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- GALLON JUG (right) -->
+  <path d="M302,262 C292,262 288,258 288,250 L288,194 C288,182 296,176 306,172 L312,162 L332,162 L338,172 C352,176 364,182 366,194 L366,250 C366,258 362,262 352,262 Z" fill="#D7E6EE"/>
+  <path d="M289,200 L365,200 L365,250 C365,257 361,261 352,261 L302,261 C293,261 289,257 289,250 Z" fill="#B3C9D0" stroke="none"/>
+  <path d="M289,200 L365,200" fill="none" stroke="#1B6B93" stroke-width="2"/>
+  <path d="M302,262 C292,262 288,258 288,250 L288,194 C288,182 296,176 306,172 L312,162 L332,162 L338,172 C352,176 364,182 366,194 L366,250 C366,258 362,262 352,262 Z" fill="none"/>
+  <!-- handle loop -->
+  <path d="M340,174 C352,174 358,182 358,192 L346,192 C346,186 344,184 340,184 Z" fill="#F4F1EA"/>
+  <!-- ribs -->
+  <path d="M288,220 L366,220 M288,240 L366,240" fill="none" stroke="#D7E6EE" stroke-width="2"/>
+  <path d="M298,208 L298,250" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <!-- cap -->
+  <rect x="310" y="150" width="24" height="13" rx="3" fill="#FFFFFF"/>
+  <path d="M316,152 L316,161 M322,152 L322,161 M328,152 L328,161" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+
+  <!-- CASE OF BOTTLES: back row -->
+  <g transform="translate(103,232)">
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="#D7E6EE"/>
+    <path d="M-14,-60 L14,-60 L14,-1 L-14,-1 Z" fill="#B3C9D0" stroke="none"/>
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="none"/>
+    <rect x="-15" y="-44" width="30" height="16" fill="#FFFFFF"/>
+    <rect x="-7" y="-97" width="14" height="4" fill="#1B6B93" stroke-width="2"/>
+    <rect x="-8" y="-108" width="16" height="10" rx="2" fill="#1B6B93"/>
+  </g>
+  <g transform="translate(135,232)">
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="#D7E6EE"/>
+    <path d="M-14,-60 L14,-60 L14,-1 L-14,-1 Z" fill="#B3C9D0" stroke="none"/>
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="none"/>
+    <rect x="-15" y="-44" width="30" height="16" fill="#FFFFFF"/>
+    <rect x="-7" y="-97" width="14" height="4" fill="#1B6B93" stroke-width="2"/>
+    <rect x="-8" y="-108" width="16" height="10" rx="2" fill="#1B6B93"/>
+  </g>
+  <g transform="translate(167,232)">
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="#D7E6EE"/>
+    <path d="M-14,-60 L14,-60 L14,-1 L-14,-1 Z" fill="#B3C9D0" stroke="none"/>
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="none"/>
+    <rect x="-15" y="-44" width="30" height="16" fill="#FFFFFF"/>
+    <rect x="-7" y="-97" width="14" height="4" fill="#1B6B93" stroke-width="2"/>
+    <rect x="-8" y="-108" width="16" height="10" rx="2" fill="#1B6B93"/>
+  </g>
+  <!-- front row (one slot empty, right) -->
+  <g transform="translate(88,258)">
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="#D7E6EE"/>
+    <path d="M-14,-60 L14,-60 L14,-1 L-14,-1 Z" fill="#B3C9D0" stroke="none"/>
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="none"/>
+    <rect x="-15" y="-44" width="30" height="16" fill="#FFFFFF"/>
+    <path d="M-9,-54 L-9,-48" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <rect x="-7" y="-97" width="14" height="4" fill="#1B6B93" stroke-width="2"/>
+    <rect x="-8" y="-108" width="16" height="10" rx="2" fill="#1B6B93"/>
+  </g>
+  <g transform="translate(120,258)">
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="#D7E6EE"/>
+    <path d="M-14,-60 L14,-60 L14,-1 L-14,-1 Z" fill="#B3C9D0" stroke="none"/>
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="none"/>
+    <rect x="-15" y="-44" width="30" height="16" fill="#FFFFFF"/>
+    <path d="M-9,-54 L-9,-48" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <rect x="-7" y="-97" width="14" height="4" fill="#1B6B93" stroke-width="2"/>
+    <rect x="-8" y="-108" width="16" height="10" rx="2" fill="#1B6B93"/>
+  </g>
+  <g transform="translate(152,258)">
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="#D7E6EE"/>
+    <path d="M-14,-60 L14,-60 L14,-1 L-14,-1 Z" fill="#B3C9D0" stroke="none"/>
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="none"/>
+    <rect x="-15" y="-44" width="30" height="16" fill="#FFFFFF"/>
+    <path d="M-9,-54 L-9,-48" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <rect x="-7" y="-97" width="14" height="4" fill="#1B6B93" stroke-width="2"/>
+    <rect x="-8" y="-108" width="16" height="10" rx="2" fill="#1B6B93"/>
+  </g>
+  <!-- case tray, front face -->
+  <path d="M70,232 L200,232 L200,264 L70,264 Z" fill="#D6D0C4"/>
+  <path d="M70,232 L200,232" fill="none" stroke-width="3"/>
+  <path d="M74,248 L196,248" fill="none" stroke="#F4F1EA" stroke-width="2"/>
+
+  <!-- lift arrow -->
+  <path d="M240,112 L240,72 M232,82 L240,70 L248,82" fill="none" stroke="#1B6B93" stroke-width="4"/>
+
+  <!-- LIFTED BOTTLE with fingertips peeking around the far side -->
+  <ellipse cx="176" cy="133" rx="7" ry="5.5" fill="#EED2A4" stroke-width="2"/>
+  <ellipse cx="174" cy="144" rx="7" ry="5.5" fill="#EED2A4" stroke-width="2"/>
+  <ellipse cx="174" cy="155" rx="7" ry="5.5" fill="#EED2A4" stroke-width="2"/>
+  <ellipse cx="176" cy="165" rx="6.5" ry="5" fill="#EED2A4" stroke-width="2"/>
+  <g transform="translate(196,196) scale(1.3)" stroke-width="1.95">
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="#D7E6EE"/>
+    <path d="M-14,-60 L14,-60 L14,-1 L-14,-1 Z" fill="#B3C9D0" stroke="none"/>
+    <path d="M-14,-60 L14,-60" fill="none" stroke="#1B6B93" stroke-width="1.6"/>
+    <path d="M-15,-58 C-15,-70 -6,-74 -6,-84 L-6,-92 L6,-92 L6,-84 C6,-74 15,-70 15,-58 L15,-4 C15,-1 13,0 10,0 L-10,0 C-13,0 -15,-1 -15,-4 Z" fill="none"/>
+    <rect x="-15" y="-30" width="30" height="16" fill="#FFFFFF"/>
+    <path d="M-9,-10 L-9,-4" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+    <!-- intact cap ring: ring, small bridges, cap -->
+    <rect x="-7" y="-97" width="14" height="4" fill="#1B6B93" stroke-width="1.6"/>
+    <path d="M-4,-99 L-4,-97 M0,-99 L0,-97 M4,-99 L4,-97" fill="none" stroke-width="1.4"/>
+    <rect x="-8" y="-110" width="16" height="11" rx="2" fill="#1B6B93"/>
+    <path d="M-4,-108 L-4,-101 M0,-108 L0,-101 M4,-108 L4,-101" fill="none" stroke="#14526F" stroke-width="1.4"/>
+  </g>
+  <!-- forearm and sleeve from the right -->
+  <path d="M244,150 C262,140 280,130 300,122" fill="none" stroke="#1A1A1A" stroke-width="27"/>
+  <path d="M244,150 C262,140 280,130 300,122" fill="none" stroke="#EED2A4" stroke-width="22"/>
+  <path d="M294,122 C330,108 370,94 410,82" fill="none" stroke="#1A1A1A" stroke-width="36"/>
+  <path d="M294,122 C330,108 370,94 410,82" fill="none" stroke="#1B6B93" stroke-width="31"/>
+  <path d="M296,110 C300,118 302,128 300,138" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- back of hand on the right side of the bottle -->
+  <path d="M206,132 C214,124 234,124 246,132 L256,140 C260,152 256,164 248,168 C238,176 218,178 206,172 Z" fill="#EED2A4"/>
+  <path d="M212,140 C210,148 210,158 212,166" fill="none" stroke="#E2BB82" stroke-width="2"/>
+  <path d="M226,146 L234,146 M226,156 L234,157" fill="none" stroke="#E2BB82" stroke-width="2"/>
+  <!-- thumb wrapping across the front -->
+  <path d="M220,136 C208,132 194,136 186,142 C181,147 185,154 191,153 C200,151 210,149 222,150 Z" fill="#EED2A4"/>
+  <path d="M190,144 C188,147 188,150 190,151" fill="none" stroke-width="1.8"/>
+</svg>

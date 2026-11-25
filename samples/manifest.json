@@ -1,0 +1,96 @@
+[
+  {
+    "file": "sample-rain-catchment.pdf",
+    "type": "infographic",
+    "title": "Collecting rain water (sample one-pager)",
+    "body": [
+      "This is a SAMPLE page so search can be tested. Replace it with a finished one-pager.",
+      "Idea: catch rain from a roof or tarp. Keep gutters clean. Store water in a closed, food-safe container.",
+      "Always treat rain from dirty roofs before you drink it. See the NO SAFE WATER card for boil and bleach steps (CDC).",
+      "Keywords: rain, catchment, barrel, tarp, gutter, drinking water, desert, monsoon."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-rain-catchment.pdf"
+  },
+  {
+    "file": "sample-burns-cool-water.pdf",
+    "type": "infographic",
+    "title": "Cool a burn with water (sample one-pager)",
+    "body": [
+      "SAMPLE page. Production art should follow American Red Cross / WHO burn first aid.",
+      "Cool the burn with cool running water. Do not use ice, butter, or oil.",
+      "Cover loosely with a clean cloth. Get an adult. Call 911 for a big, deep, or face burn.",
+      "Keywords: burned, burn, blister, scald, sunburn, fire, first aid."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-burns-cool-water.pdf"
+  },
+  {
+    "file": "sample-usda-canning-notes.pdf",
+    "type": "pdf",
+    "title": "Food preservation notes (sample, not USDA text)",
+    "body": [
+      "PLACEHOLDER. Do not can food from this page. Use official USDA Complete Guide to Home Canning.",
+      "When the real PDF is on the drive, this search app should open that file.",
+      "Topics the real guide covers: water-bath canning, pressure canning, jars, lids, acid foods, vegetables, meat.",
+      "Keywords: canning, jars, preserve, USDA, food storage, pantry."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-usda-canning-notes.pdf"
+  },
+  {
+    "file": "sample-field-dressing.pdf",
+    "type": "pdf",
+    "title": "Field dressing game (sample only)",
+    "body": [
+      "PLACEHOLDER. This is not a hunting manual. Real steps need detailed pictures of hand positions.",
+      "Good free sources later: public-domain U.S. Army survival manuals (FM 21-76 / FM 3-05.70) and state wildlife guides.",
+      "Keep this topic out of the HELP NOW row. Show it under Food, in full view, with detailed illustrations.",
+      "Keywords: field dressing, gutting, game, meat, deer, hunting, store meat, cool the carcass."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-field-dressing.pdf"
+  },
+  {
+    "file": "sample-solar-charge-controller.pdf",
+    "type": "pdf",
+    "title": "Wiring a solar panel and charge controller (sample)",
+    "body": [
+      "PLACEHOLDER. Wiring a panel wrong can start a fire or wreck a battery.",
+      "Production needs detailed pictures: panel, controller, battery, fuse, wire colors, and the safe hook-up order.",
+      "We can draw custom illustrations later. Do not use this sample to wire real equipment.",
+      "Keywords: solar, panel, charge controller, battery, 12 volt, fuse, off grid, power."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-solar-charge-controller.pdf"
+  },
+  {
+    "file": "sample-usgs-topo-az-index.pdf",
+    "type": "map",
+    "title": "Arizona and Nevada topo map index (sample)",
+    "body": [
+      "PLACEHOLDER catalog page. Real USGS GeoPDF topo quads and trail maps will live on the SSD.",
+      "On the iPad, open those PDFs in Files. Use Organic Maps for road and trail navigation.",
+      "If you are lost, open the Lost card under Maps first.",
+      "Keywords: topo, trail, map, USGS, Arizona, Nevada, contour, canyon, lost, hiking."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-usgs-topo-az-index.pdf"
+  },
+  {
+    "file": "sample-knots-sheet.pdf",
+    "type": "infographic",
+    "title": "Useful knots (sample sheet)",
+    "body": [
+      "PLACEHOLDER. Knots need detailed, step-by-step pictures (bowline, taut-line, trucker's hitch, square lashing).",
+      "Free public-domain sources: U.S. Army rigging and pioneer manuals (for example FM 5-125).",
+      "Keywords: knot, rope, bowline, hitch, lashing, shelter, tarp, guy line."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-knots-sheet.pdf"
+  },
+  {
+    "file": "sample-edible-plants-sw.pdf",
+    "type": "pdf",
+    "title": "Southwest plants: edible and poisonous (sample)",
+    "body": [
+      "PLACEHOLDER. Plant ID must use clear color photos or detailed drawings of leaves, flowers, fruit, and look-alikes.",
+      "Never eat a plant you cannot identify with certainty. This sample has no ID pictures.",
+      "Keywords: edible, poisonous, plant, cactus, mesquite, palo verde, datura, nightshade, forage."
+    ],
+    "path": "/workspace/shtf-search/samples/sample-edible-plants-sw.pdf"
+  }
+]

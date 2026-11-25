@@ -1,0 +1,361 @@
+{
+ "version": "f10d5615d7d6",
+ "date": "2026-11-24",
+ "built": "2026-11-24T17:33:16.302Z",
+ "files": [
+  {
+   "path": "assets/drawings/bleed-pack.svg",
+   "bytes": 4803,
+   "sha256": "7b0a73de8697f3d8624b31ed18a53f129745548f44085175f0d5e870c6304161"
+  },
+  {
+   "path": "assets/drawings/bleed-pressure.svg",
+   "bytes": 5559,
+   "sha256": "e9cf5e4acc32453a4f64c3310d6c272d1b3da4aa3e1dbbfa81ce0ba24e5d2e09"
+  },
+  {
+   "path": "assets/drawings/bleed-tourniquet.svg",
+   "bytes": 4379,
+   "sha256": "41ec7ec0ec13162919cfacd96630150c061717ab56e67c947ff658a6958c191c"
+  },
+  {
+   "path": "assets/drawings/bottled.svg",
+   "bytes": 8790,
+   "sha256": "1980d5a9d2dd8868a0aa340db2cbdb229094e1e5d1c8ffd0aca1dcd641a9084f"
+  },
+  {
+   "path": "assets/drawings/choke-behind.svg",
+   "bytes": 5566,
+   "sha256": "5cbe0dd7d1e1c24069576ed7a09cbfd9fb86337a1d0b9d30a47d51b3a7b9e7a8"
+  },
+  {
+   "path": "assets/drawings/choke-cough.svg",
+   "bytes": 5173,
+   "sha256": "3d9f5d34299eda219c0dcadd91c395d0d301dace90d505d9941a6d0100bfdd53"
+  },
+  {
+   "path": "assets/drawings/choke-fist.svg",
+   "bytes": 3189,
+   "sha256": "5dd07df6543e67d4dbe74bece1c504d5bcd239f2fd0699b04080fcb665c5020a"
+  },
+  {
+   "path": "assets/drawings/choke-thrust.svg",
+   "bytes": 5714,
+   "sha256": "3a1ab786b3fbbd9a3390b0924acb21b148082aca34846e5aae45f5bf6fa57da9"
+  },
+  {
+   "path": "assets/drawings/clothes.svg",
+   "bytes": 6916,
+   "sha256": "1ea95bbb88fec38567bde358e5ed5eb33fa283c9c024ff242bd7f9d1c08efc3a"
+  },
+  {
+   "path": "assets/drawings/co-fresh.svg",
+   "bytes": 7612,
+   "sha256": "f58b5faa16d48fb9fd498e24d48b1951ccb28c042f5058ca7cb8b5652a15912d"
+  },
+  {
+   "path": "assets/drawings/cpr-arms-locked-kid.svg",
+   "bytes": 5074,
+   "sha256": "5b15a3bb961ef2cd49b581cbb0fa858ddb1c6a870fadf11ea26e35743df8844b"
+  },
+  {
+   "path": "assets/drawings/cpr-arms-locked.svg",
+   "bytes": 5169,
+   "sha256": "551aa125fb1d5eaea092a7903dbeefa4f455e91840765c675facd48bd603b55f"
+  },
+  {
+   "path": "assets/drawings/cpr-baby-depth.svg",
+   "bytes": 4982,
+   "sha256": "7ebb3ef7e41dd09f34df8679ac6e822b9c5069f6fa0aa5017dadce8fa08eca76"
+  },
+  {
+   "path": "assets/drawings/cpr-beat-button.svg",
+   "bytes": 5332,
+   "sha256": "fc04db8a98e2ff56ec287d1f791cfbd92d6bc0143a8a72f5919b0357a6037364"
+  },
+  {
+   "path": "assets/drawings/cpr-hands-baby.svg",
+   "bytes": 5211,
+   "sha256": "cc2858fb9ad01e4e9838d4b59fc19594d45d8644b00efc192a3b74abf9b88918"
+  },
+  {
+   "path": "assets/drawings/cpr-hands-kid.svg",
+   "bytes": 4233,
+   "sha256": "a39cec89e1030d42eff1aebfc4d0fdbceceec1248d0e95a2e429b94f50d0e685"
+  },
+  {
+   "path": "assets/drawings/cpr-hands.svg",
+   "bytes": 4055,
+   "sha256": "d5eb31d21e5340ad4b11be6eada15ae48fdcdd064d64707a74e4f96b6cb95398"
+  },
+  {
+   "path": "assets/drawings/cpr-keep-going.svg",
+   "bytes": 7579,
+   "sha256": "739e43e814b03b6de2e2f47c86a5135b4370d7d7709e37719d0da68ce43c3fb9"
+  },
+  {
+   "path": "assets/drawings/heat-cool.svg",
+   "bytes": 6991,
+   "sha256": "193f9921d3e3a3f62214c093571b7620d64a8c7134ce13c9041fdce7109472ba"
+  },
+  {
+   "path": "assets/drawings/recovery-airway.svg",
+   "bytes": 5815,
+   "sha256": "202f6530dcb318b50e82d9dfdcc6429872343e8c74272733c6fd46a3adae357e"
+  },
+  {
+   "path": "assets/drawings/recovery-arm-out.svg",
+   "bytes": 5195,
+   "sha256": "035a4402336de6d74f6b5b9ff33289559512f02526d50304152d5544abd65a92"
+  },
+  {
+   "path": "assets/drawings/recovery-check.svg",
+   "bytes": 5004,
+   "sha256": "37fd4b0f8d07bfbf230c7060f0344b87383e7a12a7de07fb5ab05de66dbc1a22"
+  },
+  {
+   "path": "assets/drawings/recovery-roll.svg",
+   "bytes": 6089,
+   "sha256": "f379d09bd0f76e550fccb8468dc682d958cb676aa78c180fbf1a51cfe406eb7e"
+  },
+  {
+   "path": "assets/drawings/shade.svg",
+   "bytes": 6877,
+   "sha256": "b7e46b33758ba01dc0873cecd207eb6b2871b6da2c49a4192ab259e54a5b6f82"
+  },
+  {
+   "path": "assets/drawings/sip.svg",
+   "bytes": 6378,
+   "sha256": "74a8cdbfff598c1da894df16c0b864c4d8a6faa372484e2e035bc64e23484c48"
+  },
+  {
+   "path": "assets/drawings/snake-donts.svg",
+   "bytes": 4815,
+   "sha256": "bcf97a8f540310cc41cdc87a3ed3e335f2c1b77a910212adccc8173c00732ef0"
+  },
+  {
+   "path": "assets/drawings/snake-mark.svg",
+   "bytes": 4567,
+   "sha256": "dfb7ca31ca709a0681f0bf2fef1e936686927e742d91a7d4da92f6920ee600ff"
+  },
+  {
+   "path": "assets/drawings/splint-check.svg",
+   "bytes": 5211,
+   "sha256": "91d57463b92b70d058fdb949cda89eb76ace8a800d448312bfc304ab3498f26d"
+  },
+  {
+   "path": "assets/drawings/splint-dont.svg",
+   "bytes": 3870,
+   "sha256": "92bff8d78e1e08335e96de3364e38461636296dd0c433ed7d945c81dcf592c2d"
+  },
+  {
+   "path": "assets/drawings/splint-pad.svg",
+   "bytes": 3730,
+   "sha256": "e27e645be191529ece7dfe0bab8f4d4096c0c5f6fdff7e5b244bd59e118602bb"
+  },
+  {
+   "path": "assets/drawings/tq-time-btn.svg",
+   "bytes": 4162,
+   "sha256": "6d5f9898ce6036423034879b8ab2a46d3650e2fac9779d277a812ae86bf1037d"
+  },
+  {
+   "path": "assets/drawings/water-bleach.svg",
+   "bytes": 5881,
+   "sha256": "2a24e0be5b3acefc4de68b98aba9b31757f2ee5302dc36dbcebbb3824c1379d5"
+  },
+  {
+   "path": "assets/drawings/water-boil-time.svg",
+   "bytes": 4634,
+   "sha256": "83338618103406c2f0fd06f49496a61473fbbc3afbbae36783c3c5cb6ab5efa8"
+  },
+  {
+   "path": "assets/drawings/water-boil.svg",
+   "bytes": 4435,
+   "sha256": "49dfdab5085b0b9f09f38cc76efe67f5b3829a5dd23939eb0ffb68e79cfa0909"
+  },
+  {
+   "path": "config.js",
+   "bytes": 495,
+   "sha256": "b0be9612b1d57ea7a5c17d112eb80330134c9ac5f71a89942f1a4972862cb131"
+  },
+  {
+   "path": "data/search-index.json",
+   "bytes": 21852,
+   "sha256": "0451e7a39d38980748abac393f512524b95d2d947a0626b2742d129b8c674572"
+  },
+  {
+   "path": "icons/apple-touch-icon.png",
+   "bytes": 1993,
+   "sha256": "65a3824e25cbca270278b9bf04bed3b64213415430200f79cd9bb19c4c281ebd"
+  },
+  {
+   "path": "icons/icon-192.png",
+   "bytes": 2147,
+   "sha256": "14e9150e51a20a3f4b7434a967d1db10485933a1022169c2f6d019e7fdc4c5b7"
+  },
+  {
+   "path": "icons/icon-512-maskable.png",
+   "bytes": 5319,
+   "sha256": "564d287379c266e598c97260b5ee3fb23b6eb80c85dabe6779a81c16de83d4c8"
+  },
+  {
+   "path": "icons/icon-512.png",
+   "bytes": 5964,
+   "sha256": "7a703aa13fbf6e139e5a11739f51bd6930886f9390b9f1efe96342ef021acf93"
+  },
+  {
+   "path": "icons/icon.svg",
+   "bytes": 423,
+   "sha256": "6b389274d735e17ad5fb3bde51efc7abba8672608ecc80ee98db80ab51e3635b"
+  },
+  {
+   "path": "index.html",
+   "bytes": 3238,
+   "sha256": "bd878112ae454a4c959a44709347f6b18d972782191c26bb54e9331a58b93769"
+  },
+  {
+   "path": "js/app.js",
+   "bytes": 34282,
+   "sha256": "f6866a9dc1b3be28454dfad88ead9ea15cd00fd220afc220e8aa62a949113114"
+  },
+  {
+   "path": "js/drawings-detailed.js",
+   "bytes": 167846,
+   "sha256": "2ea39e8e3cb27112157285b71e9ded20e8ee12a8993e9f23b7b44ec18b6e273a"
+  },
+  {
+   "path": "js/drawings.js",
+   "bytes": 22422,
+   "sha256": "4fe0a0686431e0045bb1a15c80f24e4499b182cb7739fb5581fffb5c99ab53e6"
+  },
+  {
+   "path": "js/icons.js",
+   "bytes": 10345,
+   "sha256": "7cc0353cd17ef35e00a1440d0c765f9f6da3d98a7ec66eec757412e673743681"
+  },
+  {
+   "path": "js/library.js",
+   "bytes": 28609,
+   "sha256": "95805eb8fe239b9d42532d502cfcb33004ea1e473319b77785565b49b114ffe5"
+  },
+  {
+   "path": "js/search-docs.js",
+   "bytes": 1012,
+   "sha256": "5fd478ce69496a1cf48f98cfad4477d21ac91a885899a8570b4a36b1fc8425cf"
+  },
+  {
+   "path": "js/updates.js",
+   "bytes": 18381,
+   "sha256": "1e7254c61c9f7288552640f34cf8869ebffc36902359b62a995c1c0d39511c07"
+  },
+  {
+   "path": "manifest.json",
+   "bytes": 678,
+   "sha256": "2e48dd35009f9276ddf4cac6586f0d4d8a131b95e359b66d691d5de84dca056d"
+  },
+  {
+   "path": "samples/sample-burns-cool-water.pdf",
+   "bytes": 1670,
+   "sha256": "1277aa0971c1b741379f875d9c25026966824b3b64f6a614646ab75efdb089e0"
+  },
+  {
+   "path": "samples/sample-edible-plants-sw.pdf",
+   "bytes": 1698,
+   "sha256": "4ec905ae34f706d250e3080397ef7944f7ec08f268810b47926bd8b5b9c4f371"
+  },
+  {
+   "path": "samples/sample-field-dressing.pdf",
+   "bytes": 1778,
+   "sha256": "21bd3c1bcc08b7157786d9fe571a687db905508608cc0549295a1814c51c78d5"
+  },
+  {
+   "path": "samples/sample-knots-sheet.pdf",
+   "bytes": 1677,
+   "sha256": "a018784e1074d3b390e7f4947ea4c14742304233de106bb6ade0ae194bf4cd08"
+  },
+  {
+   "path": "samples/sample-rain-catchment.pdf",
+   "bytes": 1762,
+   "sha256": "d51913e0f1acf46c05e8d08e1d084b53308f29073e21aba09d226795ffbb8d7a"
+  },
+  {
+   "path": "samples/sample-solar-charge-controller.pdf",
+   "bytes": 1708,
+   "sha256": "21e999824e6893a5682b731207e198d726fe9c98ce69a011e2a632a74b4f181c"
+  },
+  {
+   "path": "samples/sample-usda-canning-notes.pdf",
+   "bytes": 1729,
+   "sha256": "7fdbfde9a0eb943f585bf72a3b2465cff5e5bd9a24adbac3904668d4b40b8b47"
+  },
+  {
+   "path": "samples/sample-usgs-topo-az-index.pdf",
+   "bytes": 1695,
+   "sha256": "c3da73362ca9e44b5f491be1dd66c6a12bf3da62b0a03244ccad5b699f205c2c"
+  },
+  {
+   "path": "styles.css",
+   "bytes": 24139,
+   "sha256": "2d2a547411438527d57536cb393ab63946cf1a9da074ec392dc0577ba85d8188"
+  },
+  {
+   "path": "vendor/minisearch.min.js",
+   "bytes": 18556,
+   "sha256": "8a05b42785db448f2c19e24a6a2107204c825565fe4f95aa69b79652baf26e82"
+  }
+ ],
+ "medical": {
+  "too-hot": {
+   "title": "Too hot",
+   "sha256": "590694506f4a8c7a28a28ddae4b0ac7505253fd857ee82ed480e20d7433e4bb0"
+  },
+  "bleeding": {
+   "title": "Stop the bleeding",
+   "sha256": "ad6e1c1e2587588a4094ec3ae05f26f0576d7c6703d74205b00624d5a3b4249e"
+  },
+  "cpr": {
+   "title": "Not breathing",
+   "sha256": "2555f1def7deba9cf8a786eb1acaf0327cc25d519a139adaa8e46db65bf34626"
+  },
+  "burns": {
+   "title": "Burns",
+   "sha256": "20295d058a7434a7ba0bae5fa013f2b6ecbcca379cc2f1596c923d3feffd353e"
+  },
+  "smoke": {
+   "title": "Smoke, fire, or CO",
+   "sha256": "617cc5355679d5e830bed211128b3ae82aab9500ba2566ec9b0035676958ad63"
+  },
+  "bite": {
+   "title": "Bite or sting",
+   "sha256": "140a9b068188a42fed1a8fba0a34674a61dce95439e7c4efeebfafcdfbafb6ce"
+  },
+  "too-cold": {
+   "title": "Too cold",
+   "sha256": "f36aa37e1f2b5054f801ed490c43945d683d544700a65945d3282a1d98fadaca"
+  },
+  "choking": {
+   "title": "Choking",
+   "sha256": "254b0866f376e94b8b17bda88cdd6eb9c6200634267e750f03ce599f7eb1f49a"
+  },
+  "water": {
+   "title": "No safe water",
+   "sha256": "626d026b89b06551e20cb291370b93ac0d4f1f555fc3148e78898020845d3aeb"
+  },
+  "lost": {
+   "title": "If you are lost",
+   "sha256": "f5cbafdc5a00fed3b7ed4b9d8e0fce63f65e6dad950ba376258c3611b1a7bab6"
+  },
+  "seizure": {
+   "title": "Seizures",
+   "sha256": "3fd470ccfb54ec6457574aed35b76aba1424a843e46e4a7ea910579588f303e2"
+  },
+  "recovery": {
+   "title": "Recovery position",
+   "sha256": "979b4763b728fe0925e0969163081eaeb364fca564f4a1a1ee32b68ed0bf3335"
+  },
+  "splint": {
+   "title": "Splinting",
+   "sha256": "362dcb5ec6295b5e4f1bbf7181cf352fb3db71b9d6a54133125884e72c00fbd3"
+  }
+ }
+}

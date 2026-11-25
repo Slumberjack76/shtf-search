@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Pull in and up, hard: helper in blue behind, arms round the waist, fist above the navel; blue arrow shows the in-and-up thrust; the food piece pops out of the mouth -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="210" cy="266" rx="145" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- HELPER (blue), behind -->
+  <!-- far arm, behind the person -->
+  <path d="M250,104 C240,120 226,132 208,136" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M250,104 C240,120 226,132 208,136" fill="none" stroke="#14526F" stroke-width="12"/>
+  <!-- back leg, straight and braced -->
+  <path d="M252,160 L278,160 L302,254 L282,256 Z" fill="#5A5A5A"/>
+  <path d="M282,256 L302,254 C306,262 302,266 296,266 L274,266 C268,266 268,258 276,256 Z" fill="#1A1A1A"/>
+  <!-- torso, leaning in -->
+  <path d="M216,104 C220,92 236,86 248,86 C262,86 274,96 276,110 L280,170 L238,170 C232,146 224,124 216,104 Z" fill="#1B6B93"/>
+  <path d="M260,100 C266,124 268,148 266,168" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- neck and head, looking down over the shoulder -->
+  <path d="M222,94 L224,76 L240,78 L240,94 Z" fill="#EED2A4"/>
+  <path d="M202,56 C202,42 212,34 225,34 C239,34 248,44 248,58 C248,72 238,82 224,82 C216,82 208,78 204,72 L198,70 C196,68 197,64 200,63 L203,62 Z" fill="#EED2A4"/>
+  <path d="M204,52 C206,38 220,30 234,34 C246,38 252,50 248,64 C244,58 240,52 234,50 C226,54 216,54 206,52 Z" fill="#5A5A5A"/>
+  <path d="M209,60 C211,62 214,62 216,60" fill="none" stroke-width="2"/>
+  <path d="M209,72 L217,71" fill="none" stroke-width="2"/>
+  <path d="M236,60 C240,58 242,64 238,68" fill="#E2BB82" stroke-width="2"/>
+
+  <!-- PERSON far leg, stepped back -->
+  <path d="M166,160 L192,160 L210,254 L190,256 Z" fill="#8FB0C2"/>
+  <path d="M190,256 L210,254 C214,262 210,266 204,266 L180,266 C174,266 174,258 182,256 Z" fill="#1A1A1A"/>
+
+  <!-- HELPER front leg, bent, foot between the person's feet -->
+  <path d="M256,168 L206,202 L186,250" fill="none" stroke="#1A1A1A" stroke-width="27"/>
+  <path d="M256,168 L206,202 L186,250" fill="none" stroke="#5A5A5A" stroke-width="22"/>
+  <path d="M240,148 L276,148 L278,169 L240,169 Z" fill="#1B6B93" stroke="none"/>
+  <path d="M238,170 L280,170" fill="none"/>
+  <path d="M168,252 L186,254 C188,262 186,266 180,266 L152,266 C146,266 146,258 156,255 Z" fill="#1A1A1A"/>
+
+  <!-- PERSON near leg, forward -->
+  <path d="M148,160 L174,160 L148,256 L128,254 Z" fill="#A8C2CC"/>
+  <path d="M128,254 L148,256 C150,262 148,266 142,266 L114,266 C108,266 108,258 118,255 Z" fill="#5A5A5A"/>
+  <!-- torso, bent a little forward -->
+  <path d="M120,106 C124,94 140,88 152,88 C166,88 178,94 182,106 C190,126 194,148 194,170 L146,170 C140,148 130,126 120,106 Z" fill="#F5D76E"/>
+  <!-- far arm, hand up at the throat -->
+  <path d="M156,100 C144,104 132,106 120,104" fill="none" stroke="#1A1A1A" stroke-width="17"/>
+  <path d="M156,100 C144,104 132,106 120,104" fill="none" stroke="#F5D76E" stroke-width="12"/>
+  <path d="M122,104 L112,90" fill="none" stroke="#1A1A1A" stroke-width="14"/>
+  <path d="M122,104 L112,90" fill="none" stroke="#E2BB82" stroke-width="9"/>
+  <!-- neck and head, tipped forward, mouth open -->
+  <path d="M120,98 L120,78 L138,80 L138,98 Z" fill="#EED2A4"/>
+  <path d="M98,58 C98,44 108,36 121,36 C135,36 144,46 144,60 C144,74 134,84 120,84 C112,84 104,80 100,74 L94,72 C92,70 93,66 96,65 L99,64 Z" fill="#EED2A4"/>
+  <path d="M100,54 C102,40 116,32 130,36 C142,40 148,52 144,66 C140,60 136,54 130,52 C122,56 112,56 102,54 Z" fill="#5A5A5A"/>
+  <path d="M103,60 C105,62 108,62 110,60" fill="none" stroke-width="2"/>
+  <ellipse cx="103" cy="74" rx="3" ry="3.5" fill="#5A5A5A" stroke-width="2"/>
+  <path d="M132,62 C136,60 138,66 134,70" fill="#E2BB82" stroke-width="2"/>
+  <!-- near arm, hand at the throat -->
+  <path d="M150,104 C138,110 126,112 112,110" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M150,104 C138,110 126,112 112,110" fill="none" stroke="#F5D76E" stroke-width="13"/>
+  <path d="M114,110 L118,94" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M114,110 L118,94" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <path d="M110,92 C112,84 122,82 126,88 C130,94 126,100 118,100 C112,100 108,98 110,92 Z" fill="#EED2A4"/>
+  <path d="M114,88 L124,88 M112,94 L124,94" fill="none" stroke-width="1.8"/>
+
+  <!-- HELPER near arm round the waist, fist just above the navel, other hand over it -->
+  <path d="M230,104 C230,122 222,134 204,138" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M230,104 C230,122 222,134 204,138" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M208,138 C192,141 176,142 160,142" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M208,138 C192,141 176,142 160,142" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <path d="M168,128 C158,123 142,124 137,134 C132,146 140,158 154,158 L168,154 Z" fill="#EED2A4"/>
+  <path d="M140,134 C146,136 152,136 158,134 M137,143 C144,145 152,145 158,143 M140,151 C146,153 152,153 158,151" fill="none" stroke-width="1.8"/>
+
+  <!-- in-and-up thrust arrow -->
+  <path d="M88,190 C114,190 128,178 130,156 C131,146 133,134 139,124 M126,128 L139,122 L141,136" fill="none" stroke="#1B6B93" stroke-width="4"/>
+
+  <!-- food piece popping out with motion lines -->
+  <circle cx="78" cy="62" r="7" fill="#A9C7B0"/>
+  <path d="M92,70 L98,72 M90,58 L96,60 M88,78 L94,78" fill="none" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M66,52 L60,46 M64,62 L56,62 M68,72 L62,78" fill="none" stroke="#1B6B93" stroke-width="3"/>
+</svg>

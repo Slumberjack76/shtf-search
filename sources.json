@@ -1,0 +1,401 @@
+{
+ "schema": 1,
+ "generated": "2026-11-24T16:48:50Z",
+ "generator": "scripts/build_sources_json.py",
+ "sections": [
+  {
+   "id": "kiwix",
+   "title": "Kiwix ZIM files",
+   "status": "ok",
+   "checked": "2026-11-24T16:48:47Z",
+   "source": "https://library.kiwix.org/catalog/v2/entries",
+   "errors": [],
+   "items": [
+    {
+     "kind": "zim",
+     "title": "WikiMed Medical Encyclopedia (maxi)",
+     "id": "wikipedia_en_medicine_maxi",
+     "version": "2026-10",
+     "date": "2026-10-10",
+     "bytes": 1864210432,
+     "url": "https://lb.download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_maxi_2026-10.zim"
+    },
+    {
+     "kind": "zim",
+     "title": "Wikipedia (maxi)",
+     "id": "wikipedia_en_all_maxi",
+     "version": "2026-08",
+     "date": "2026-08-25",
+     "bytes": 127418088448,
+     "url": "https://lb.download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2026-08.zim"
+    },
+    {
+     "kind": "zim",
+     "title": "Wikipedia (nopic)",
+     "id": "wikipedia_en_all_nopic",
+     "version": "2026-06",
+     "date": "2026-06-17",
+     "bytes": 52690707456,
+     "url": "https://lb.download.kiwix.org/zim/wikipedia/wikipedia_en_all_nopic_2026-06.zim"
+    },
+    {
+     "kind": "zim",
+     "title": "Wikivoyage (maxi)",
+     "id": "wikivoyage_en_all_maxi",
+     "version": "2026-09",
+     "date": "2026-09-13",
+     "bytes": 1071169536,
+     "url": "https://lb.download.kiwix.org/zim/wikivoyage/wikivoyage_en_all_maxi_2026-09.zim"
+    },
+    {
+     "kind": "zim",
+     "title": "iFixit in English",
+     "id": "ifixit_en_all",
+     "version": "2025-12",
+     "date": "2025-12-21",
+     "bytes": 3570696192,
+     "url": "https://lb.download.kiwix.org/zim/ifixit/ifixit_en_all_2025-12.zim"
+    },
+    {
+     "kind": "zim",
+     "title": "Post Disaster Resource Library",
+     "id": "zimgit-post-disaster_en",
+     "version": "2024-05",
+     "date": "2024-05-25",
+     "bytes": 644666368,
+     "url": "https://lb.download.kiwix.org/zim/other/zimgit-post-disaster_en_2024-05.zim"
+    },
+    {
+     "kind": "zim",
+     "title": "Wikibooks (nopic)",
+     "id": "wikibooks_en_all_nopic",
+     "version": "2026-10",
+     "date": "2026-10-25",
+     "bytes": 3544612864,
+     "url": "https://lb.download.kiwix.org/zim/wikibooks/wikibooks_en_all_nopic_2026-10.zim"
+    }
+   ]
+  },
+  {
+   "id": "usgs-topo",
+   "title": "USGS topo maps",
+   "status": "ok",
+   "checked": "2026-11-24T16:48:48Z",
+   "source": "https://tnmaccess.nationalmap.gov/api/v1/products",
+   "errors": [],
+   "items": [
+    {
+     "kind": "topo",
+     "title": "Avondale SE, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-23",
+     "bytes": 40274088,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Avondale_SE_20210823_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Calderwood Butte, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-09-02",
+     "bytes": 36115118,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Calderwood_Butte_20210902_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Currys Corner, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-23",
+     "bytes": 38874721,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Currys_Corner_20210823_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "El Mirage, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-09-02",
+     "bytes": 32237118,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_El_Mirage_20210902_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Fowler, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-31",
+     "bytes": 32928085,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Fowler_20210831_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Glendale, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-31",
+     "bytes": 38109144,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Glendale_20210831_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Guadalupe, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-09-02",
+     "bytes": 34069687,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Guadalupe_20210902_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Hedgpeth Hills, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-31",
+     "bytes": 40198940,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Hedgpeth_Hills_20210831_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Laveen, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2023",
+     "date": "2023-07-26",
+     "bytes": 39523869,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Laveen_20230726_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Lone Butte, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2023",
+     "date": "2023-07-26",
+     "bytes": 42205181,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Lone_Butte_20230726_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Paradise Valley, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-23",
+     "bytes": 40847772,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Paradise_Valley_20210823_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Phoenix, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2023",
+     "date": "2023-07-28",
+     "bytes": 41903025,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Phoenix_20230728_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Sunnyslope, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2023",
+     "date": "2023-07-28",
+     "bytes": 47891273,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Sunnyslope_20230728_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Tempe, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-09-02",
+     "bytes": 37459838,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Tempe_20210902_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Tolleson, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-31",
+     "bytes": 30596502,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Tolleson_20210831_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Union Hills, AZ (US Topo)",
+     "area": "Phoenix, AZ",
+     "version": "2021",
+     "date": "2021-08-31",
+     "bytes": 36989226,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/AZ/AZ_Union_Hills_20210831_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Carson City, NV (US Topo)",
+     "area": "Carson City, NV",
+     "version": "2021",
+     "date": "2021-09-24",
+     "bytes": 44312681,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/NV/NV_Carson_City_20210924_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Genoa, NV (US Topo)",
+     "area": "Carson City, NV",
+     "version": "2021",
+     "date": "2021-09-24",
+     "bytes": 39782046,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/NV/NV_Genoa_20210924_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "McTarnahan Hill, NV (US Topo)",
+     "area": "Carson City, NV",
+     "version": "2021",
+     "date": "2021-09-19",
+     "bytes": 41764360,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/NV/NV_McTarnahan_Hill_20210919_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "New Empire, NV (US Topo)",
+     "area": "Carson City, NV",
+     "version": "2021",
+     "date": "2021-09-24",
+     "bytes": 42000118,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/NV/NV_New_Empire_20210924_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Virginia City, NV (US Topo)",
+     "area": "Carson City, NV",
+     "version": "2021",
+     "date": "2021-09-19",
+     "bytes": 44783495,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/NV/NV_Virginia_City_20210919_TM_geo.pdf"
+    },
+    {
+     "kind": "topo",
+     "title": "Washoe City, NV (US Topo)",
+     "area": "Carson City, NV",
+     "version": "2021",
+     "date": "2021-09-19",
+     "bytes": 39432971,
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/NV/NV_Washoe_City_20210919_TM_geo.pdf"
+    }
+   ]
+  },
+  {
+   "id": "official-pdfs",
+   "title": "Official PDFs",
+   "status": "partial",
+   "checked": "2026-11-24T16:48:49Z",
+   "source": null,
+   "errors": [
+    "CDC: Make water safe during an emergency: HTTP 403",
+    "CDC: Heat-related illnesses: HTTP 403"
+   ],
+   "items": [
+    {
+     "kind": "pdf",
+     "title": "CDC: Make water safe during an emergency",
+     "version": null,
+     "date": null,
+     "bytes": null,
+     "url": "https://www.cdc.gov/water-emergency/media/pdfs/make-water-safe-during-emergency-p.pdf",
+     "status": "error",
+     "error": "HTTP 403"
+    },
+    {
+     "kind": "pdf",
+     "title": "CDC: Heat-related illnesses",
+     "version": null,
+     "date": null,
+     "bytes": null,
+     "url": "https://www.cdc.gov/disasters/extremeheat/pdf/Heat_Related_Illness.pdf",
+     "status": "error",
+     "error": "HTTP 403"
+    },
+    {
+     "kind": "pdf",
+     "title": "FEMA / Ready.gov: Are You Ready? guide",
+     "version": "2021-11-04",
+     "date": "2021-11-04",
+     "bytes": 4233522,
+     "url": "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+     "status": "ok"
+    }
+   ]
+  },
+  {
+   "id": "notices-phoenix",
+   "title": "Phoenix, AZ notices",
+   "status": "ok",
+   "checked": "2026-11-24T16:48:49Z",
+   "source": null,
+   "errors": [],
+   "items": [
+    {
+     "kind": "heat",
+     "title": "National Weather Service heat alerts",
+     "status": "none",
+     "note": "No active heat alerts.",
+     "date": "2026-11-24",
+     "url": "https://alerts.weather.gov/"
+    },
+    {
+     "kind": "boil-water",
+     "title": "Phoenix Water Services (boil-water notices)",
+     "status": "page",
+     "note": "Open the page for current notices.",
+     "date": "2026-11-24",
+     "url": "https://www.phoenix.gov/administration/departments/waterservices.html"
+    },
+    {
+     "kind": "cooling",
+     "title": "Phoenix heat response and cooling centers",
+     "status": "page",
+     "note": "Open the page for current notices.",
+     "date": "2026-11-24",
+     "url": "https://www.phoenix.gov/administration/departments/heat.html"
+    }
+   ]
+  },
+  {
+   "id": "notices-carson-city",
+   "title": "Carson City, NV notices",
+   "status": "partial",
+   "checked": "2026-11-24T16:48:50Z",
+   "source": null,
+   "errors": [
+    "Carson City Public Works, water (boil-water notices): URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+    "Carson City cooling centers: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>"
+   ],
+   "items": [
+    {
+     "kind": "heat",
+     "title": "National Weather Service heat alerts",
+     "status": "none",
+     "note": "No active heat alerts.",
+     "date": "2026-11-24",
+     "url": "https://alerts.weather.gov/"
+    },
+    {
+     "kind": "boil-water",
+     "title": "Carson City Public Works, water (boil-water notices)",
+     "status": "error",
+     "note": "Open the page for current notices.",
+     "date": null,
+     "url": "https://www.carson.org/government/departments-a-f/public-works/water-operations"
+    },
+    {
+     "kind": "cooling",
+     "title": "Carson City cooling centers",
+     "status": "error",
+     "note": "Open the page for current notices.",
+     "date": null,
+     "url": "https://www.carson.org/"
+    }
+   ]
+  }
+ ]
+}

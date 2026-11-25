@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Pack the wound: close-up of the upper thigh near the hip, pants cut open; rescuer fingers push gauze into a small slit wound while the other hand feeds the roll -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="210" cy="262" rx="200" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- PATIENT: hip and upper thigh lying flat, hip to the left -->
+  <path d="M-4,132 C100,126 260,134 404,146 L404,250 C280,246 120,248 -4,250 Z" fill="#A8C2CC"/>
+  <path d="M300,148 C304,180 304,214 300,248" fill="none" stroke-width="1.8"/>
+  <!-- gold shirt hem at the hip -->
+  <path d="M-4,124 L58,126 C66,160 66,206 58,240 L-4,240 Z" fill="#F5D76E"/>
+  <path d="M46,128 C52,162 52,204 46,238" fill="none" stroke-width="1.8"/>
+  <!-- pants cut open around the wound -->
+  <path d="M120,152 L142,146 L152,156 L176,148 L196,154 L222,146 L246,154 L262,150 L272,164 L268,188 L276,206 L264,228 L240,232 L222,226 L196,234 L170,228 L148,234 L126,222 L122,200 L114,180 Z" fill="#EED2A4"/>
+  <path d="M120,152 L142,146 L152,156 L176,148 L196,154 L222,146 L246,154 L262,150" fill="none" stroke="#5A5A5A" stroke-width="2"/>
+  <path d="M276,206 L264,228 L240,232 L222,226 L196,234 L170,228 L148,234 L126,222" fill="none" stroke="#5A5A5A" stroke-width="2"/>
+  <!-- small slit wound -->
+  <path d="M150,198 C170,188 210,186 234,192 C210,202 172,204 150,198 Z" fill="#5A5A5A"/>
+
+  <!-- gauze bunched into the wound -->
+  <path d="M160,196 C162,182 182,176 200,178 C216,178 226,186 222,196 C214,204 176,206 160,196 Z" fill="#FFFFFF"/>
+  <path d="M170,186 C172,192 174,196 178,200 M212,182 C212,190 214,196 216,199" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+  <!-- gauze strip running from the wound up to the roll -->
+  <path d="M206,182 C228,168 258,150 290,128 L300,146 C270,166 240,184 216,196 Z" fill="#FFFFFF"/>
+  <path d="M234,166 L244,180 M262,148 L272,162" fill="none" stroke="#D6D0C4" stroke-width="2"/>
+
+  <!-- gauze roll -->
+  <path d="M282,102 L282,140 C282,152 326,152 326,140 L326,102 Z" fill="#FFFFFF"/>
+  <ellipse cx="304" cy="102" rx="22" ry="9" fill="#FFFFFF"/>
+  <ellipse cx="304" cy="102" rx="7" ry="3" fill="#D6D0C4" stroke-width="2"/>
+
+  <!-- RESCUER second hand (from the right) holding the roll -->
+  <path d="M410,150 L352,132" fill="none" stroke="#1A1A1A" stroke-width="36"/>
+  <path d="M410,150 L352,132" fill="none" stroke="#1B6B93" stroke-width="31"/>
+  <path d="M362,140 L380,146" fill="none" stroke="#14526F" stroke-width="2"/>
+  <path d="M342,110 C352,108 360,120 358,136 C356,150 346,156 334,154 L318,150 L318,108 Z" fill="#EED2A4"/>
+  <!-- fingers wrapped across the front of the roll -->
+  <path d="M338,112 C326,110 310,110 300,114 C296,118 298,123 304,124 L338,124" fill="#EED2A4"/>
+  <path d="M338,124 C324,123 308,124 300,128 C296,132 298,137 304,138 L338,138" fill="#EED2A4"/>
+  <path d="M338,138 C326,138 312,139 304,142 C301,146 303,150 308,151 L336,152" fill="#EED2A4"/>
+  <!-- thumb over the top of the roll -->
+  <path d="M342,110 C336,98 324,92 314,94 C310,97 312,102 318,104 C326,106 330,110 334,116 Z" fill="#EED2A4"/>
+
+  <!-- RESCUER main hand (from the top) pushing gauze in with index and middle fingers -->
+  <path d="M92,-12 L150,92" fill="none" stroke="#1A1A1A" stroke-width="44"/>
+  <path d="M92,-12 L150,92" fill="none" stroke="#1B6B93" stroke-width="39"/>
+  <path d="M104,10 L146,86" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- index and middle fingers straight down into the wound -->
+  <path d="M170,136 L184,186" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M170,136 L184,186" fill="none" stroke="#EED2A4" stroke-width="11"/>
+  <path d="M188,132 L200,184" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M188,132 L200,184" fill="none" stroke="#EED2A4" stroke-width="11"/>
+  <path d="M180,180 C182,185 186,187 189,186 M196,178 C198,183 202,185 205,184" fill="none" stroke-width="1.6"/>
+  <!-- back of hand -->
+  <path d="M138,104 C146,90 168,84 182,92 C196,102 206,120 208,136 C204,148 190,150 178,148 C164,146 152,134 144,122 Z" fill="#EED2A4"/>
+  <!-- curled ring and little fingers -->
+  <path d="M206,124 C216,128 220,140 214,148 C208,152 200,148 198,142" fill="#EED2A4"/>
+  <path d="M200,140 C204,148 202,156 194,158 C188,158 184,152 186,146" fill="#EED2A4"/>
+  <!-- thumb, angled out to the side -->
+  <path d="M148,118 C140,128 132,140 128,150 C126,156 132,160 137,156 C144,148 152,140 160,134" fill="#EED2A4"/>
+  <path d="M130,150 C132,148 135,148 137,150" fill="none" stroke-width="1.6"/>
+
+  <!-- push arrow -->
+  <path d="M232,64 L248,116 M236,108 L249,118 L256,104" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

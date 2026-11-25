@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="apple-mobile-web-app-title" content="Help">
+  <meta name="theme-color" content="#1A1A1A">
+  <title>Help Library</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="dim-overlay" aria-hidden="true"></div>
+  <div id="dim-tip" hidden>
+    <p>This iPad screen is LCD. Night makes a red light. Dim darkens the page if the screen is too bright. You can also lower brightness in iPad Settings.</p>
+    <button type="button" class="hit" id="dim-tip-ok">Got it</button>
+  </div>
+  <div class="app-shell">
+    <header class="topbar" id="topbar">
+      <button type="button" class="hit" id="btn-home">
+        <!-- icon filled by JS on first paint too -->
+        <svg class="glyph" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 22 L24 8 L42 22"/><path d="M10 20 V40 H20 V30 H28 V40 H38 V20"/></svg>
+        <span>Home</span>
+      </button>
+      <form class="search-wrap" id="search-form" role="search" action="#">
+        <label class="visually-hidden" for="search" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">What do you need?</label>
+        <input id="search" type="search" placeholder="What do you need?" autocomplete="off" enterkeyhint="search" autocapitalize="none" spellcheck="false">
+      </form>
+      <div class="top-actions">
+        <button type="button" class="hit" id="btn-theme"><span>Night</span></button>
+        <button type="button" class="hit" id="btn-dim"><span>Dim</span></button>
+      </div>
+    </header>
+    <main id="app"></main>
+    <footer class="recent" id="recent"><strong>Recently opened</strong><span>Nothing opened yet.</span></footer>
+  </div>
+  <div class="lightbox" id="lightbox" hidden>
+    <div class="lightbox-bar">
+      <button type="button" class="hit" id="lightbox-close">
+        <svg class="glyph" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 12 L36 36 M36 12 L12 36"/></svg>
+        <span>Close</span>
+      </button>
+    </div>
+    <figure class="lightbox-stage" id="lightbox-stage"></figure>
+    <figcaption id="lightbox-cap"></figcaption>
+  </div>
+  <script src="config.js"></script>
+  <script src="vendor/minisearch.min.js"></script>
+  <script src="js/icons.js"></script>
+  <script src="js/drawings.js"></script>
+  <script src="js/drawings-detailed.js"></script>
+  <script src="js/library.js"></script>
+  <script src="js/search-docs.js"></script>
+  <script src="js/updates.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

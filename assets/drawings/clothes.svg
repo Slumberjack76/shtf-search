@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Loosen or take off extra clothes: person sits in tree shade, helper slips the heavy jacket off their arm, collar open, hat set aside -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <!-- shade on the ground -->
+  <ellipse cx="200" cy="266" rx="190" ry="14" fill="#D6D0C4" stroke="none"/>
+  <!-- palo verde tree overhead -->
+  <path d="M70,262 C72,210 76,150 92,96 M84,120 C100,100 120,86 146,76" fill="none" stroke="#1A1A1A" stroke-width="14"/>
+  <path d="M70,262 C72,210 76,150 92,96 M84,120 C100,100 120,86 146,76" fill="none" stroke="#2E6F40" stroke-width="9"/>
+  <path d="M14,70 C10,46 34,30 60,36 C74,18 108,14 128,26 C150,14 190,16 206,32 C232,26 260,38 258,58 C266,72 248,86 228,82 C210,94 180,92 166,84 C146,96 112,96 96,86 C76,98 40,96 30,84 C16,84 10,78 14,70 Z" fill="#A9C7B0"/>
+  <path d="M60,60 L66,52 M110,48 L118,42 M170,56 L178,48 M214,60 L222,54" fill="none" stroke="#2E6F40" stroke-width="2.5"/>
+
+  <!-- PATIENT sitting, facing left, legs straight out -->
+  <!-- far leg -->
+  <path d="M206,228 C170,226 130,228 100,232 L98,248 C130,246 170,246 206,248 Z" fill="#8FB0C2"/>
+  <path d="M96,230 C92,216 96,206 104,206 C110,208 110,218 108,232 Z" fill="#1A1A1A"/>
+  <!-- jacket hanging off the back, still on the near arm -->
+  <path d="M226,162 C248,176 258,214 264,258 L228,258 C230,220 226,190 216,170 Z" fill="#5A5A5A"/>
+  <path d="M242,196 C248,214 250,236 250,256" fill="none" stroke="#1A1A1A" stroke-width="1.8"/>
+  <!-- torso, gold shirt -->
+  <path d="M190,256 C184,220 184,186 190,166 C200,154 226,154 234,166 C240,196 242,230 240,256 Z" fill="#F5D76E"/>
+  <!-- near leg -->
+  <path d="M236,236 C196,234 140,236 96,240 L94,260 C140,260 196,262 236,262 Z" fill="#A8C2CC"/>
+  <path d="M84,240 C80,226 84,214 92,214 C100,216 100,226 98,244 L98,260 L86,260 Z" fill="#5A5A5A"/>
+  <path d="M86,254 L98,254" fill="none" stroke-width="2"/>
+  <!-- far arm, short sleeve, hand resting on the thigh -->
+  <path d="M206,168 C198,184 192,200 188,212" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M206,168 C198,184 192,200 190,206" fill="none" stroke="#F5D76E" stroke-width="11"/>
+  <path d="M190,206 C180,218 170,226 162,232" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M190,206 C180,218 170,226 162,232" fill="none" stroke="#EED2A4" stroke-width="8.5"/>
+  <path d="M164,226 C156,226 150,232 152,238 L168,238 C170,232 168,228 164,226 Z" fill="#EED2A4"/>
+  <!-- open collar: skin V and collar flaps -->
+  <path d="M198,160 L206,182 L214,160 Z" fill="#EED2A4"/>
+  <path d="M196,158 L206,182 L198,172 L190,166 Z" fill="#F5D76E"/>
+  <path d="M216,158 L206,182 L216,172 L224,166 Z" fill="#F5D76E"/>
+  <!-- neck and head in profile, facing left, eyes open, a bead of sweat -->
+  <path d="M200,144 L214,144 L216,162 L200,162 Z" fill="#EED2A4"/>
+  <path d="M184,124 C184,110 194,100 208,100 C222,100 230,110 230,124 C230,138 222,148 208,148 C198,148 192,144 188,138 L182,136 C180,134 182,130 184,129 Z" fill="#EED2A4"/>
+  <path d="M188,116 C190,102 204,94 218,98 C230,102 234,116 230,130 C226,122 222,116 216,114 C208,118 198,118 188,116 Z" fill="#5A5A5A"/>
+  <circle cx="195" cy="123" r="2" fill="#1A1A1A" stroke="none"/>
+  <path d="M192,138 C195,139 198,139 200,138" fill="none" stroke-width="2"/>
+  <path d="M218,124 C222,122 224,128 220,132" fill="#E2BB82" stroke-width="2"/>
+  <path d="M178,104 C175,109 176,113 179,113 C182,113 182,109 178,104 Z" fill="#D7E6EE" stroke-width="1.8"/>
+  <!-- near arm still in the jacket sleeve, reaching back toward the helper -->
+  <path d="M222,170 C232,184 244,196 256,202 L280,206" fill="none" stroke="#1A1A1A" stroke-width="21"/>
+  <path d="M222,170 C232,184 244,196 256,202 L280,206" fill="none" stroke="#5A5A5A" stroke-width="16"/>
+  <path d="M244,192 C250,198 254,200 260,202" fill="none" stroke="#1A1A1A" stroke-width="1.8"/>
+  <!-- patient's hand coming out of the cuff -->
+  <path d="M286,200 C294,200 300,204 300,208 C300,213 294,214 286,213 Z" fill="#EED2A4"/>
+
+  <!-- HELPER kneeling on the right, facing left -->
+  <path d="M300,250 L356,252 C364,253 366,258 364,264 L300,264 Z" fill="#5A5A5A"/>
+  <path d="M354,252 C366,248 378,252 380,264 L362,264" fill="#1A1A1A"/>
+  <path d="M316,204 C330,198 346,206 344,222 L318,262 C308,266 296,262 294,254 Z" fill="#5A5A5A"/>
+  <!-- torso -->
+  <path d="M300,152 C306,140 324,136 334,144 C346,166 350,196 346,216 C334,224 318,222 310,214 C304,194 300,172 300,152 Z" fill="#1B6B93"/>
+  <path d="M318,146 C320,170 324,194 326,214" fill="none" stroke="#14526F" stroke-width="2"/>
+  <!-- far arm (darker), hand easing the jacket at the elbow -->
+  <path d="M318,158 C308,172 296,182 284,186" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M318,158 C308,172 296,182 284,186" fill="none" stroke="#14526F" stroke-width="11"/>
+  <path d="M286,186 L262,192" fill="none" stroke="#1A1A1A" stroke-width="13"/>
+  <path d="M286,186 L262,192" fill="none" stroke="#E2BB82" stroke-width="8.5"/>
+  <path d="M262,186 C254,186 250,192 252,198 C256,200 262,198 266,194 Z" fill="#E2BB82"/>
+  <!-- neck and head in profile, facing left -->
+  <path d="M306,124 L322,122 L324,142 L308,144 Z" fill="#EED2A4"/>
+  <path d="M290,104 C290,90 300,80 314,80 C328,80 336,90 336,104 C336,118 328,128 314,128 C304,128 298,124 294,118 L288,116 C286,114 288,110 290,109 Z" fill="#EED2A4"/>
+  <path d="M294,96 C296,82 310,74 324,78 C336,82 340,96 336,110 C332,102 328,96 322,94 C314,98 304,98 294,96 Z" fill="#5A5A5A"/>
+  <circle cx="298" cy="104" r="2" fill="#1A1A1A" stroke="none"/>
+  <path d="M298,116 C301,118 304,118 306,117" fill="none" stroke-width="2"/>
+  <path d="M324,104 C328,102 330,108 326,112" fill="#E2BB82" stroke-width="2"/>
+  <!-- near arm pulling the sleeve cuff -->
+  <path d="M324,160 C320,180 314,196 304,206" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M324,160 C320,180 314,196 304,206" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M306,206 L284,208" fill="none" stroke="#1A1A1A" stroke-width="14"/>
+  <path d="M306,206 L284,208" fill="none" stroke="#EED2A4" stroke-width="9.5"/>
+  <!-- hand gripping the cuff, thumb over the top -->
+  <path d="M286,198 C278,196 270,200 270,208 C270,216 278,218 286,216 Z" fill="#EED2A4"/>
+  <path d="M276,200 C272,196 278,192 284,196" fill="#EED2A4" stroke-width="2"/>
+  <path d="M272,206 L280,206 M272,211 L280,211" fill="none" stroke-width="1.8"/>
+
+  <!-- hat set aside on the ground in front -->
+  <path d="M140,286 C140,276 154,272 180,272 C206,272 220,276 220,286 C206,292 154,292 140,286 Z" fill="#E2BB82"/>
+  <path d="M158,278 C158,264 166,256 180,256 C194,256 202,264 202,278 C194,282 166,282 158,278 Z" fill="#E2BB82"/>
+  <path d="M159,272 C170,276 190,276 201,272" fill="none" stroke="#5A5A5A" stroke-width="4"/>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Adult hand placement, close-up from above: heel of one hand on the lower half of the breastbone, other hand on top, fingers laced and lifted -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+
+  <!-- PATIENT on the back, head to the left -->
+  <!-- torso and shirt -->
+  <path d="M116,54 C126,34 160,28 196,28 L404,28 L404,294 L196,294 C160,294 126,288 116,270 C104,240 104,84 116,54 Z" fill="#F5D76E"/>
+  <path d="M150,40 C158,74 158,104 152,120 M150,282 C158,248 158,220 152,204" fill="none" stroke-width="2"/>
+  <!-- neck and collar -->
+  <path d="M88,140 L118,134 C132,146 132,182 118,192 L88,186 Z" fill="#EED2A4"/>
+  <path d="M116,130 C136,144 136,182 116,196" fill="none"/>
+  <!-- head, seen from above, crown to the left, face calm, eyes closed -->
+  <path d="M24,163 C24,138 40,122 62,122 C84,122 100,138 100,163 C100,188 84,204 62,204 C40,204 24,188 24,163 Z" fill="#EED2A4"/>
+  <path d="M24,163 C24,138 40,122 60,122 C50,132 44,146 44,163 C44,180 50,194 60,204 C40,204 24,188 24,163 Z" fill="#5A5A5A"/>
+  <path d="M58,122 C58,114 68,112 70,120 M58,204 C58,212 68,214 70,206" fill="#EED2A4" stroke-width="2"/>
+  <path d="M62,140 C67,143 67,150 62,153 M62,173 C67,176 67,183 62,186" fill="none" stroke-width="2.2"/>
+  <path d="M74,159 C80,158 82,162 80,166 C78,168 74,167 74,165" fill="#E2BB82" stroke-width="2"/>
+  <path d="M88,157 C90,161 90,165 88,169" fill="none" stroke-width="2"/>
+
+  <!-- breastbone landmark -->
+  <path d="M126,156 C126,150 132,148 142,149 L222,153 C232,154 238,158 238,163 C238,168 232,172 222,173 L142,177 C132,178 126,176 126,170 Z" fill="none" stroke="#1B6B93" stroke-width="2" stroke-dasharray="5 5"/>
+
+  <g transform="translate(0,16)">
+  <!-- RESCUER arms from above, shoulders over the hands -->
+  <!-- shadow under the lifted fingers -->
+  <ellipse cx="196" cy="230" rx="34" ry="6" fill="#D6D0C4" stroke="none"/>
+  <!-- forearms and sleeves -->
+  <path d="M182,140 C176,108 170,78 164,44" fill="none" stroke="#1A1A1A" stroke-width="31"/>
+  <path d="M182,140 C176,108 170,78 164,44" fill="none" stroke="#EED2A4" stroke-width="26"/>
+  <path d="M210,140 C216,108 222,78 228,44" fill="none" stroke="#1A1A1A" stroke-width="31"/>
+  <path d="M210,140 C216,108 222,78 228,44" fill="none" stroke="#EED2A4" stroke-width="26"/>
+  <path d="M166,58 L152,-40" fill="none" stroke="#1A1A1A" stroke-width="38"/>
+  <path d="M166,58 L152,-40" fill="none" stroke="#1B6B93" stroke-width="33"/>
+  <path d="M226,58 L240,-40" fill="none" stroke="#1A1A1A" stroke-width="38"/>
+  <path d="M226,58 L240,-40" fill="none" stroke="#14526F" stroke-width="33"/>
+
+  <!-- bottom hand: heel pressing on the breastbone, thumb out to the right -->
+  <path d="M168,140 C170,134 222,134 224,140 L230,196 C230,202 164,202 162,196 Z" fill="#E2BB82"/>
+  <path d="M226,152 C238,158 242,174 238,184 C234,190 228,186 228,178 Z" fill="#E2BB82"/>
+  <!-- bottom hand fingertips poking out between the top fingers, lifted -->
+  <path d="M166,200 L166,216 C166,223 178,223 178,216 L178,200 Z M182,200 L182,220 C182,227 194,227 194,220 L194,200 Z M198,200 L198,220 C198,227 210,227 210,220 L210,200 Z M214,200 L214,214 C214,221 226,221 226,214 L226,200 Z" fill="#E2BB82"/>
+  <!-- top hand: back of the hand, fingers curled down between the bottom fingers -->
+  <path d="M170,134 C172,126 220,126 222,134 L228,190 C228,196 162,196 160,190 Z" fill="#EED2A4"/>
+  <path d="M160,188 L160,204 C160,211 172,211 172,204 L174,190 Z M176,192 L176,210 C176,216 188,216 188,210 L190,192 Z M192,192 L192,210 C192,216 204,216 204,210 L206,192 Z M208,190 L208,204 C208,210 220,210 220,204 L222,190 Z" fill="#EED2A4"/>
+  <path d="M176,170 L178,186 M190,170 L190,188 M204,170 L204,188 M216,168 L216,184" fill="none" stroke="#E2BB82" stroke-width="2"/>
+  <!-- top hand thumb on the left -->
+  <path d="M166,146 C154,152 150,168 154,178 C158,184 164,180 164,172 Z" fill="#EED2A4"/>
+  </g>
+</svg>
