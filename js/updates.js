@@ -288,7 +288,13 @@
         flag.textContent = "Medical cards changed: review first";
         bar.appendChild(flag);
       }
-      bar.appendChild(button("Updates", "status-link", openUpdates));
+      const actions = document.createElement("div");
+      actions.className = "status-actions";
+      actions.appendChild(button("Library", "status-link", () => {
+        if (window.SHTF_DRIVE) window.SHTF_DRIVE.open();
+      }));
+      actions.appendChild(button("Updates", "status-link", openUpdates));
+      bar.appendChild(actions);
     }
     paintTopBadge();
     const u = $("#upd-app");

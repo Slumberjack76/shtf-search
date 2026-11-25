@@ -109,6 +109,9 @@
     state.view = "home";
     state.done = {};
     state.lastCardResults = [];
+    if ((location.hash || "").replace(/^#/, "") === "drive") {
+      try { history.replaceState(null, "", location.pathname + location.search); } catch (_) {}
+    }
     $("#topbar").classList.remove("is-hidden");
     renderRecent();
     const main = $("#app");
@@ -837,6 +840,10 @@
       b.className = "recent-item";
       b.textContent = r.title;
       b.addEventListener("click", () => {
+        if (r.id && String(r.id).indexOf("drive:") === 0 && window.SHTF_DRIVE) {
+          SHTF_DRIVE.openPath(r.id.slice(6));
+          return;
+        }
         if (LIBRARY.cards.some((c) => c.id === r.id)) openCard(r.id);
         else {
           const d = LIBRARY.docs.find((x) => x.id === r.id);
@@ -870,7 +877,7 @@
     });
   }
 
-  window.SHTF = { home, openCard, runSearch, openAllEmergencies, state };
+  window.SHTF = { home, openCard, runSearch, openAllEmergencies, state, remember, renderRecent, stopTimers };
 
   document.addEventListener("DOMContentLoaded", () => {
     loadPrefs();
@@ -882,6 +889,7 @@
     else if (hash === "all") { home(); openAllEmergencies(); }
     else if (hash.startsWith("card/")) { home(); openCard(hash.slice(5)); }
     else if (hash === "updates" && window.SHTF_UPDATES) { home(); stopTimers(); SHTF_UPDATES.openUpdates(); }
+    else if (hash === "drive" && window.SHTF_DRIVE) { home(); SHTF_DRIVE.open(); }
     else if (hash.startsWith("search/")) { home(); const q = decodeURIComponent(hash.slice(7)); $("#search").value = q; runSearch(q); }
     else { home(); }
     window.addEventListener("hashchange", () => {
@@ -889,6 +897,7 @@
       if (!h) home();
       else if (h === "all") openAllEmergencies();
       else if (h === "updates" && window.SHTF_UPDATES) { stopTimers(); SHTF_UPDATES.openUpdates(); }
+      else if (h === "drive" && window.SHTF_DRIVE) SHTF_DRIVE.open();
       else if (h.startsWith("card/")) openCard(h.slice(5));
       else if (h.startsWith("search/")) { const q = decodeURIComponent(h.slice(7)); $("#search").value = q; runSearch(q); }
     });

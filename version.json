@@ -1,7 +1,7 @@
 {
- "version": "f10d5615d7d6",
- "date": "2026-11-24",
- "built": "2026-11-24T17:33:16.302Z",
+ "version": "7b44e1f7734f",
+ "date": "2026-11-25",
+ "built": "2026-11-25T21:01:35.691Z",
  "files": [
   {
    "path": "assets/drawings/bleed-pack.svg",
@@ -179,6 +179,11 @@
    "sha256": "b0be9612b1d57ea7a5c17d112eb80330134c9ac5f71a89942f1a4972862cb131"
   },
   {
+   "path": "data/drive-catalog.json",
+   "bytes": 179583,
+   "sha256": "af46a5cb7968460ca683ca37e447a6289d9fe14a672b0262159fe78d6b206bb2"
+  },
+  {
    "path": "data/search-index.json",
    "bytes": 21852,
    "sha256": "0451e7a39d38980748abac393f512524b95d2d947a0626b2742d129b8c674572"
@@ -210,13 +215,13 @@
   },
   {
    "path": "index.html",
-   "bytes": 3238,
-   "sha256": "bd878112ae454a4c959a44709347f6b18d972782191c26bb54e9331a58b93769"
+   "bytes": 3279,
+   "sha256": "ba97bad0b63669201ae6310e8308c10d886274f8f1a24bc68f583a85970baaae"
   },
   {
    "path": "js/app.js",
-   "bytes": 34282,
-   "sha256": "f6866a9dc1b3be28454dfad88ead9ea15cd00fd220afc220e8aa62a949113114"
+   "bytes": 34791,
+   "sha256": "3b4339834cc9768a914c0d223f913bcf4b718a51fdf943b291eb54b1ad15a3ed"
   },
   {
    "path": "js/drawings-detailed.js",
@@ -229,9 +234,14 @@
    "sha256": "4fe0a0686431e0045bb1a15c80f24e4499b182cb7739fb5581fffb5c99ab53e6"
   },
   {
+   "path": "js/drivelib.js",
+   "bytes": 23587,
+   "sha256": "472e0dee852fb951f7d0b8477ee1c78b586f4fa0fe1331181be568bd5fa3e8a6"
+  },
+  {
    "path": "js/icons.js",
-   "bytes": 10345,
-   "sha256": "7cc0353cd17ef35e00a1440d0c765f9f6da3d98a7ec66eec757412e673743681"
+   "bytes": 10929,
+   "sha256": "e2955faf778b78a7917bd55d286f66fa8f882925e777723298b80f6717e1c871"
   },
   {
    "path": "js/library.js",
@@ -245,8 +255,8 @@
   },
   {
    "path": "js/updates.js",
-   "bytes": 18381,
-   "sha256": "1e7254c61c9f7288552640f34cf8869ebffc36902359b62a995c1c0d39511c07"
+   "bytes": 18649,
+   "sha256": "c53c1ca19e4208e92b142bf37f36506bcd1a80dfc8734a3eebd9a59bd5859fdf"
   },
   {
    "path": "manifest.json",
@@ -295,8 +305,8 @@
   },
   {
    "path": "styles.css",
-   "bytes": 24139,
-   "sha256": "2d2a547411438527d57536cb393ab63946cf1a9da074ec392dc0577ba85d8188"
+   "bytes": 27915,
+   "sha256": "58a192dc40926d0d31b1495dd2087f1110a924120be8b817eb23289077abf70f"
   },
   {
    "path": "vendor/minisearch.min.js",

@@ -36,6 +36,8 @@ window.ICONS = {
   recovery: `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="14" cy="22" r="5"/><path d="M18 24 C28 16 36 20 40 30"/><path d="M22 26 L18 34 M30 22 L34 16"/></svg>`,
   splint: `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 24 H40"/><path d="M16 16 V32 M32 16 V32"/><path d="M12 20 H20 M12 28 H20 M28 20 H36 M28 28 H36"/></svg>`,
   watch: `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="24" cy="24" r="14"/><path d="M24 16 V24 H32"/><rect x="20" y="6" width="8" height="5" rx="1"/><path d="M14 12 L10 8 M34 12 L38 8"/></svg>`,
+  drive: `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="16" width="36" height="22" rx="4"/><path d="M14 16 V12 H34 V16"/><circle cx="34" cy="27" r="2.2" fill="currentColor" stroke="none"/><path d="M12 27 H24"/></svg>`,
+  bushcraft: `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M24 6 L38 26 H10 Z"/><path d="M24 16 L34 36 H14 Z"/><path d="M24 36 V44"/></svg>`,
 }
 
 window.icon = function icon(name, cls) {
