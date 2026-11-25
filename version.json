@@ -1,7 +1,7 @@
 {
- "version": "7b44e1f7734f",
+ "version": "c2b9e456db60",
  "date": "2026-11-25",
- "built": "2026-11-25T21:01:35.691Z",
+ "built": "2026-11-25T21:15:06.484Z",
  "files": [
   {
    "path": "assets/drawings/bleed-pack.svg",
@@ -180,8 +180,8 @@
   },
   {
    "path": "data/drive-catalog.json",
-   "bytes": 179583,
-   "sha256": "af46a5cb7968460ca683ca37e447a6289d9fe14a672b0262159fe78d6b206bb2"
+   "bytes": 179555,
+   "sha256": "aa40772874d8fecb585f03158da1642c3c722404d36421de0fa7c1dcae092728"
   },
   {
    "path": "data/search-index.json",
