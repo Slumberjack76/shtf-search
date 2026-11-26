@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
   <!-- Bleach: drops from a dropper into a clear gallon jug, count the drops, mix, wait half an hour -->
   <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="248" y="28" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">8 drops if clear</text>
+  <text x="248" y="48" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">16 drops if cloudy</text>
+  <text x="248" y="68" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">per gallon. Unscented.</text>
   <ellipse cx="215" cy="262" rx="160" ry="8" fill="#D6D0C4" stroke="none"/>
 
   <!-- PLAIN WHITE BLEACH BOTTLE with blank label and a drop symbol -->
@@ -51,8 +54,9 @@
   <path d="M318,112 A40,40 0 0 1 318,192" fill="none" stroke="#1B6B93" stroke-width="4"/>
   <path d="M318,112 L318,120 M358,152 L350,152 M318,192 L318,184 M278,152 L286,152" fill="none" stroke-width="3"/>
   <path d="M338,118 L336,122 M352,132 L348,134 M352,172 L348,170 M338,186 L336,182 M298,186 L300,182 M284,172 L288,170 M284,132 L288,134 M298,118 L300,122" fill="none" stroke-width="2"/>
+  <!-- elapsed half hour: minute hand at 6, hour hand only a little past 12 -->
   <path d="M318,152 L318,186" fill="none" stroke="#1A1A1A" stroke-width="4"/>
-  <path d="M318,152 L298,140" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+  <path d="M318,152 L325,128" fill="none" stroke="#1A1A1A" stroke-width="5"/>
   <circle cx="318" cy="152" r="4.5" fill="#1A1A1A"/>
 
   <!-- counted drops: a row of eight -->

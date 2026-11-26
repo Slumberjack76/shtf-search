@@ -18,15 +18,14 @@
   <text x="92" y="100" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">to the reel</text>
   <text x="188" y="44" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">2. Tag through A, then B.</text>
   <path d="M230,168 L230,156" stroke="#5A5A5A" stroke-width="3"/>
-  <circle cx="230" cy="148" r="10" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
-  <path d="M230,138 L230,78" stroke="#1B6B93" stroke-width="4"/>
-  <path d="M250,70 L236,140" stroke="#C62828" stroke-width="3"/>
-  <path d="M236,140 L230,132 M236,140 L242,132" stroke="#C62828" stroke-width="2"/>
-  <text x="246" y="156" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">A small loop, first</text>
-  <ellipse cx="320" cy="88" rx="36" ry="24" fill="none" stroke="#C62828" stroke-width="3"/>
-  <path d="M248,100 L300,88" stroke="#C62828" stroke-width="3"/>
-  <path d="M300,88 L288,82 M300,88 L290,96" stroke="#C62828" stroke-width="2"/>
-  <text x="268" y="124" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">B big loop, second</text>
+  <circle cx="230" cy="148" r="11" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <path d="M230,137 L230,78" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M252,70 L236,120 L230,148 L220,162" stroke="#C62828" stroke-width="3"/>
+  <path d="M220,162 C200,150 198,112 224,100 L268,92" stroke="#C62828" stroke-width="3"/>
+  <path d="M258,84 L272,92 L258,100" stroke="#C62828" stroke-width="2"/>
+  <text x="246" y="168" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">A through the small loop</text>
+  <ellipse cx="300" cy="96" rx="34" ry="22" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <text x="248" y="132" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">B then the big loop</text>
   <text x="188" y="186" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12">Second pass makes it improved.</text>
   <text x="12" y="206" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">3. Finished. Coils stacked on the eye. Short tag left on.</text>
   <path d="M48,300 L48,268" stroke="#5A5A5A" stroke-width="3"/>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Rainbow on dry firm meat can be normal. Slime is not.</text>
+  <rect x="16" y="48" width="176" height="140" rx="8" fill="#FFFFFF" stroke="#2E6F40" stroke-width="3"/>
+  <rect x="36" y="70" width="130" height="50" rx="4" fill="#C45C4A"/>
+  <path d="M50,90 C80,80 120,100 150,88" stroke="#1B6B93" stroke-width="3"/>
+  <text x="32" y="144" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">dry, firm, no slime,</text>
+  <text x="32" y="162" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">no bad smell</text>
+  <rect x="208" y="48" width="176" height="140" rx="8" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <rect x="228" y="70" width="130" height="50" rx="4" fill="#6E8A62"/>
+  <path d="M240,96 C270,86 310,104 340,92" stroke="#3D6B4F" stroke-width="5"/>
+  <text x="224" y="144" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">shine plus slime</text>
+  <text x="224" y="162" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">or a bad smell</text>
+  <text x="16" y="220" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Cooking does not make spoiled meat safe.</text>
+  <text x="16" y="248" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Rainbow alone, on dry firm meat, is not spoilage.</text>
+</svg>

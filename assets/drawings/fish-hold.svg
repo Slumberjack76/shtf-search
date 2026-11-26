@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Rinse with clean water. Keep it cold. Learn the fresh signs.</text>
+  <path d="M30,80 C70,56 130,56 160,80 C130,104 70,104 30,80 Z" fill="#B7C9C4"/>
+  <circle cx="140" cy="76" r="5" fill="#FFFFFF" stroke="#1A1A1A"/>
+  <path d="M100,90 C110,98 124,98 132,90" stroke="#C62828" stroke-width="3"/>
+  <text x="176" y="70" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">clear eye</text>
+  <text x="176" y="90" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">red or pink gills</text>
+  <text x="176" y="110" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">flesh springs back</text>
+  <path d="M30,170 C70,146 130,146 160,170 C130,194 70,194 30,170 Z" fill="#A8B0A4"/>
+  <text x="176" y="160" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">sunken eye, brown gills,</text>
+  <text x="176" y="180" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">slime, or a dent that stays</text>
+  <text x="176" y="202" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">STOP</text>
+  <text x="16" y="236" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Clean cold water only. Not a dirty ditch.</text>
+  <text x="16" y="262" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">No ice in desert heat: cook it the same day.</text>
+  <text x="16" y="286" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Keep what you will cook cold until then.</text>
+</svg>

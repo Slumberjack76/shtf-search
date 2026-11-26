@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="260" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Rabbit and squirrel 165. Birds 165. Fish 145.</text>
+  <text x="24" y="70" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Rabbit, squirrel</text>
+  <text x="250" y="70" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">165°F</text>
+  <text x="24" y="110" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">All birds, and ground bird</text>
+  <text x="250" y="110" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">165°F</text>
+  <text x="24" y="150" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Fish, opaque and it flakes</text>
+  <text x="250" y="150" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">145°F</text>
+  <text x="16" y="200" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not eat raw freshwater fish.</text>
+  <text x="16" y="226" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">These are center temperatures, not the air in the pot.</text>
+</svg>

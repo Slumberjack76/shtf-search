@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Pieces apart, in the shade, off the ground, with air.</text>
+  <path d="M20,48 L140,28 L190,52 L30,70 Z" fill="#D6D0C4" stroke="none"/>
+  <text x="40" y="54" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">SHADE</text>
+  <rect x="40" y="160" width="320" height="16" fill="#E7C4A0" stroke="none"/>
+  <text x="48" y="154" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">hot ground — meat stays off it</text>
+  <rect x="60" y="100" width="40" height="28" fill="#C45C4A" stroke="none"/>
+  <rect x="140" y="96" width="40" height="28" fill="#C45C4A" stroke="none"/>
+  <rect x="220" y="104" width="40" height="28" fill="#C45C4A" stroke="none"/>
+  <path d="M40,90 L70,110" stroke="#1B6B93" stroke-width="2"/>
+  <text x="16" y="210" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not stack warm pieces.</text>
+  <text x="16" y="234" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not seal them in plastic.</text>
+  <text x="16" y="258" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Air has to reach every side.</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Found dead, or it let you walk up. Do not eat it.</text>
+  <ellipse cx="90" cy="110" rx="50" ry="24" fill="#C4A574" stroke="#C62828" stroke-width="3"/>
+  <text x="160" y="70" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">already dead</text>
+  <text x="160" y="98" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">tame, or stumbling</text>
+  <text x="160" y="126" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">drooling</text>
+  <text x="160" y="154" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">very thin</text>
+  <text x="16" y="200" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">You cannot tell why a sick or dead animal died.</text>
+  <text x="16" y="228" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not eat it. Do not taste it.</text>
+  <text x="16" y="256" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Wash up if you touched it.</text>
+</svg>

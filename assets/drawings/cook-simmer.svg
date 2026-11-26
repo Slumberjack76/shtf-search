@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">No thermometer: 1-inch chunks, simmered through.</text>
+  <path d="M80,160 C80,100 240,100 240,160 L220,180 L100,180 Z" fill="#5A5A5A"/>
+  <circle cx="130" cy="140" r="10" fill="#C45C4A"/>
+  <circle cx="160" cy="132" r="10" fill="#C45C4A"/>
+  <circle cx="190" cy="142" r="10" fill="#C45C4A"/>
+  <text x="16" y="210" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">About 1 inch. Center gray-brown all the way through.</text>
+  <text x="16" y="234" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">The pot has to be at a simmer, not just hot outside.</text>
+  <text x="16" y="260" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">If you are not sure, do not eat it.</text>
+</svg>

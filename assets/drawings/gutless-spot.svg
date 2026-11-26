@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Wash only the spot the gut touched. Dry it at once.</text>
+  <rect x="40" y="60" width="200" height="120" rx="8" fill="#C45C4A"/>
+  <circle cx="110" cy="110" r="18" fill="#E7B4A8" stroke="#C62828" stroke-width="3"/>
+  <text x="96" y="114" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">spot</text>
+  <path d="M150,70 L190,110" stroke="#1B6B93" stroke-width="3"/>
+  <text x="196" y="90" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">clean water</text>
+  <text x="196" y="112" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">on that spot only</text>
+  <text x="16" y="214" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Dry it right away. Do not wash the rest of the meat.</text>
+  <text x="16" y="242" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Rinsing spreads the mess onto clean meat.</text>
+</svg>

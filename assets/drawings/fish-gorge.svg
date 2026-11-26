@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Gorge: sharp both ends, line in the middle notch.</text>
+  <path d="M40,90 L200,90" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M40,90 L26,82 M40,90 L26,98" stroke-width="2"/>
+  <path d="M200,90 L214,82 M200,90 L214,98" stroke-width="2"/>
+  <path d="M120,90 L120,50" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M108,90 L132,90" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="140" y="60" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">line on the notch</text>
+  <ellipse cx="120" cy="112" rx="70" ry="14" fill="#E7B4A8" stroke="#C45C4A"/>
+  <text x="60" y="150" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">bait laid lengthwise over the gorge</text>
+  <path d="M70,190 L150,230" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M110,210 L110,176" stroke="#1B6B93" stroke-width="3"/>
+  <text x="160" y="214" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">a pull turns it sideways</text>
+</svg>

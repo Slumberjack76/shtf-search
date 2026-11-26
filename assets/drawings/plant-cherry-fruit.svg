@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="400" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Flower and fruit. No papery husk means stop.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">GROUND CHERRY</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">NIGHTSHADE AND DATURA</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — yellow, hangs</text>
+  <path d="M80,78 L80,100" stroke="#3E6B32" stroke-width="2"/>
+  <path d="M58,108 C58,128 102,128 102,108 C102,120 58,120 58,108 Z" fill="#F2D15A"/>
+  <path d="M70,116 L78,122 L86,116" stroke="#5A3A1A" stroke-width="1.5"/>
+  <text x="16" y="156" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Hangs down. Often dark spots</text>
+  <text x="16" y="170" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">in the throat. Five fused lobes.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWERS — star, or a trumpet</text>
+  <circle cx="250" cy="112" r="18" fill="none" stroke="#7A4E9A" stroke-width="6"/>
+  <circle cx="250" cy="112" r="4" fill="#F2D15A" stroke="none"/>
+  <path d="M310,96 C310,78 348,78 348,100 C348,118 310,118 310,100 Z" fill="#F7F3EA"/>
+  <path d="M318,100 L340,100" stroke="#E7D48A" stroke-width="3"/>
+  <text x="210" y="156" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Nightshade: purple star, yellow</text>
+  <text x="210" y="170" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">anthers. Datura: huge white trumpet.</text>
+  <text x="16" y="196" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FRUIT — berry in a husk</text>
+  <path d="M50,214 L110,214 L100,268 L60,268 Z" fill="#E7D48A"/>
+  <path d="M80,214 L80,204" stroke="#3E6B32" stroke-width="2"/>
+  <circle cx="80" cy="244" r="12" fill="#E08A00"/>
+  <text x="16" y="286" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Papery husk. Eat only a ripe</text>
+  <text x="16" y="300" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">soft berry from a dry husk.</text>
+  <text x="210" y="196" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FRUIT — bare or spiny</text>
+  <circle cx="250" cy="244" r="14" fill="#F2D15A"/>
+  <path d="M242,228 L246,234 M250,224 L250,232 M258,228 L254,234" stroke="#3E6B32" stroke-width="1.6"/>
+  <circle cx="330" cy="244" r="16" fill="#C4B49A"/>
+  <path d="M318,236 L312,228 M330,228 L330,220 M342,236 L350,226 M322,252 L314,258 M340,254 L348,262" stroke="#5A5A5A" stroke-width="1.6"/>
+  <text x="210" y="286" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Yellow berry, no husk: poison.</text>
+  <text x="210" y="300" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Spiny round pod: datura. Poison.</text>
+  <text x="16" y="326" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — not food</text>
+  <path d="M70,340 L70,378" stroke="#8A6A42" stroke-width="4"/>
+  <path d="M70,356 L54,370 M70,362 L88,376" stroke="#8A6A42" stroke-width="2"/>
+  <text x="100" y="366" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Green fruit is not food.</text>
+  <text x="210" y="326" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — thick, deadly</text>
+  <path d="M250,338 L250,384" stroke="#C4A574" stroke-width="12"/>
+  <text x="276" y="366" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Every part. Do not eat it.</text>
+</svg>

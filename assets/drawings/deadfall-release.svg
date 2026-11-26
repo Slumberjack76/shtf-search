@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Release: angled notch, short tip under the log, long end down.</text>
+  <path d="M40,200 L260,60" stroke="#C4A574" stroke-width="12"/>
+  <path d="M244,72 L260,60 L268,82 L250,76 Z" fill="#F4F1EA"/>
+  <text x="200" y="48" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">angled notch</text>
+  <text x="16" y="48" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">hooks the sloped top</text>
+  <path d="M250,70 L320,40 L340,70 L300,78 Z" fill="#8A6A42"/>
+  <text x="250" y="110" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">short tip under the log</text>
+  <text x="16" y="240" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">The long end goes down to the bait stick.</text>
+  <text x="16" y="264" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">This stick is not the upright.</text>
+</svg>

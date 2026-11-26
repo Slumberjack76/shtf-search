@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Short droppers, fixed so they cannot slide or wrap.</text>
+  <rect x="16" y="48" width="368" height="150" fill="#D7E6EE" stroke="#1B6B93"/>
+  <path d="M40,80 L360,80" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M90,80 L90,140" stroke="#C62828" stroke-width="2"/>
+  <path d="M180,80 L180,145" stroke="#C62828" stroke-width="2"/>
+  <path d="M270,80 L270,136" stroke="#C62828" stroke-width="2"/>
+  <path d="M90,146 L104,136" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M180,151 L194,141" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M270,142 L284,132" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="16" y="224" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Each dropper is shorter than half the gap to the next.</text>
+  <text x="16" y="248" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Tie them so they cannot slide on the main line.</text>
+  <text x="16" y="270" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">A stone can hold the line down. Bait each hook.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="320" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Cook it only when every line here is true.</text>
+  <text x="24" y="52" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">1  The animal acted normal.</text>
+  <text x="24" y="76" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">2  You dressed it soon.</text>
+  <text x="24" y="100" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">3  The organs looked normal.</text>
+  <text x="24" y="124" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">4  Gut contents did not soak the meat.</text>
+  <text x="24" y="148" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">5  You cooled it fast, or you are still in the time limit.</text>
+  <text x="24" y="172" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">6  It smells mild. It is firm, not sticky, not green.</text>
+  <text x="16" y="214" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Then use the cooking temperatures.</text>
+  <text x="16" y="246" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">One failed line: do not eat it.</text>
+  <text x="16" y="274" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Looks can lie if it sat warm too long.</text>
+  <text x="16" y="298" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Heat does not fix meat that already spoiled.</text>
+</svg>

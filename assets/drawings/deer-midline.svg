@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="320" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Shallow cut. Knife edge toward the hide. Do not stab.</text>
+  <rect x="24" y="44" width="352" height="22" rx="3" fill="#8A6A42" stroke="none"/>
+  <text x="36" y="60" fill="#FFFFFF" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">HIDE — outside. Edge points this way.</text>
+  <rect x="24" y="66" width="352" height="28" fill="#E7D3A8" stroke="none"/>
+  <text x="36" y="86" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">belly wall</text>
+  <path d="M70,150 L250,120 L278,136 L250,152 Z" fill="#D0D0D0"/>
+  <path d="M78,142 L248,122" stroke="#1B6B93" stroke-width="4"/>
+  <text x="300" y="108" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">edge UP</text>
+  <path d="M278,136 L318,156 L318,118 Z" fill="#5A5A5A"/>
+  <text x="324" y="142" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500">handle</text>
+  <path d="M90,168 C120,148 150,148 176,170" stroke="#E2BB82" stroke-width="10"/>
+  <path d="M130,176 C160,156 188,158 210,178" stroke="#EED2A4" stroke-width="10"/>
+  <text x="40" y="206" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">two fingers push the guts down, away from the blade</text>
+  <rect x="40" y="216" width="200" height="16" rx="3" fill="#E7B4A8" stroke="none"/>
+  <path d="M36,250 L340,250" stroke="#1B6B93" stroke-width="3" stroke-dasharray="7 4"/>
+  <text x="36" y="272" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">breastbone</text>
+  <text x="250" y="272" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">pelvis</text>
+  <text x="12" y="302" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Skin and belly wall only. Start where the breastbone ends.</text>
+</svg>

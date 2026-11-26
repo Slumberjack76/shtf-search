@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Blow just behind the eyes. Cut the gills and bleed it.</text>
+  <path d="M40,140 C80,90 190,86 280,116 C310,128 330,140 348,140 C330,152 310,164 280,176 C190,206 80,196 40,156 C28,148 28,148 40,140 Z" fill="#B7C9C4"/><path d="M40,140 L16,122 L22,148 L16,170 L40,156" fill="#8FB0B0"/><circle cx="310" cy="132" r="5" fill="#1A1A1A" stroke="none"/>
+  <path d="M280,90 L300,118" stroke="#C62828" stroke-width="3"/>
+  <text x="160" y="78" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">blow behind the eyes</text>
+  <path d="M286,124 C294,138 294,156 278,168" stroke="#C62828" stroke-width="3"/>
+  <text x="16" y="220" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Cut the gills or the throat. Let the blood drain.</text>
+  <text x="16" y="248" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Head is to the right. Tail is to the left.</text>
+</svg>

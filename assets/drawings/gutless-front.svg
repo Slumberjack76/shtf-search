@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Front leg: no bone joint. Cut muscle in the armpit.</text>
+  <path d="M36,160 C50,120 100,108 170,112 L300,120 C350,128 372,156 366,186 C350,214 300,224 230,220 L100,214 C50,208 36,190 36,160 Z" fill="#EED2A4"/><circle cx="48" cy="142" r="14" fill="#EED2A4"/>
+  <path d="M90,150 L140,160 L132,220 L78,206 Z" fill="#C4A574" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M110,168 L100,210" stroke="#C62828" stroke-width="3"/>
+  <text x="150" y="180" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">pull the leg out</text>
+  <text x="150" y="202" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">cut the armpit muscle</text>
+  <text x="16" y="260" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">There is no socket to find. Stay close to the ribs.</text>
+  <text x="16" y="284" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">The shoulder hangs on muscle only.</text>
+</svg>

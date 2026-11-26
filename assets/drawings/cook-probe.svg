@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="260" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Thermometer in the center. Not on the bone. Color lies.</text>
+  <ellipse cx="140" cy="120" rx="80" ry="40" fill="#C45C4A"/>
+  <path d="M110,108 L170,136" stroke="#F4F1EA" stroke-width="8"/>
+  <path d="M180,40 L140,110" stroke="#1B6B93" stroke-width="3"/>
+  <circle cx="180" cy="36" r="8" fill="#FFFFFF" stroke="#1B6B93"/>
+  <text x="200" y="70" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">tip in the middle</text>
+  <path d="M200,100 L160,124" stroke="#C62828" stroke-width="2"/>
+  <text x="206" y="100" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">not on bone</text>
+  <text x="16" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Thickest part. Color is not a test.</text>
+  <text x="16" y="216" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">If you cannot measure it, use the no-thermometer step.</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Shank, a point that cannot shift, and a stone above it.</text>
+  <path d="M40,120 L140,120" stroke="#8A6A42" stroke-width="8"/>
+  <path d="M140,120 L170,96" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M120,120 L120,96" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="40" y="150" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">hardwood shank</text>
+  <text x="150" y="88" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">thorn, bone, or nail</text>
+  <text x="150" y="108" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">lashed into a notch</text>
+  <circle cx="280" cy="150" r="22" fill="#5A5A5A" stroke="none"/>
+  <path d="M280,128 L280,70" stroke="#1B6B93" stroke-width="3"/>
+  <text x="230" y="60" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">stone weight</text>
+  <text x="16" y="210" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Tie the stone on the line above the hook.</text>
+  <text x="16" y="236" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">The point has to stay put when a fish pulls.</text>
+  <text x="16" y="262" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">It is a weight, not the hook.</text>
+</svg>

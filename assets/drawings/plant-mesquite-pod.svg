@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="360" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Flower, pod, and root. Red seeds are poison.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">MESQUITE</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">RED-SEED TREES</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — yellow catkin</text>
+  <path d="M70,78 L70,150" stroke="#C4A04A" stroke-width="14"/>
+  <g fill="#F2D15A" stroke="none">
+    <circle cx="64" cy="90" r="3"/><circle cx="76" cy="98" r="3"/><circle cx="64" cy="108" r="3"/>
+    <circle cx="76" cy="118" r="3"/><circle cx="64" cy="128" r="3"/><circle cx="76" cy="138" r="3"/>
+  </g>
+  <text x="16" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">A fuzzy yellow spike.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — not a yellow spike</text>
+  <path d="M250,90 C258,78 278,78 286,92 C294,78 314,80 316,96 C308,108 286,112 274,102 C262,112 246,106 250,90 Z" fill="#7A4E9A"/>
+  <path d="M300,118 C310,108 328,110 330,124 C322,134 304,132 300,118 Z" fill="#C62828"/>
+  <text x="210" y="156" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Laurel: purple pea clusters.</text>
+  <text x="210" y="170" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Coral bean: red tubes, 3 leaflets.</text>
+  <text x="16" y="196" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">POD — tan, pinched</text>
+  <path d="M24,214 C60,206 120,230 168,220 C150,236 70,240 28,230 Z" fill="#D2B48C"/>
+  <path d="M52,220 L52,228 M80,222 L80,232 M110,224 L110,232 M138,222 L138,228" stroke="#8A6A42" stroke-width="1.4"/>
+  <ellipse cx="80" cy="226" rx="5" ry="3" fill="#6B5344"/>
+  <text x="16" y="256" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Dry tan pods. Seeds are brown,</text>
+  <text x="16" y="270" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">not red. Skip moldy black pods.</text>
+  <text x="210" y="196" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">POD — opens to red seeds</text>
+  <path d="M220,214 L360,214 L352,242 L228,242 Z" fill="#6B5344"/>
+  <g fill="#C62828" stroke="#1A1A1A" stroke-width="1">
+    <ellipse cx="250" cy="228" rx="8" ry="6"/><ellipse cx="276" cy="228" rx="8" ry="6"/>
+    <ellipse cx="302" cy="228" rx="8" ry="6"/><ellipse cx="328" cy="228" rx="8" ry="6"/>
+  </g>
+  <text x="210" y="262" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Bright red seeds. Deadly.</text>
+  <text x="210" y="276" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Do not put one in your mouth.</text>
+  <text x="16" y="300" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — deep taproot, not food</text>
+  <path d="M70,312 L70,348" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M70,330 L48,344 M70,336 L96,350" stroke="#8A6A42" stroke-width="3"/>
+  <text x="100" y="340" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Eat the dry pod, not the root.</text>
+  <text x="210" y="312" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Laurel and coral-bean roots</text>
+  <text x="210" y="328" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">are not food either. Seeds kill.</text>
+</svg>

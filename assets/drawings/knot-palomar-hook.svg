@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Whole hook through the loop. Then pull both ends.</text>
+  <ellipse cx="130" cy="150" rx="70" ry="42" stroke="#1A1A1A" stroke-width="2.5"/>
+  <path d="M150,108 L150,70" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M168,108 L168,70" stroke="#C62828" stroke-width="3"/>
+  <path d="M130,192 L130,150" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M130,150 L130,118" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M130,118 C156,108 168,128 154,140" stroke="#5A5A5A" stroke-width="3"/>
+  <text x="214" y="140" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">whole hook</text>
+  <text x="214" y="162" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">through the loop</text>
+  <text x="214" y="184" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">point first</text>
+  <text x="16" y="270" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Wet the line. Pull the standing line and the tag together.</text>
+</svg>

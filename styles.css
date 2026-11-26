@@ -541,6 +541,34 @@ main {
   color: #000;
 }
 
+/* Food / hunting cards use a topic header, not the red HELP NOW bar. */
+.card-header.is-topic {
+  background: var(--surface);
+  color: var(--ink-strong);
+  border-bottom: 2px solid var(--line);
+}
+.card-header.is-topic h1 {
+  color: var(--ink-strong);
+}
+.card-header.is-topic .hit {
+  background: var(--bg);
+  color: var(--ink-strong);
+  border: 2px solid var(--line);
+}
+[data-theme="night"] .card-header.is-topic {
+  background: #000;
+  color: var(--ink-strong);
+  border-bottom: 3px solid var(--ink-strong);
+}
+[data-theme="night"] .card-header.is-topic h1 {
+  color: var(--ink-strong);
+}
+[data-theme="night"] .card-header.is-topic .hit {
+  background: var(--bg);
+  color: var(--ink-strong);
+  border: 2px solid var(--line);
+}
+
 .call-banner {
   background: var(--banner);
   color: var(--banner-text);
@@ -1031,7 +1059,8 @@ a.status-link:visited {
   font-size: 20px;
   font-weight: 700;
   line-height: 1.3;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 [data-theme="night"] .drive-folder-hint {
   border-color: var(--ink-strong);

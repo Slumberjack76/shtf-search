@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Upright: sloped top, square notch, flat bottom. Do not stake.</text>
+  <path d="M150,40 L190,60 L190,150 L168,150 L168,176 L190,176 L190,240 L150,240 Z" fill="#E7D3A8"/>
+  <text x="210" y="56" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">top slopes down</text>
+  <text x="210" y="80" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">to one side</text>
+  <text x="210" y="168" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">square notch, low,</text>
+  <text x="210" y="188" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">on that same side</text>
+  <text x="16" y="270" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Bottom stays flat. Do not pound this stick into the ground.</text>
+</svg>

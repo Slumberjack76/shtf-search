@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Gut contents or urine: cut it off, plus a margin.</text>
+  <rect x="40" y="60" width="220" height="110" rx="6" fill="#C45C4A"/>
+  <ellipse cx="100" cy="110" rx="28" ry="18" fill="#E7B4A8" stroke="#C62828" stroke-width="3"/>
+  <path d="M130,90 L180,140" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="250" y="100" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">clean knife</text>
+  <text x="250" y="122" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">cut the spot</text>
+  <text x="250" y="142" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">and a margin</text>
+  <text x="16" y="200" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Do not rinse that mess into the rest of the carcass.</text>
+  <text x="16" y="226" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">If you cannot remove all of it, do not eat the meat.</text>
+  <text x="16" y="254" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Washing spreads it. Cutting it away does not.</text>
+</svg>

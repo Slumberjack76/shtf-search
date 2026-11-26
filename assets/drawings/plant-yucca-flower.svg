@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="400" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">No onion smell on the bulb means death camas.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">YUCCA</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">DEATH CAMAS</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — thick creamy bell</text>
+  <path d="M70,78 L70,150" stroke="#6E8F45" stroke-width="3"/>
+  <path d="M70,100 C58,108 56,128 70,136 C84,128 82,108 70,100 Z" fill="#F4F1EA"/>
+  <path d="M70,118 C62,124 64,136 70,140 C78,136 76,124 70,118 Z" fill="#F7F3EA"/>
+  <text x="16" y="166" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Waxy bells on a stalk that</text>
+  <text x="16" y="180" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">can bloom in later years.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — star on a spike</text>
+  <path d="M300,78 L300,156" stroke="#6E8F45" stroke-width="2"/>
+  <g fill="#F7F3EA" stroke="#1A1A1A" stroke-width="1.2">
+    <path d="M300,96 L294,104 L300,102 L306,104 Z"/>
+    <path d="M300,116 L294,124 L300,122 L306,124 Z"/>
+    <path d="M300,136 L294,144 L300,142 L306,144 Z"/>
+  </g>
+  <circle cx="298" cy="102" r="1.4" fill="#3E6B32" stroke="none"/>
+  <circle cx="298" cy="122" r="1.4" fill="#3E6B32" stroke="none"/>
+  <text x="210" y="166" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Six petals. A green gland</text>
+  <text x="210" y="180" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">at the base of each petal.</text>
+  <text x="16" y="206" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FRUIT — banana yucca</text>
+  <path d="M48,224 C48,214 100,214 100,228 L92,256 C80,264 60,264 52,256 Z" fill="#6E8F45"/>
+  <text x="16" y="276" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Short fleshy fruit. Cook it.</text>
+  <text x="16" y="290" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Do not eat the leaf.</text>
+  <text x="210" y="206" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — grass, from a bulb</text>
+  <path d="M280,230 L268,280 M300,224 L300,286 M320,230 L332,280" stroke="#6E8F45" stroke-width="3"/>
+  <text x="210" y="276" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Grass-like leaves. No yucca</text>
+  <text x="210" y="290" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">swords. No onion smell.</text>
+  <text x="16" y="316" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — thick, under the rosette</text>
+  <path d="M16,348 L180,348" stroke="#C4B49A" stroke-width="8"/>
+  <path d="M70,348 L70,372" stroke="#C4A574" stroke-width="14"/>
+  <path d="M70,360 L52,376 M70,366 L92,380" stroke="#8A6A42" stroke-width="3"/>
+  <text x="100" y="372" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Not a small onion bulb.</text>
+  <text x="210" y="316" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — coated bulb. Deadly.</text>
+  <path d="M206,348 L390,348" stroke="#C4B49A" stroke-width="8"/>
+  <ellipse cx="300" cy="368" rx="16" ry="12" fill="#E7D3A8"/>
+  <path d="M292,360 L286,352 M300,356 L300,348 M308,360 L314,352" stroke="#6B5344" stroke-width="1.4"/>
+  <text x="210" y="392" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">No onion smell. Never eat it.</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Meat off the bone now, or a whole carcass until tomorrow.</text>
+  <rect x="16" y="48" width="176" height="220" rx="8" fill="#FFFFFF" stroke="#2E6F40" stroke-width="3"/>
+  <text x="28" y="76" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">GUTLESS</text>
+  <text x="28" y="104" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">You will take the</text>
+  <text x="28" y="124" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">meat off now.</text>
+  <rect x="40" y="150" width="36" height="50" fill="#C45C4A" stroke="none"/>
+  <rect x="86" y="150" width="36" height="50" fill="#C45C4A" stroke="none"/>
+  <rect x="132" y="160" width="36" height="40" fill="#C45C4A" stroke="none"/>
+  <text x="28" y="240" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">quarters off the bone</text>
+  <rect x="208" y="48" width="176" height="220" rx="8" fill="#FFFFFF" stroke="#1B6B93" stroke-width="3"/>
+  <text x="220" y="76" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">FIELD DRESS</text>
+  <text x="220" y="104" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">The whole carcass</text>
+  <text x="220" y="124" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">sits until tomorrow.</text>
+  <path d="M230,170 C250,150 340,150 356,176 C340,200 250,200 230,176 Z" fill="#C4A574"/>
+  <text x="220" y="240" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">open it and cool it</text>
+</svg>

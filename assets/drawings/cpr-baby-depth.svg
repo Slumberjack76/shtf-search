@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
-  <!-- Infant CPR, side view: baby on a firm table, two fingers press the center of the chest down about one third of its depth, then let it come back up -->
+  <!-- Infant CPR, side view: baby on a firm table, heel of one hand presses the center of the chest about one third of its depth, then lets it come back up -->
   <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
   <ellipse cx="210" cy="262" rx="160" ry="8" fill="#D6D0C4" stroke="none"/>
 
@@ -45,18 +45,16 @@
   <path d="M124,164 C126,166 128,166 130,164" fill="none" stroke-width="2"/>
   <path d="M110,182 C113,180 115,185 112,187" fill="#E2BB82" stroke-width="2"/>
 
-  <!-- RESCUER near arm reaching down -->
-  <path d="M240,112 C236,126 230,138 224,148" fill="none" stroke="#1A1A1A" stroke-width="18"/>
-  <path d="M240,112 C236,126 230,138 224,148" fill="none" stroke="#1B6B93" stroke-width="13"/>
-  <path d="M224,146 C212,146 196,144 184,142" fill="none" stroke="#1A1A1A" stroke-width="15"/>
-  <path d="M224,146 C212,146 196,144 184,142" fill="none" stroke="#EED2A4" stroke-width="10"/>
-  <!-- hand: index and middle fingers straight down onto the chest, others curled, thumb tucked -->
-  <path d="M160,176 L156,150 C155,146 161,145 162,149 L165,176 C165,179 160,179 160,176 Z" fill="#EED2A4"/>
-  <path d="M167,177 L164,150 C163,146 169,145 170,149 L172,177 C172,180 167,180 167,177 Z" fill="#EED2A4"/>
-  <path d="M156,150 C152,140 162,132 176,132 C186,132 192,140 188,148 C184,156 176,158 170,156 L162,154 Z" fill="#EED2A4"/>
-  <path d="M176,154 C180,156 186,154 186,150 M180,148 C184,148 186,146 186,142" fill="none" stroke-width="2"/>
-  <path d="M158,146 C154,142 156,136 162,136" fill="none" stroke-width="2"/>
+  <!-- arm from the shoulder down onto the dipped chest, not across the belly -->
+  <path d="M232,116 C214,132 196,148 180,160" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M232,116 C214,132 196,148 180,160" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M180,156 C174,160 168,164 166,170" fill="none" stroke="#1A1A1A" stroke-width="15"/>
+  <path d="M180,156 C174,160 168,164 166,170" fill="none" stroke="#EED2A4" stroke-width="10"/>
+  <!-- heel in the chest dip. Short fingers point toward the head and stop before the face. -->
+  <path d="M170,162 C158,168 152,178 156,188 C168,196 188,192 194,180 C196,170 186,160 170,162 Z" fill="#EED2A4"/>
+  <path d="M160,174 C152,168 146,164 142,162" fill="#EED2A4"/>
+  <path d="M144,162 C148,160 152,162 154,164" fill="none" stroke-width="2"/>
 
-  <!-- push down, let it come back up -->
-  <path d="M138,110 L138,144 M131,119 L138,108 L145,119 M131,135 L138,146 L145,135" fill="none" stroke="#1B6B93" stroke-width="4"/>
+  <!-- push down, let it come back up, over the chest -->
+  <path d="M168,108 L168,146 M161,118 L168,106 L175,118 M161,136 L168,148 L175,136" fill="none" stroke="#1B6B93" stroke-width="4"/>
 </svg>

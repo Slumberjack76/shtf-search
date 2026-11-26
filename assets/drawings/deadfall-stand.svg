@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Upright on the ground. Release hooked. Log's low end down.</text>
+  <path d="M16,230 L380,230" stroke="#8A6A42" stroke-width="3"/>
+  <path d="M150,70 L190,58 L330,210 L300,230 L168,100 Z" fill="#8A6A42"/>
+  <path d="M96,230 L96,150 L118,132 L118,176 L104,176 L104,196 L118,196 L118,230 Z" fill="#E7D3A8"/>
+  <path d="M40,188 L112,140" stroke="#C4A574" stroke-width="8"/>
+  <text x="20" y="128" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">release notch on the bevel</text>
+  <text x="16" y="260" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">The upright only touches the ground and the other sticks.</text>
+  <text x="16" y="282" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Do not stake it. The low end of the log is on the ground.</text>
+</svg>

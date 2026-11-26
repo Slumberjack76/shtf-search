@@ -278,8 +278,9 @@
     const main = $("#app");
     main.innerHTML = "";
 
+    const topic = card.category === "food" && !card.helpNow;
     const header = document.createElement("div");
-    header.className = "card-header";
+    header.className = topic ? "card-header is-topic" : "card-header";
     const h1 = document.createElement("h1");
     h1.textContent = card.title;
     header.appendChild(h1);
@@ -319,10 +320,12 @@
       bar.querySelector("#cpr-stop").addEventListener("click", () => toggleCpr());
     }
 
-    const banner = document.createElement("div");
-    banner.className = "call-banner";
-    banner.textContent = "Stay safe. Call 911 if you can. Keep going.";
-    main.appendChild(banner);
+    if (!topic) {
+      const banner = document.createElement("div");
+      banner.className = "call-banner";
+      banner.textContent = "Stay safe. Call 911 if you can. Keep going.";
+      main.appendChild(banner);
+    }
 
     const body = document.createElement("div");
     body.className = "card-body";
@@ -332,11 +335,13 @@
     card.steps.forEach((step, i) => steps.appendChild(renderStep(card, step, i)));
     body.appendChild(steps);
 
-    const confirm = document.createElement("div");
-    confirm.className = "confirm-box";
-    confirm.id = "all-done";
-    confirm.innerHTML = "<h2>You're doing it right</h2><p>You checked every step. Stay with the person. Keep going until help takes over.</p>";
-    body.appendChild(confirm);
+    if (!topic) {
+      const confirm = document.createElement("div");
+      confirm.className = "confirm-box";
+      confirm.id = "all-done";
+      confirm.innerHTML = "<h2>You're doing it right</h2><p>You checked every step. Stay with the person. Keep going until help takes over.</p>";
+      body.appendChild(confirm);
+    }
 
     const stop = document.createElement("div");
     stop.className = "stop-box";
@@ -350,7 +355,7 @@
       (details ? '<ul class="detail-note">' + details + "</ul>" : "") +
       "<p>These steps are from " + escapeHtml(card.source.name) + ".</p><p>" + escapeHtml(card.source.extra) + "</p>" +
       (card.source.url ? '<p><a href="' + card.source.url + '">Source page (needs internet — copy is also on the planned SSD library)</a></p>' : "") +
-      '<p class="detail-note">This is basic first aid, not a doctor. Get an adult / call 911. If the iPad screen goes to sleep, turn off Auto-Lock in Settings while you help.</p>';
+      (topic ? "" : '<p class="detail-note">This is basic first aid, not a doctor. Get an adult / call 911. If the iPad screen goes to sleep, turn off Auto-Lock in Settings while you help.</p>');
     body.appendChild(src);
 
     main.appendChild(body);

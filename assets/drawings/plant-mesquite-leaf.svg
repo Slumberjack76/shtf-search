@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="340" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Leaf and stem. Mesquite leaves are twice-divided.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">MESQUITE</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">MOUNTAIN LAUREL</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — bipinnate, tiny leaflets</text>
+  <path d="M28,120 L150,120" stroke="#3E6B32" stroke-width="2"/>
+  <path d="M70,120 L48,92 M70,120 L48,148 M110,120 L132,92 M110,120 L132,148" stroke="#3E6B32" stroke-width="1.8"/>
+  <g fill="#6E8F45" stroke="#1A1A1A" stroke-width="1">
+    <ellipse cx="58" cy="100" rx="4" ry="2.2"/><ellipse cx="50" cy="96" rx="4" ry="2.2"/><ellipse cx="44" cy="92" rx="3.5" ry="2"/>
+    <ellipse cx="58" cy="140" rx="4" ry="2.2"/><ellipse cx="50" cy="144" rx="4" ry="2.2"/><ellipse cx="44" cy="148" rx="3.5" ry="2"/>
+    <ellipse cx="122" cy="100" rx="4" ry="2.2"/><ellipse cx="130" cy="96" rx="4" ry="2.2"/><ellipse cx="136" cy="92" rx="3.5" ry="2"/>
+    <ellipse cx="122" cy="140" rx="4" ry="2.2"/><ellipse cx="130" cy="144" rx="4" ry="2.2"/><ellipse cx="136" cy="148" rx="3.5" ry="2"/>
+  </g>
+  <text x="16" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Feathery. Many tiny leaflets</text>
+  <text x="16" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">on side branches of the leaf.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — once pinnate, shiny</text>
+  <path d="M230,120 L360,120" stroke="#3E6B32" stroke-width="2.4"/>
+  <g fill="#2F6B3A" stroke="#1A1A1A" stroke-width="1.4">
+    <ellipse cx="250" cy="104" rx="10" ry="6"/><ellipse cx="250" cy="136" rx="10" ry="6"/>
+    <ellipse cx="278" cy="100" rx="11" ry="6.5"/><ellipse cx="278" cy="140" rx="11" ry="6.5"/>
+    <ellipse cx="308" cy="98" rx="12" ry="7"/><ellipse cx="308" cy="142" rx="12" ry="7"/>
+    <ellipse cx="342" cy="120" rx="14" ry="7"/>
+  </g>
+  <text x="210" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">One row of oval leaflets.</text>
+  <text x="210" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Not feathery. Evergreen shrub.</text>
+  <text x="16" y="216" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — paired thorns</text>
+  <path d="M40,240 L150,300" stroke="#8A6A42" stroke-width="8"/>
+  <path d="M78,258 L64,242 M78,258 L92,244" stroke="#5A5A5A" stroke-width="2.4"/>
+  <path d="M112,278 L98,262 M112,278 L126,264" stroke="#5A5A5A" stroke-width="2.4"/>
+  <text x="16" y="324" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Bark is brown or gray, not green.</text>
+  <text x="210" y="216" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — no long thorns</text>
+  <path d="M230,246 L360,300" stroke="#6B5344" stroke-width="8"/>
+  <text x="210" y="324" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Woody shrub. Leaves stay on.</text>
+</svg>

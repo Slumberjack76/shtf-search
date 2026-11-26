@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="260" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Bait stick: hook, then square notch, then the point.</text>
+  <path d="M30,120 L300,120 L330,108 L300,132 L30,132 Z" fill="#E7D3A8"/>
+  <path d="M46,120 L78,104 L90,120 Z" fill="#F4F1EA"/>
+  <text x="40" y="96" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">hook</text>
+  <path d="M160,132 L160,120 L186,120 L186,132 Z" fill="#F4F1EA"/>
+  <text x="148" y="156" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">square notch</text>
+  <text x="300" y="108" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">point</text>
+  <text x="16" y="196" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">The hook holds the long end of the release.</text>
+  <text x="16" y="220" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">The square notch locks into the upright.</text>
+  <text x="16" y="244" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">The point sticks out under the log, with the bait.</text>
+</svg>

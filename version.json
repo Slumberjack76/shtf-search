@@ -1,7 +1,7 @@
 {
- "version": "c6e4df95ca7e",
- "date": "2026-11-25",
- "built": "2026-11-25T23:01:17.811Z",
+ "version": "7d0ce1a96aeb",
+ "date": "2026-11-26",
+ "built": "2026-11-26T00:20:08.723Z",
  "files": [
   {
    "path": "assets/drawings/bleed-pack.svg",
@@ -24,14 +24,19 @@
    "sha256": "1980d5a9d2dd8868a0aa340db2cbdb229094e1e5d1c8ffd0aca1dcd641a9084f"
   },
   {
+   "path": "assets/drawings/choke-back.svg",
+   "bytes": 4316,
+   "sha256": "16cbbb34ee21dd4d9b189b7571bfffebcdb9dda06bac575a3c71b1fb79e32ef0"
+  },
+  {
    "path": "assets/drawings/choke-behind.svg",
    "bytes": 5566,
    "sha256": "5cbe0dd7d1e1c24069576ed7a09cbfd9fb86337a1d0b9d30a47d51b3a7b9e7a8"
   },
   {
    "path": "assets/drawings/choke-cough.svg",
-   "bytes": 5173,
-   "sha256": "3d9f5d34299eda219c0dcadd91c395d0d301dace90d505d9941a6d0100bfdd53"
+   "bytes": 5053,
+   "sha256": "4535f0a995cca58d7e395bb5fc0c2acdde242c38e5866c053f4b571da52cc821"
   },
   {
    "path": "assets/drawings/choke-fist.svg",
@@ -54,14 +59,59 @@
    "sha256": "f58b5faa16d48fb9fd498e24d48b1951ccb28c042f5058ca7cb8b5652a15912d"
   },
   {
+   "path": "assets/drawings/cook-bear.svg",
+   "bytes": 1415,
+   "sha256": "a2bb23abeb6052cfb371835d06ed300163ad95e688a6950b4602fed818e2e142"
+  },
+  {
+   "path": "assets/drawings/cook-ground.svg",
+   "bytes": 1664,
+   "sha256": "76e519b528dc204ab37cfeec57804f70f9e12c9d96c5a6bcde0f854d7ab678aa"
+  },
+  {
+   "path": "assets/drawings/cook-jerky.svg",
+   "bytes": 1805,
+   "sha256": "ef7e487a5e88989b1d4fe5cd1b0a89cb1328f1b715f2d76996c718c0dbdb7109"
+  },
+  {
+   "path": "assets/drawings/cook-oven.svg",
+   "bytes": 1874,
+   "sha256": "f1752bfc148870b3ca6ecfa4ddb5767dceaf9314d84a1c0a21ea5b2f84e5507b"
+  },
+  {
+   "path": "assets/drawings/cook-probe.svg",
+   "bytes": 1426,
+   "sha256": "f363c1d39b96686d6be55e608f22bb4cb227360dd08183ac1e25d5d7ff36d406"
+  },
+  {
+   "path": "assets/drawings/cook-reheat.svg",
+   "bytes": 1342,
+   "sha256": "d5c40de0aebde46e1a77562cf4faa7c977587545751f6e9c0c055999583b1592"
+  },
+  {
+   "path": "assets/drawings/cook-simmer.svg",
+   "bytes": 1215,
+   "sha256": "dd1f4f36ecb60943ceefa6eac2586cf1fb83355c67850ce327d68d0ee2092a5e"
+  },
+  {
+   "path": "assets/drawings/cook-small.svg",
+   "bytes": 1688,
+   "sha256": "4532e30dcd45bf1adf2716a4443e0f092ca2998ac6ca487a774bbfbdab5caa8f"
+  },
+  {
    "path": "assets/drawings/cook-temps.svg",
    "bytes": 2742,
    "sha256": "fab3349c4c3702580e0e2c5b05b904807f565aaf0f1b03681186c1a0644b2049"
   },
   {
+   "path": "assets/drawings/cook-venison.svg",
+   "bytes": 1296,
+   "sha256": "4f4e2864bcca2a05439558228b7a444f5b2f3fd218db48182fc80648d2adbe49"
+  },
+  {
    "path": "assets/drawings/cpr-arms-locked-kid.svg",
-   "bytes": 5074,
-   "sha256": "5b15a3bb961ef2cd49b581cbb0fa858ddb1c6a870fadf11ea26e35743df8844b"
+   "bytes": 4515,
+   "sha256": "f3b28611ffff384f9b14dffcad4641822db6ab6f0683cc693092398aa02d4fda"
   },
   {
    "path": "assets/drawings/cpr-arms-locked.svg",
@@ -70,8 +120,8 @@
   },
   {
    "path": "assets/drawings/cpr-baby-depth.svg",
-   "bytes": 4982,
-   "sha256": "7ebb3ef7e41dd09f34df8679ac6e822b9c5069f6fa0aa5017dadce8fa08eca76"
+   "bytes": 4764,
+   "sha256": "a57d32ca7aaf81e34f435516599305ea1e5315072aa97328f7d72d1e77e0cd2b"
   },
   {
    "path": "assets/drawings/cpr-beat-button.svg",
@@ -80,13 +130,13 @@
   },
   {
    "path": "assets/drawings/cpr-hands-baby.svg",
-   "bytes": 5211,
-   "sha256": "cc2858fb9ad01e4e9838d4b59fc19594d45d8644b00efc192a3b74abf9b88918"
+   "bytes": 4371,
+   "sha256": "7a234a773f540ff59db73d180b1ca727b2e268c30d52b5c5eef573613c445da5"
   },
   {
    "path": "assets/drawings/cpr-hands-kid.svg",
-   "bytes": 4233,
-   "sha256": "a39cec89e1030d42eff1aebfc4d0fdbceceec1248d0e95a2e429b94f50d0e685"
+   "bytes": 3515,
+   "sha256": "6d30b463e0dfd6e9c926cbedef16f1fa579426dbceacfd8309ff80ee635d84a6"
   },
   {
    "path": "assets/drawings/cpr-hands.svg",
@@ -99,9 +149,19 @@
    "sha256": "739e43e814b03b6de2e2f47c86a5135b4370d7d7709e37719d0da68ce43c3fb9"
   },
   {
+   "path": "assets/drawings/deadfall-bait.svg",
+   "bytes": 1602,
+   "sha256": "9a3de68b675188560097a7c51ff8e67f4971feac05f3ea0098a4dc29a8fc2f51"
+  },
+  {
    "path": "assets/drawings/deadfall-parts.svg",
    "bytes": 2505,
    "sha256": "36688394e6225623d82bd954b9928900061881cbf1fb078271ad68b97d4f33a9"
+  },
+  {
+   "path": "assets/drawings/deadfall-release.svg",
+   "bytes": 1442,
+   "sha256": "07fc760c54f9acdeec7ccfe76ca41676b091866c4d8c9cafbd21220f4384fee1"
   },
   {
    "path": "assets/drawings/deadfall-set.svg",
@@ -109,9 +169,34 @@
    "sha256": "a23eabd4d3e7f53c06d4cff77b7b1f30a167ff6d6f91175115625590fb13dc3b"
   },
   {
+   "path": "assets/drawings/deadfall-stand.svg",
+   "bytes": 1294,
+   "sha256": "07ff005807a903070de2a4b426e2ec72cc35487e41f3149ca3dc4c63ae23b236"
+  },
+  {
+   "path": "assets/drawings/deadfall-upright.svg",
+   "bytes": 1347,
+   "sha256": "819d0453aa5c73edb2fa3d1a761f494ea4cdc40f76ede01f9201fd3dcb161017"
+  },
+  {
+   "path": "assets/drawings/deadfall-weight.svg",
+   "bytes": 1065,
+   "sha256": "e6612310ade76155ec8c0cec9995f199a0770cb3f67804f209e480433f66a2ce"
+  },
+  {
    "path": "assets/drawings/deer-cool.svg",
    "bytes": 2363,
    "sha256": "6451a16c7fb7cf88a44e2743bd8f5e8017b8e64a7119a4bb5d342e1514a32a2a"
+  },
+  {
+   "path": "assets/drawings/deer-heart-liver.svg",
+   "bytes": 2301,
+   "sha256": "c901b7ec016c89e021090e9f1a48f820af7d3f252d22b1d2331d99deadf9ec6a"
+  },
+  {
+   "path": "assets/drawings/deer-midline.svg",
+   "bytes": 2400,
+   "sha256": "36acfa868a244bdd3563325594caa5ccc54ba18ebe41f6cb625339d1f5969888"
   },
   {
    "path": "assets/drawings/deer-open-cut.svg",
@@ -124,9 +209,39 @@
    "sha256": "f258cfeb7bcc40980eb93032186ee466bc66c7b462cb5723fc9ca1994a947685"
   },
   {
+   "path": "assets/drawings/deer-position.svg",
+   "bytes": 1604,
+   "sha256": "c9cf4fec5e3d267ffd9d15a49e54557c5c5c1a78ec6f3d6f2c53adfab1c16a0f"
+  },
+  {
+   "path": "assets/drawings/deer-roll-guts.svg",
+   "bytes": 1772,
+   "sha256": "c7826d1516ade444f86696a4f75de0a243a21e6eb108ef6ea53d116840173f32"
+  },
+  {
+   "path": "assets/drawings/deer-tie-anus.svg",
+   "bytes": 2087,
+   "sha256": "15f54c3597a2afac943274d6bda10422edc579ef1fa2f91bb86092ca0e31de4a"
+  },
+  {
+   "path": "assets/drawings/deer-wipe.svg",
+   "bytes": 1641,
+   "sha256": "ff714dc38df1c2006d97a16522e95f9d44a6e50600f281dc06e04daf9aa4a9a8"
+  },
+  {
+   "path": "assets/drawings/fish-belly.svg",
+   "bytes": 1534,
+   "sha256": "372bcc0b355159dff82254d3e52510474f1aebef5fef62e8d85dd3969288832e"
+  },
+  {
    "path": "assets/drawings/fish-clean.svg",
    "bytes": 2209,
    "sha256": "7c036e0712629e688bbde3d5eecb2a4f82f434d6f96d05aeeeae6fb2c9e6d9f2"
+  },
+  {
+   "path": "assets/drawings/fish-cook.svg",
+   "bytes": 1475,
+   "sha256": "398e671232155efa6cd8af885a7eace5df03e161a8d6c4b13d17f9334d3b0b6b"
   },
   {
    "path": "assets/drawings/fish-fresh.svg",
@@ -134,9 +249,64 @@
    "sha256": "a98dda25918bb676c933202333465fc1811b728d4cec4a833e061dd92fbda1e5"
   },
   {
+   "path": "assets/drawings/fish-gorge.svg",
+   "bytes": 1440,
+   "sha256": "eea2970e0621d9dda13c10f8212c80067100ff11a8b309cd400699da6c022cdc"
+  },
+  {
+   "path": "assets/drawings/fish-hold.svg",
+   "bytes": 2207,
+   "sha256": "89bf3b06a36ec7c7b454461d1ccbd09b589e879f6c1681557f6889850136e08d"
+  },
+  {
    "path": "assets/drawings/fish-kit.svg",
    "bytes": 2514,
    "sha256": "3abfcb2083194b636711dc4bb2d3c438e2635388a64eae2ea479e9ae2a4c074f"
+  },
+  {
+   "path": "assets/drawings/fish-scale.svg",
+   "bytes": 1692,
+   "sha256": "7daf7e318e173419a152c4841c82abb108ace2c055256b4daddc6d628c305b79"
+  },
+  {
+   "path": "assets/drawings/fish-shank.svg",
+   "bytes": 1896,
+   "sha256": "4757581c0e74b171afd73036df04600c3a0dc9223b980b0c2696d53e80357900"
+  },
+  {
+   "path": "assets/drawings/fish-stun.svg",
+   "bytes": 1387,
+   "sha256": "0495dd25a1747438017c1893149519077dd0603d0933c3c715f94c7e2d990983"
+  },
+  {
+   "path": "assets/drawings/fish-work.svg",
+   "bytes": 1528,
+   "sha256": "2f8ad270733f6345572b2cd0cf502a4b9d0b0a54672c6736faa13f5e80bf9e13"
+  },
+  {
+   "path": "assets/drawings/gutless-backstrap.svg",
+   "bytes": 1511,
+   "sha256": "82d8fcdc16b72e2028113c15099c7828942dac05327885a9aa15c70c8c26e3e2"
+  },
+  {
+   "path": "assets/drawings/gutless-choose.svg",
+   "bytes": 2188,
+   "sha256": "c1733bf48e176d0ee67de5d15fbfcfe34de24e3ad17d4adaca5a87f4a99e5c2a"
+  },
+  {
+   "path": "assets/drawings/gutless-front.svg",
+   "bytes": 1468,
+   "sha256": "cfc523d8fe5fee1045407252886a91d795959c288e207ebce55363c4e8f093f2"
+  },
+  {
+   "path": "assets/drawings/gutless-hang.svg",
+   "bytes": 1830,
+   "sha256": "9db95b835ab51cf05f65c4189f375b687370a914fe10916633d057170304acbf"
+  },
+  {
+   "path": "assets/drawings/gutless-hip.svg",
+   "bytes": 1337,
+   "sha256": "2f0b1a3669e474036460289d4b1e15bee798911c4652919cb54512c0c6099e18"
   },
   {
    "path": "assets/drawings/gutless-side.svg",
@@ -144,14 +314,59 @@
    "sha256": "95938f465779fd5c8407203183b56097cc2f7f290669340fbfc06057b2b0ab42"
   },
   {
+   "path": "assets/drawings/gutless-skin.svg",
+   "bytes": 1511,
+   "sha256": "e986edc27ef19c03805d664f7cde49f93d6556472fe1ee70a73070064e3ddca8"
+  },
+  {
+   "path": "assets/drawings/gutless-spot.svg",
+   "bytes": 1462,
+   "sha256": "4018eb52112a8c91a194a01580b811acbd14a77653c1d7c87079dc2875327ec1"
+  },
+  {
+   "path": "assets/drawings/gutless-tender.svg",
+   "bytes": 1789,
+   "sha256": "36c969e0c5f3fc6d7569801a04027fc7cb38bbec41add183078eea51ba89e548"
+  },
+  {
    "path": "assets/drawings/heat-cool.svg",
    "bytes": 6991,
    "sha256": "193f9921d3e3a3f62214c093571b7620d64a8c7134ce13c9041fdce7109472ba"
   },
   {
+   "path": "assets/drawings/knot-clinch-cinch.svg",
+   "bytes": 1341,
+   "sha256": "488263ab44b00b89558c8a7e9ec875687c068c4d0d3446b571e51720feee0b28"
+  },
+  {
+   "path": "assets/drawings/knot-clinch-tag.svg",
+   "bytes": 2176,
+   "sha256": "f388c3e7f403d180d1acba4b878879339b578af6383d5dfe93e3a6cd37f0458c"
+  },
+  {
+   "path": "assets/drawings/knot-clinch-wraps.svg",
+   "bytes": 1839,
+   "sha256": "908727b129388e0c418dd7d6cb776a838a8a209bac7a20a997b5598ead71b2e3"
+  },
+  {
    "path": "assets/drawings/knot-clinch.svg",
-   "bytes": 4667,
-   "sha256": "ead7b9782248b54ce6db4fd77a7392b1d0913b7781413da975400f25ee9d3078"
+   "bytes": 4628,
+   "sha256": "fdb10f330b73444080ae9403494876cbfd960ead426c32b18dd8e7c41e23c7f1"
+  },
+  {
+   "path": "assets/drawings/knot-palomar-dress.svg",
+   "bytes": 1662,
+   "sha256": "6120a7ff00f374059be9dc39a4cb82787b35d32fc4e5aefb7b36d00cb6fde56f"
+  },
+  {
+   "path": "assets/drawings/knot-palomar-hook.svg",
+   "bytes": 1501,
+   "sha256": "ec93b099a3eb3cebdf8de278332d6c5a6db454b772fe2b98fa6cf0e43b7ba639"
+  },
+  {
+   "path": "assets/drawings/knot-palomar-loop.svg",
+   "bytes": 1483,
+   "sha256": "576e2c3ae4bb9b6483b59424154fbf8bc3a78e337f7c3d84dffa85203a5a24c2"
   },
   {
    "path": "assets/drawings/knot-palomar.svg",
@@ -159,14 +374,69 @@
    "sha256": "47a13f295656dec5eb07bda53e2933c6970981eff433ff8b4402ffd21469f691"
   },
   {
+   "path": "assets/drawings/meat-clock.svg",
+   "bytes": 1760,
+   "sha256": "b46cb630d650816628af10de30051e5c47f51e8dad4aaaae0837b92a018c9a3f"
+  },
+  {
+   "path": "assets/drawings/meat-cloth.svg",
+   "bytes": 1684,
+   "sha256": "b09e07fed6971e2b7e1c7e0aeceee18625dd3ad65218f8f5ab3c273c4c0ce15e"
+  },
+  {
+   "path": "assets/drawings/meat-cwd.svg",
+   "bytes": 1703,
+   "sha256": "6d3c870df10a9d0230612480cd7a32d28496388ab41d883ec59c4d0dc7130a6a"
+  },
+  {
    "path": "assets/drawings/meat-disease.svg",
    "bytes": 2851,
    "sha256": "aecf4a98442145840d0615a9ccd47e2876931924e90cb2368959a98c1e8a3b8b"
   },
   {
+   "path": "assets/drawings/meat-flies.svg",
+   "bytes": 1593,
+   "sha256": "b20482da745038388932f67bc7b9060ebf313df8e87d51bad07fc2e6d3466a3e"
+  },
+  {
    "path": "assets/drawings/meat-heat.svg",
    "bytes": 2466,
    "sha256": "346503393244f3737179a79a521c4617c28210dabdea2ea8b6391695ad266e66"
+  },
+  {
+   "path": "assets/drawings/meat-ice.svg",
+   "bytes": 1641,
+   "sha256": "770ff3dd757b3a8b44e2fa1c9b380dfbce087b6f0008f0637c3df8d6d3f5f6ee"
+  },
+  {
+   "path": "assets/drawings/meat-liver.svg",
+   "bytes": 1856,
+   "sha256": "10fae63c4253eb1ffb761ed1deaa383cdb2124c4d9ad9d063524f56695d157ac"
+  },
+  {
+   "path": "assets/drawings/meat-pieces.svg",
+   "bytes": 1681,
+   "sha256": "2d89a956ed2f2eaa6985e46bac9cc33416308fcfb1d8c6d3ca98d21287bc7e39"
+  },
+  {
+   "path": "assets/drawings/meat-pus.svg",
+   "bytes": 1928,
+   "sha256": "f39c7e4dfa5e212deb517911031fda1798a91e0cf0277f4b03a4587784c54cd7"
+  },
+  {
+   "path": "assets/drawings/meat-ready.svg",
+   "bytes": 2157,
+   "sha256": "a444d41bfdcfb91c1100425ac370bcef40635f39a7296ce7dbe39ec1d005a833"
+  },
+  {
+   "path": "assets/drawings/meat-shine.svg",
+   "bytes": 1913,
+   "sha256": "5f099166f0a1ee45a285aefe7b79d23e224315abf4d09dd2ccdc28308696d809"
+  },
+  {
+   "path": "assets/drawings/meat-sick.svg",
+   "bytes": 1632,
+   "sha256": "1d120a010536d029681553a67b34efd16bb4807053134053779eaa35adef5476"
   },
   {
    "path": "assets/drawings/meat-spoil.svg",
@@ -177,6 +447,71 @@
    "path": "assets/drawings/meat-time.svg",
    "bytes": 1863,
    "sha256": "f9b2fa0d82e632499c7324532b38dad8cf020307749d37a425a570243caa8673"
+  },
+  {
+   "path": "assets/drawings/meat-trim.svg",
+   "bytes": 1667,
+   "sha256": "781127926d03f98f1013506932c17e8871d908b4a93d167d7f2562cd7c11d221"
+  },
+  {
+   "path": "assets/drawings/plant-cherry-fruit.svg",
+   "bytes": 4642,
+   "sha256": "a5fe26566111e7ef3ac61e356d83fb8c61c02ea24f91e0df47561f17aa30a7e8"
+  },
+  {
+   "path": "assets/drawings/plant-cherry-leaf.svg",
+   "bytes": 3131,
+   "sha256": "fe8593af24bc5bc0208c25718cc1c41ab4cc6ac86cce4caeeb402f7c06535a1b"
+  },
+  {
+   "path": "assets/drawings/plant-fennel-leaf.svg",
+   "bytes": 3738,
+   "sha256": "f3d418ed589ce39ad1e29abe32db59d6f6a713f7bc2e882f160198042dc61303"
+  },
+  {
+   "path": "assets/drawings/plant-fennel-root.svg",
+   "bytes": 4673,
+   "sha256": "5783bd2d886104a49c584c1951e73daa65b0d54b8bb573816c16d0e52eec981b"
+  },
+  {
+   "path": "assets/drawings/plant-mesquite-leaf.svg",
+   "bytes": 3950,
+   "sha256": "a4dc158c6658e059de405ad0526eba973ea58e74f3987ccb7e7f1bf82ab65fc5"
+  },
+  {
+   "path": "assets/drawings/plant-mesquite-pod.svg",
+   "bytes": 4473,
+   "sha256": "231f2bb02135295f7b194f90780a853b73f69c0bbec7a813014e49984be0110d"
+  },
+  {
+   "path": "assets/drawings/plant-palo-flower.svg",
+   "bytes": 4118,
+   "sha256": "18db5bf215dc6874bc7e95f9482609c86217d9aa1552bf51919ea0344b165a0f"
+  },
+  {
+   "path": "assets/drawings/plant-palo-leaf.svg",
+   "bytes": 3336,
+   "sha256": "5555c61b3d5a5734630f2b09db2a0800364e8f871edcd0c86a3c881fde9b2482"
+  },
+  {
+   "path": "assets/drawings/plant-pear-flower.svg",
+   "bytes": 3836,
+   "sha256": "e0d2e11e755c74c835a3a2e0fbedc11ca02576b7379c930ab23021928d935bb1"
+  },
+  {
+   "path": "assets/drawings/plant-pear-leaf.svg",
+   "bytes": 3714,
+   "sha256": "d07f7bd92b1fbdfebda29a3492664346bc6ed31f628da0e61a753059b8cb862b"
+  },
+  {
+   "path": "assets/drawings/plant-yucca-flower.svg",
+   "bytes": 4598,
+   "sha256": "27af768ca25f8d7e6856db3517e1b015cfff7431b09f5011cf70971cec1b8e99"
+  },
+  {
+   "path": "assets/drawings/plant-yucca-leaf.svg",
+   "bytes": 3309,
+   "sha256": "a34602f733ce3f725773646e84e52cd674399de852cf0fa793c1798d1bff3ac1"
   },
   {
    "path": "assets/drawings/recovery-airway.svg",
@@ -209,14 +544,44 @@
    "sha256": "74a8cdbfff598c1da894df16c0b864c4d8a6faa372484e2e035bc64e23484c48"
   },
   {
+   "path": "assets/drawings/small-game-cool.svg",
+   "bytes": 1442,
+   "sha256": "bb8da962be60d07e49da6629caf933fa4a9295fff9c9f5384225687a7436fb79"
+  },
+  {
    "path": "assets/drawings/small-game-gut.svg",
    "bytes": 3127,
    "sha256": "c5a75feb21a32ccbbdd7a46ced4ee6d6f7993a0a27c664618b1349133cd1f1d4"
   },
   {
+   "path": "assets/drawings/small-game-liver.svg",
+   "bytes": 2055,
+   "sha256": "b81ca8e5127d7798177127498477b1845d9bbdb7a844f89d24e9b72b3c7d4034"
+  },
+  {
+   "path": "assets/drawings/small-game-rabbit.svg",
+   "bytes": 1293,
+   "sha256": "35a77b03524b23e727acd7e95bda5b5573cfd63c0ccdbae00b0f19b1c673b32e"
+  },
+  {
+   "path": "assets/drawings/small-game-sick.svg",
+   "bytes": 1637,
+   "sha256": "590493b2a37e2499f9b37451fb6733a873282ef9a3630b75ec7921b0ffc17990"
+  },
+  {
    "path": "assets/drawings/small-game-skin.svg",
    "bytes": 2354,
    "sha256": "eb7d22ff604561b5a1d1f1d6e440f3b663c0ab8ce1749a576cf0729fe1761a24"
+  },
+  {
+   "path": "assets/drawings/small-game-squirrel.svg",
+   "bytes": 1445,
+   "sha256": "dd4cda576b3356aecda11323e8f4a4411ca5f7bef36da93e5be9d125f5d82077"
+  },
+  {
+   "path": "assets/drawings/small-game-trim.svg",
+   "bytes": 1189,
+   "sha256": "35de3b733bab47611fbf0b4e9ce53fdf33edf363171e8445b196bb87e55acc4b"
   },
   {
    "path": "assets/drawings/snake-donts.svg",
@@ -227,6 +592,11 @@
    "path": "assets/drawings/snake-mark.svg",
    "bytes": 4567,
    "sha256": "dfb7ca31ca709a0681f0bf2fef1e936686927e742d91a7d4da92f6920ee600ff"
+  },
+  {
+   "path": "assets/drawings/snare-dispatch.svg",
+   "bytes": 1592,
+   "sha256": "9362f5541db465246dfc781eddfe6448431b476aeb645d7ce548d05409d4ce3d"
   },
   {
    "path": "assets/drawings/snare-lock.svg",
@@ -242,6 +612,11 @@
    "path": "assets/drawings/snare-twitch.svg",
    "bytes": 1989,
    "sha256": "ec7615608555945832e148210bd87fc268b6659f72c9afded1dd6de7989354a3"
+  },
+  {
+   "path": "assets/drawings/snare-wire.svg",
+   "bytes": 1644,
+   "sha256": "35471fbeb02826f6313389616ffa3c98da4138cf2a3f0d3f873d18af704e533f"
   },
   {
    "path": "assets/drawings/splint-check.svg",
@@ -264,19 +639,34 @@
    "sha256": "6d5f9898ce6036423034879b8ab2a46d3650e2fac9779d277a812ae86bf1037d"
   },
   {
+   "path": "assets/drawings/trotline-check.svg",
+   "bytes": 1304,
+   "sha256": "6429db292e954c5b212391bc1033ebe21e1a82d4b6160479f5bd86ee731d7e28"
+  },
+  {
+   "path": "assets/drawings/trotline-drops.svg",
+   "bytes": 1524,
+   "sha256": "4adcdef73b793edeceefc7f3d2e06538124cad05f6cc69e3deb85af54e223181"
+  },
+  {
+   "path": "assets/drawings/trotline-main.svg",
+   "bytes": 1210,
+   "sha256": "70350af68086928db0eb25e1beaa3e19e6be8482362a3256ba3e7146cf1e80e3"
+  },
+  {
    "path": "assets/drawings/trotline-set.svg",
    "bytes": 2466,
    "sha256": "97789054022162e252e205a12160d319fe92a73b1d3ab49fe2f6d17c5c290450"
   },
   {
    "path": "assets/drawings/water-bleach.svg",
-   "bytes": 5881,
-   "sha256": "2a24e0be5b3acefc4de68b98aba9b31757f2ee5302dc36dbcebbb3824c1379d5"
+   "bytes": 6407,
+   "sha256": "305bc4513f2f5f7674a5e1d91b1d0e3696edb7f31274c274e1e786c9e27339b6"
   },
   {
    "path": "assets/drawings/water-boil-time.svg",
-   "bytes": 4634,
-   "sha256": "83338618103406c2f0fd06f49496a61473fbbc3afbbae36783c3c5cb6ab5efa8"
+   "bytes": 5110,
+   "sha256": "df11236a98040117ab5aa6f68ae51ca1f185433ab260b558aa94833eb634f2f4"
   },
   {
    "path": "assets/drawings/water-boil.svg",
@@ -295,8 +685,8 @@
   },
   {
    "path": "data/search-index.json",
-   "bytes": 44609,
-   "sha256": "a5e9a54b37c16e0dd6096bfe4299bf662de25a51c78e6c8fc7922faa8180b5c4"
+   "bytes": 55330,
+   "sha256": "66e1936d75780d349ed16da2c00b95931490f41abc07df1e80aae8f2d94541dd"
   },
   {
    "path": "icons/apple-touch-icon.png",
@@ -330,23 +720,23 @@
   },
   {
    "path": "js/app.js",
-   "bytes": 34791,
-   "sha256": "3b4339834cc9768a914c0d223f913bcf4b718a51fdf943b291eb54b1ad15a3ed"
+   "bytes": 34966,
+   "sha256": "fb914b658a258b7a3d63b4f9335d02fe1eb33a8dd1a637bb143293158dedad27"
   },
   {
    "path": "js/drawings-detailed.js",
-   "bytes": 232548,
-   "sha256": "2519c5fe58ccc9202b10b2b93625969b4a129b32ded0a428944bbe7023a82e55"
+   "bytes": 405098,
+   "sha256": "276f194f5320466e6dca114bb659201d7f775e6d48abc51d68ae19ce3e54828e"
   },
   {
    "path": "js/drawings.js",
-   "bytes": 22422,
-   "sha256": "4fe0a0686431e0045bb1a15c80f24e4499b182cb7739fb5581fffb5c99ab53e6"
+   "bytes": 26706,
+   "sha256": "cae62924afec8da99da32f08808a2433b2088110628711bca7491dab43a6f595"
   },
   {
    "path": "js/drivelib.js",
-   "bytes": 26040,
-   "sha256": "95f3c3fc8766a9673b2368b68e5b0ae5fa79279a621af3f70840b8375c4268da"
+   "bytes": 26097,
+   "sha256": "b0ccbec75eec4c90c97b8a85fc2bd690a35f66661e8070432156b5758142f9b0"
   },
   {
    "path": "js/icons.js",
@@ -355,8 +745,8 @@
   },
   {
    "path": "js/library.js",
-   "bytes": 61406,
-   "sha256": "326f608c7e8cb5f7e1cb4e369ad69288ac39866958055822f07d81be670afa47"
+   "bytes": 79985,
+   "sha256": "f5324dabdf3a70a3f05cc9fbe7521a72484522711a4cfafa4825a1c77895b0d4"
   },
   {
    "path": "js/search-docs.js",
@@ -375,8 +765,8 @@
   },
   {
    "path": "print/help-now-cards.pdf",
-   "bytes": 56882,
-   "sha256": "e1bc04c348d1d090547e4bb80ed54da293d09947ef3806f9981a99a0112f4013"
+   "bytes": 57280,
+   "sha256": "7f4d129180f9cbcb53c46168e1cef374baecd80e303a21628d870a3ab28d3f8b"
   },
   {
    "path": "samples/sample-burns-cool-water.pdf",
@@ -420,8 +810,8 @@
   },
   {
    "path": "styles.css",
-   "bytes": 29301,
-   "sha256": "e7d11c793a235526fd5f17646f4af47f2e47fad4f79ee3f10294d037215fa0e0"
+   "bytes": 30054,
+   "sha256": "f4261c4dd44aefabe513de64030fdf9a984d81341dd8945694b44e92e925fc00"
   },
   {
    "path": "vendor/minisearch.min.js",
@@ -440,15 +830,15 @@
   },
   "cpr": {
    "title": "Not breathing",
-   "sha256": "2555f1def7deba9cf8a786eb1acaf0327cc25d519a139adaa8e46db65bf34626"
+   "sha256": "005a036355803022e3a639d7fa096261e7813cb74bd60cfe8fa72112858c4c13"
   },
   "burns": {
    "title": "Burns",
-   "sha256": "20295d058a7434a7ba0bae5fa013f2b6ecbcca379cc2f1596c923d3feffd353e"
+   "sha256": "22b048da8484713578356124ad6bf61364598a540a7820a5788f67f890fa67d5"
   },
   "smoke": {
    "title": "Smoke, fire, or CO",
-   "sha256": "617cc5355679d5e830bed211128b3ae82aab9500ba2566ec9b0035676958ad63"
+   "sha256": "57584596e8352d2a25d6de933d545d9929d1730b193294286000d8e25698f5b2"
   },
   "bite": {
    "title": "Bite or sting",
@@ -456,15 +846,15 @@
   },
   "too-cold": {
    "title": "Too cold",
-   "sha256": "f36aa37e1f2b5054f801ed490c43945d683d544700a65945d3282a1d98fadaca"
+   "sha256": "c7f4cc122fb9f5fea1ce4e7b6c8fc385bec5a5d0d2800e6a6da1319d86f1d406"
   },
   "choking": {
    "title": "Choking",
-   "sha256": "254b0866f376e94b8b17bda88cdd6eb9c6200634267e750f03ce599f7eb1f49a"
+   "sha256": "0efdb155173ef45d583791fb8488ceefeb6380a94d7c49ab315114a49689bbc5"
   },
   "water": {
    "title": "No safe water",
-   "sha256": "626d026b89b06551e20cb291370b93ac0d4f1f555fc3148e78898020845d3aeb"
+   "sha256": "d1da87cdfc4f8580f04716b038bd6627f4828a6e0a1b1d285dcebcb8339855ad"
   },
   "lost": {
    "title": "If you are lost",
@@ -484,47 +874,71 @@
   },
   "field-dress-deer": {
    "title": "Field dressing a deer",
-   "sha256": "74df24d63a1f6e24707e33a7d66ae143163bec292a3d647e88f8bfb614985d70"
+   "sha256": "aa8e2b68f4a17e1a43263af94db3dfcfd327d1f537289960e3eab7a76ce7427a"
   },
   "gutless-big-game": {
    "title": "Gutless method for big game",
-   "sha256": "6aa21f6ac76f1e3449dfae16449ac8c2b6798552c6b78c530c2190ee5f0ee315"
+   "sha256": "f76904ec8db889d401ea24d303cc35c80358e1124340c6db6b7a4616f41d4804"
   },
   "small-game-dress": {
    "title": "Skin and gut a rabbit or squirrel",
-   "sha256": "1441c374f239e35fe53f5b245d7e99317a0de01042cfa2bf86c2ddce8d65fffb"
+   "sha256": "1564e2b912f895771dc2c5073a2a311677c9763a0470def44a1449076100ad0d"
   },
   "clean-fish": {
    "title": "Clean a fish",
-   "sha256": "dbd83a78b34283e5c4d6ac5630ac5301ae7ab5a1ea2c1b585a1b2b10d44de142"
+   "sha256": "532c8aeccb066948ef0fcad8aa67587f5f81bcb3d6a51266df2037808b52b671"
   },
   "simple-snare": {
    "title": "Simple snare",
-   "sha256": "a4dec866c038a23ad6ec4e88019b602ca4d8e51d1f8a372ffec1eb6dcc5fdbf7"
+   "sha256": "614bec30ea6da34dba117c757c5a3e650fc4770a94f33895f427dd2645a40560"
   },
   "figure4-deadfall": {
    "title": "Figure-4 deadfall",
-   "sha256": "204cac700dff00574bd7cc8946085e644b696c7b73791668856e7c2872b70d37"
+   "sha256": "180a0c1a7a8c05349b08a0428cbed6a15bd1703a07aaf335048d1a8103aee2c6"
   },
   "fishing-knots": {
    "title": "Palomar and improved clinch knots",
-   "sha256": "8d38c235446cc9587aea7abcc5acfa33bb343c1ea468ede654d92bdd2c552577"
+   "sha256": "4ad3704ce0446d6f8560ce89bc5c9f11252b68105ba34be09114ba7a8c07c28f"
   },
   "hand-line-trotline": {
    "title": "Hand line and trotline",
-   "sha256": "0d02fa2ee5a8c144a8e98bae45d8343ddf70937e91f887e8cc6cd3f3897d2e0b"
+   "sha256": "266891c3fbdb411539459c86ebf6b9689c60c10f722d754dcc451968387f76b2"
   },
   "meat-in-heat": {
    "title": "Keep meat safe in the heat",
-   "sha256": "451fd01318e66885b298bf74c406752131de25afb3ac0dfa69c3f6cadda2ce90"
+   "sha256": "bfc789842d6c22cf8f772182cfa62cf8ff4c91eff980bf21555e7ac702c3d4f7"
   },
   "cook-wild-game": {
    "title": "Cook wild game safely",
-   "sha256": "234496667b900f3248222c0b02a162b9d70c1b4eff11d3bb89d526986d5b9753"
+   "sha256": "59ebfdf6ec7b0411d669e7ef99338b7d8fac5a5b1756a733636a82f19ea73616"
   },
   "meat-safe-signs": {
    "title": "Is this meat safe?",
-   "sha256": "9393f2e6528e86ca97596cbfb4cec80d48b98800588e2dc5dd48d51ed3889fe4"
+   "sha256": "b40787a42062136bea8577344cd9bf2dc2ae83290028d7248737ff6836061b04"
+  },
+  "prickly-pear": {
+   "title": "Prickly pear pads and fruit",
+   "sha256": "a6b4905339620bee6d70a7a22c18a74a3b3065800ad44daa86d52666f32ec8c1"
+  },
+  "mesquite-pods": {
+   "title": "Mesquite pods",
+   "sha256": "edcfe02b528ef74109d2c80b28ea83f9e01d0c8ffa22852a6c58ce3f8b73469e"
+  },
+  "palo-verde": {
+   "title": "Palo verde flowers and pods",
+   "sha256": "70c982ccbc3b3261ec31550197a6b521c4642459e74d595526e020954a2b5ec3"
+  },
+  "yucca-agave": {
+   "title": "Yucca, agave, and death camas",
+   "sha256": "dc3367b020b43a32d44f254c1a7faf54431ba2cc1074ec00f76e0bbf8435ceef"
+  },
+  "ground-cherry": {
+   "title": "Ground cherry, nightshade, and datura",
+   "sha256": "6ad859383394a2e0cff5f955478f0c81532be695fc145c910b26a0e01dcb61df"
+  },
+  "fennel-hemlock": {
+   "title": "Fennel and poison hemlock",
+   "sha256": "1b926c83f72c316e78586bc26c84e3b426871171d00df0c4cf79d5641271b9b7"
   }
  }
 }

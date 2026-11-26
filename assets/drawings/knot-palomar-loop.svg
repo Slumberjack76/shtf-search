@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Palomar: doubled line, loose overhand. Do not tighten yet.</text>
+  <path d="M80,230 L80,190" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="80" cy="178" r="10" fill="none" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M72,168 L72,90" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M88,168 L88,90" stroke="#C62828" stroke-width="3"/>
+  <path d="M72,110 C40,96 40,70 74,76 C108,82 112,120 80,122 C50,124 58,100 90,106" stroke="#1A1A1A" stroke-width="2.5"/>
+  <text x="140" y="100" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">loose overhand</text>
+  <text x="140" y="124" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">two strands side by side</text>
+  <text x="140" y="148" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">do not twist them</text>
+  <text x="16" y="260" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Pass about 6 inches, doubled, through the eye.</text>
+</svg>

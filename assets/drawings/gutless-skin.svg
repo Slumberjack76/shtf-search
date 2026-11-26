@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">On its side. Short strokes along the backbone.</text>
+  <path d="M36,160 C50,120 100,108 170,112 L300,120 C350,128 372,156 366,186 C350,214 300,224 230,220 L100,214 C50,208 36,190 36,160 Z" fill="#EED2A4"/><circle cx="48" cy="142" r="14" fill="#EED2A4"/>
+  <text x="28" y="128" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500">head</text>
+  <path d="M70,128 L330,140" stroke="#1B6B93" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="90" y="100" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">skin cut along the spine</text>
+  <path d="M200,150 L230,110 L250,128 Z" fill="#D0D0D0"/>
+  <text x="248" y="168" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">blade out through the hide</text>
+  <path d="M80,214 C140,250 280,250 340,200 L300,230 L100,236 Z" fill="#8A6A42"/>
+  <text x="16" y="278" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Spread the hide hair-side down. It is the clean table.</text>
+</svg>

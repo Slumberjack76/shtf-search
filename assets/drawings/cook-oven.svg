@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Oven finish: 275°F for 10 minutes. Then the bend test.</text>
+  <rect x="40" y="48" width="140" height="90" rx="6" fill="#FFFFFF" stroke="#1A1A1A"/>
+  <text x="56" y="78" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">275°F</text>
+  <text x="56" y="104" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">10 minutes</text>
+  <text x="200" y="80" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">quarter-inch strips</text>
+  <text x="200" y="102" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">after drying</text>
+  <path d="M60,170 Q120,150 180,190" stroke="#C45C4A" stroke-width="6"/>
+  <text x="200" y="180" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">cracks when bent</text>
+  <text x="200" y="200" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">does not snap in two</text>
+  <text x="16" y="236" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Do not make jerky from meat that gut contents soaked.</text>
+  <text x="16" y="260" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">If you are not sure it is fully dry, keep it cold.</text>
+</svg>

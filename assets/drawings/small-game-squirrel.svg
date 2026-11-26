@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Squirrel: foot on the tail skin. Pull the hind legs up.</text>
+  <path d="M80,200 L180,140" stroke="#8A6A42" stroke-width="8"/>
+  <path d="M180,140 L250,90" stroke="#5A5A5A" stroke-width="6"/>
+  <path d="M160,160 L90,210" stroke="#C4A574" stroke-width="12"/>
+  <path d="M180,140 L150,210" stroke="#1A1A1A" stroke-width="6"/>
+  <rect x="128" y="206" width="44" height="16" rx="3" fill="#5A5A5A" stroke="none"/>
+  <text x="120" y="246" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">foot on the tail skin</text>
+  <path d="M120,170 L120,110" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M120,110 L112,122 M120,110 L128,122" stroke="#1B6B93" stroke-width="3"/>
+  <text x="140" y="120" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">pull the hind legs up</text>
+  <text x="16" y="278" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Cut the tail bone from underneath. Leave the tail skin on.</text>
+</svg>

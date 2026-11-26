@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="320" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Free the diaphragm. Cut the tubes. Roll the guts out whole.</text>
+  <path d="M40,150 C60,90 140,80 220,90 L320,110 C350,140 340,190 280,200 L80,210 C40,200 30,180 40,150 Z" fill="#EED2A4"/>
+  <path d="M120,110 Q200,140 280,112" stroke="#5A5A5A" stroke-width="4"/>
+  <text x="130" y="78" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">cut the diaphragm off the ribs</text>
+  <path d="M250,70 L300,100" stroke="#C62828" stroke-width="3"/>
+  <text x="250" y="64" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">windpipe and food tube</text>
+  <ellipse cx="150" cy="160" rx="36" ry="22" fill="#E7B4A8" stroke="#C62828" stroke-width="3"/>
+  <path d="M170,175 C210,200 250,210 290,190" stroke="#E7B4A8" stroke-width="10"/>
+  <text x="40" y="250" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">roll onto the side so the guts fall out</text>
+  <text x="40" y="274" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Cut them free. Do not slice the gut or the stomach.</text>
+  <text x="40" y="300" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500">Head is to the right in this view. Reach forward of the diaphragm.</text>
+</svg>

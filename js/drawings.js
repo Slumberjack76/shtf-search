@@ -28,10 +28,9 @@ window.DRAWINGS = {
   <path d="M188 198 H212" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- knees -->
   <path d="M200 150 L140 250 M200 150 L260 250" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- depth arrows -->
-  <path d="M300 200 V238" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M292 230 L300 240 L308 230" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M292 208 L300 198 L308 208" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- short push beside the hands, ending at the chest surface. It does not run through the torso. -->
+  <path d="M248 178 V204" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 196 L248 208 L256 196" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>`,
   'cold-warm': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
@@ -48,12 +47,19 @@ window.DRAWINGS = {
           </svg>`,
   'frostbite-water': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
-    <path d="M120 90 H280 L268 230 H132 Z" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M130 160 H270" stroke="#1B6B93" stroke-width="3"/>
-  <!-- hand in water -->
-  <path d="M200 70 V150" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M200 150 L180 180 M200 150 L200 190 M200 150 L220 180" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M320 70 L300 110 L340 110 Z" fill="none" stroke="#C62828" stroke-width="3"/>
+  <!-- warm-water basin is the action -->
+  <path d="M48 100 H210 L196 230 H62 Z" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 158 H196" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M128 46 V148" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 148 L108 178 M128 148 L128 188 M128 148 L148 178" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- two hands rubbing, crossed out -->
+  <path d="M246 88 L246 62 C246 54 268 50 280 60 L286 84 C274 96 250 94 246 88 Z" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M278 78 L300 58 C310 50 328 54 330 66 L322 92 C308 102 286 92 278 78 Z" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 48 L340 116 M340 48 L240 116" fill="none" stroke="#C62828" stroke-width="4" stroke-linecap="round"/>
+  <!-- stove flame, crossed out -->
+  <path d="M268 168 H332 V214 H268 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M290 196 C294 176 306 176 310 196" fill="none" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+  <path d="M258 150 L342 232 M342 150 L258 232" fill="none" stroke="#C62828" stroke-width="4" stroke-linecap="round"/>
       </svg>`,
   'snake-care': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
@@ -69,10 +75,46 @@ window.DRAWINGS = {
   'burn-cool': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
     <path d="M240 40 V90" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M240 90 L230 120 M240 90 L240 124 M240 90 L250 120" fill="none" stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 90 L232 162 M240 90 L240 168 M240 90 L248 162" fill="none" stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M80 160 C140 140 200 140 260 155 C310 168 350 180 380 186" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M80 196 C140 176 200 176 260 190 C310 204 350 216 380 222" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M80 70 L100 110 L60 110 Z" fill="none" stroke="#C62828" stroke-width="3"/>
+    </svg>`,
+  'burn-donts': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
+  <!-- ice cube -->
+  <path d="M56 64 H130 V132 H56 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M56 64 L130 132 M130 64 L56 132" fill="none" stroke="#1B6B93" stroke-width="2"/>
+  <!-- butter stick and knife -->
+  <path d="M168 86 H236 V124 H168 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M188 86 V124 M168 98 H236" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M228 70 L248 150" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <!-- oil bottle with a drop -->
+  <path d="M300 78 H338 L330 128 H308 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M310 78 V58 H328 V78" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M318 140 C318 148 326 148 326 140 C326 134 318 134 318 140 Z" fill="none" stroke="#1A1A1A" stroke-width="2.5"/>
+  <!-- toothpaste tube, crimped end and cap -->
+  <path d="M70 188 L150 176 L146 204 L78 212 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M146 176 L162 174 L160 206 L146 204 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M70 188 L78 212" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M40 48 L360 250 M360 48 L40 250" fill="none" stroke="#C62828" stroke-width="6" stroke-linecap="round"/>
+    </svg>`,
+  'burn-cover': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
+  <path d="M40 150 C120 132 200 132 280 148 C320 158 360 170 390 178" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 196 C120 178 200 178 280 194 C320 204 360 216 390 224" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <!-- cloth larger than the arm, edges open -->
+  <path d="M110 112 C170 96 250 96 310 118 L322 214 C250 234 160 234 100 210 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M150 116 L144 214 M210 108 L210 224 M270 118 L278 212" fill="none" stroke="#1A1A1A" stroke-width="2" stroke-dasharray="6 6"/>
+    </svg>`,
+  'burn-blister': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
+  <path d="M40 80 H250 V230 H40 Z" fill="#fff" stroke="#1A1A1A" stroke-width="3"/>
+  <ellipse cx="140" cy="150" rx="48" ry="30" fill="#F4F1EA" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M110 142 C124 132 156 132 170 142" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+  <!-- pin kept off the blister -->
+  <circle cx="300" cy="118" r="10" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M292 126 L250 190" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M236 86 L340 190 M340 86 L236 190" fill="none" stroke="#C62828" stroke-width="4" stroke-linecap="round"/>
     </svg>`,
   'lost-stay': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
@@ -170,9 +212,11 @@ window.DRAWINGS = {
   <rect x="8" y="8" width="384" height="284" rx="12" fill="#F4F1EA" stroke="#D6D0C4" stroke-width="2"/>
   <path d="M80 60 H200 V250 H80 Z" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="180" cy="160" r="6" fill="#1A1A1A"/>
-  <!-- hand feeling door -->
-  <path d="M240 160 L200 160" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M248 150 C260 150 270 160 260 175 L230 175 L230 155 Z" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- forearm stops at the wrist. Knuckles touch the door. Fingers curl back. -->
+  <path d="M332 178 L270 166" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M248 144 C232 140 212 148 206 160 C204 172 214 184 232 182 C250 180 260 168 256 156 C254 148 250 144 248 144 Z" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 152 C198 148 196 156 204 158 M206 164 C196 164 196 174 206 172 M210 174 C200 180 206 186 214 180" fill="none" stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M226 146 C238 132 256 136 254 150 M234 144 C248 130 266 138 258 152" fill="none" stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round"/>
   <!-- heat marks -->
   <path d="M110 90 C120 70 130 70 140 90 M150 90 C160 70 170 70 180 90" stroke="#C62828" stroke-width="3" fill="none" stroke-linecap="round"/>
   <path d="M124 24 L156 56 M156 24 L124 56" fill="none" stroke="#C62828" stroke-width="4" stroke-linecap="round"/>
@@ -190,12 +234,12 @@ window.DRAWINGS = {
   <path d="M220 200 L180 270 M220 200 L260 270" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- rescuer -->
   <circle cx="130" cy="90" r="16" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M145 100 L200 150" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- fist -->
-  <circle cx="200" cy="150" r="16" fill="#fff" stroke="#1A1A1A" stroke-width="3"/>
-  <!-- in and up arrows -->
-  <path d="M160 180 L200 150 L190 190" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M200 200 L200 150" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M145 100 L206 164" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- fist just above where the legs leave the hips -->
+  <circle cx="214" cy="172" r="16" fill="#fff" stroke="#1A1A1A" stroke-width="3"/>
+  <!-- in and up -->
+  <path d="M158 214 L198 176" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 168 L202 170 L186 196" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M44 60 L54.666666666666664 76 L76 44" fill="none" stroke="#2E6F40" stroke-width="4" stroke-linecap="round"/>
 </svg>`,
   'seizure-safe': `<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

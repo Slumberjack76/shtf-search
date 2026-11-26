@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
-  <!-- Child hand placement, close-up from above: heel of one hand in the center of the chest, other hand resting on the forehead -->
+  <!-- Child hand placement, close-up from above: heel of one hand on the lower half of the breastbone. AHA: one or two hands on the chest, not one hand on the forehead. -->
   <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
 
   <!-- CHILD on the back, head to the left (about 7 years old) -->
@@ -24,18 +24,6 @@
 
   <!-- breastbone landmark -->
   <path d="M146,145 C146,140 150,139 158,139 L220,142 C228,143 232,146 232,150 C232,154 228,157 220,158 L158,161 C150,161 146,160 146,155 Z" fill="none" stroke="#1B6B93" stroke-width="2" stroke-dasharray="5 5"/>
-
-  <!-- RESCUER -->
-  <!-- left hand resting on the forehead at the hairline, face left clear -->
-  <g transform="translate(-24,0)">
-  <path d="M72,96 C68,70 64,40 60,10" fill="none" stroke="#1A1A1A" stroke-width="27"/>
-  <path d="M72,96 C68,70 64,40 60,10" fill="none" stroke="#E2BB82" stroke-width="22"/>
-  <path d="M62,30 L56,-30" fill="none" stroke="#1A1A1A" stroke-width="34"/>
-  <path d="M62,30 L56,-30" fill="none" stroke="#14526F" stroke-width="29"/>
-  <path d="M58,96 C60,88 84,88 86,96 L86,150 C86,160 82,170 76,172 L64,172 C58,170 54,160 56,150 Z" fill="#EED2A4"/>
-  <path d="M66,150 L66,168 M76,150 L76,170" fill="none" stroke="#E2BB82" stroke-width="2"/>
-  <path d="M58,110 C48,116 46,130 50,138 C54,142 58,138 58,132 Z" fill="#EED2A4"/>
-  </g>
 
   <!-- shadow under the lifted fingers -->
   <ellipse cx="202" cy="226" rx="28" ry="5" fill="#D6D0C4" stroke="none"/>

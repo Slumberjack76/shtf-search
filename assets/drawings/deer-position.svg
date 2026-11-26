@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">On its back. Head slightly downhill. Hind legs spread.</text>
+  <path d="M48,150 C70,118 120,108 190,112 L300,118 C340,122 362,142 368,168 C340,186 300,178 250,174 L120,168 C80,164 52,160 48,150 Z" fill="#C4A574"/><circle cx="36" cy="138" r="16" fill="#EED2A4"/><path d="M150,112 L138,78" stroke="#C4A574" stroke-width="8"/><path d="M250,116 L268,80" stroke="#C4A574" stroke-width="8"/>
+  <path d="M36,154 L16,190" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M16,190 L28,184 M16,190 L22,176" stroke="#1B6B93" stroke-width="3"/>
+  <text x="48" y="58" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">head downhill</text>
+  <path d="M300,174 L330,230" stroke="#C4A574" stroke-width="10"/>
+  <path d="M250,174 L230,230" stroke="#C4A574" stroke-width="10"/>
+  <path d="M236,210 L324,210" stroke="#8A6A42" stroke-width="6"/>
+  <text x="168" y="248" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">stick or rocks hold the hind legs open</text>
+  <text x="12" y="278" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Gloves on if you have them. No cut yet.</text>
+</svg>

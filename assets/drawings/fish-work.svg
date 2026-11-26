@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Fish the edge, next to cover. Not the fastest water.</text>
+  <rect x="16" y="50" width="368" height="140" fill="#D7E6EE" stroke="#1B6B93"/>
+  <path d="M220,70 L300,70" stroke="#1B6B93" stroke-width="2"/>
+  <path d="M300,70 L288,64 M300,70 L288,76" stroke="#1B6B93" stroke-width="2"/>
+  <text x="210" y="62" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">fast current — stay out</text>
+  <path d="M40,150 C80,120 120,160 160,130" stroke="#2E6F40" stroke-width="4"/>
+  <text x="40" y="176" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">cover on the edge</text>
+  <path d="M80,40 L120,120" stroke="#8A6A42" stroke-width="4"/>
+  <path d="M120,120 L150,150" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="16" y="220" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">A straight pole, or the line in your hand.</text>
+  <text x="16" y="246" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Set the hook with a firm pull.</text>
+</svg>

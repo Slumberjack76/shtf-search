@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="260" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Check often. Kill and clean what you keep.</text>
+  <path d="M40,80 L300,80" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M100,80 L100,130" stroke="#C62828" stroke-width="2"/>
+  <ellipse cx="108" cy="140" rx="28" ry="12" fill="#B7C9C4"/>
+  <text x="150" y="130" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">do not leave fish</text>
+  <text x="150" y="152" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">to die in the heat</text>
+  <text x="16" y="200" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Kill it, then clean it, the same day if you have no ice.</text>
+  <text x="16" y="228" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">A fish left on the hook in the sun is not safe meat.</text>
+</svg>

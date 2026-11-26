@@ -294,7 +294,8 @@
   }
 
   function hintLine(p, kind) {
-    return '<p class="drive-folder-hint">' + escapeHtml(folderHint(p, kind)) + "</p>";
+    const html = escapeHtml(folderHint(p, kind)).replace(/ &gt; /g, " &gt;<wbr> ");
+    return '<p class="drive-folder-hint">' + html + "</p>";
   }
 
   const SLOW_ZIM = '<p class="drive-howto-tip">If it\'s slow, try a small ZIM first. Large ZIMs over USB may load slowly.</p>';

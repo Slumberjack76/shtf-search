@@ -9,12 +9,12 @@ window.LIBRARY = (function () {
     aha: {
       name: "American Heart Association, Hands-Only CPR",
       url: "https://cpr.heart.org/en/resources/what-is-cpr",
-      extra: "For a teen or adult who collapses: call 911, then push hard and fast in the center of the chest. Rate 100 to 120 pushes a minute. Depth at least 2 inches for an average adult, not more than 2.4 inches. Let the chest come all the way back up. Hands-Only CPR is for teens and adults, not for babies. For a child, AHA: use one or two hands in the center of the chest and push about one third of the chest depth, about 2 inches. For an infant, AHA: use two fingers in the center of the chest and push about one third of the chest depth, about 1½ inches. Get an adult."
+      extra: "For a teen or adult who collapses: call 911, then push hard and fast in the center of the chest. Rate 100 to 120 pushes a minute. Depth at least 2 inches for an average adult, not more than 2.4 inches. Let the chest come all the way back up. Hands-Only CPR is for teens and adults, not for babies. For a child, AHA: use one or two hands in the center of the chest and push about one third of the chest depth, about 2 inches. For an infant, AHA: use the heel of one hand, or two thumbs around the chest, just below the nipple line. Push about one third of the chest depth, about 1½ inches. Do not use two fingers. Get an adult."
     },
     ahaChoke: {
       name: "American Heart Association, choking first aid",
       url: "https://cpr.heart.org/",
-      extra: "If the person can cough or speak, let them cough. If they cannot cough, speak, or breathe, give abdominal thrusts: a fist slightly above the navel, other hand on top, inward and up, until the object comes out or they become unresponsive. Then start CPR and look in the mouth for the object. Infants and late pregnancy use different methods — see more detail and get an adult."
+      extra: "If the person can cough or speak, let them cough. If they cannot cough, speak, or breathe, lean them forward and give 5 back blows with the heel of your hand between the shoulder blades, then 5 abdominal thrusts: a fist just above the navel, thumb side in, other hand on top, inward and up. Repeat blows, then thrusts, until the object comes out or they become unresponsive. Then start CPR and look in the mouth for the object. For a baby, use back blows and chest thrusts. Late pregnancy, or someone too big to reach around, uses chest thrusts. Get an adult."
     },
     cdcHeat: {
       name: "CDC, Heat-related illnesses",
@@ -115,6 +115,36 @@ window.LIBRARY = (function () {
       name: "Penn State field dressing, CDC chronic wasting disease, FM 21-76 fish and liver signs",
       url: "https://www.cdc.gov/chronic-wasting/prevention/index.html",
       extra: "Abnormal organs: do not eat the meat. You cannot see chronic wasting disease. Do not eat deer or elk brain, spinal cord, eyes, spleen, tonsils, or lymph nodes. Do not eat an animal that was found dead or acted sick. Spoiled meat is not made safe by cooking."
+    },
+    pearFood: {
+      name: "University of Arizona Cooperative Extension, prickly pear (AZ1800), and USDA PLANTS",
+      url: "https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1800-2019.pdf",
+      extra: "Young flat pads and ripe fruit of Engelmann prickly pear are food after the glochids are scraped off. Cook the pads. Cholla joints are round, not pads. A stick that looks like a cactus but bleeds milky sap is a spurge (Euphorbia). That sap burns and the plant is not food. USDA Opuntia engelmannii: https://plants.usda.gov/plant-profile/OPEN3 Euphorbia tirucalli: https://plants.ces.ncsu.edu/plants/euphorbia-tirucalli/"
+    },
+    mesquiteFood: {
+      name: "University of Arizona Cooperative Extension, mesquite, and USDA PLANTS",
+      url: "https://extension.arizona.edu/publication/mesquite-and-palo-verde-trees-urban-landscape",
+      extra: "Dry tan mesquite pods are ground for food. Do not use moldy or black pods. Texas mountain laurel and southwestern coral bean have bright red seeds. Those seeds are poisonous. USDA velvet mesquite: https://plants.usda.gov/plant-profile/PRVE Mountain laurel symbol SOSE3: https://plants.usda.gov/plant-profile/SOSE3 Coral bean: https://plants.usda.gov/plant-profile/ERFL6 NC State mountain laurel: https://plants.ces.ncsu.edu/plants/dermatophyllum-secundiflorum/"
+    },
+    paloFood: {
+      name: "University of Arizona Cooperative Extension, palo verde and oleander",
+      url: "https://extension.arizona.edu/publication/mesquite-and-palo-verde-trees-urban-landscape",
+      extra: "Palo verde has green bark, tiny leaves, yellow flowers, and pods. Cook the seeds. Skip moldy pods. It has no deadly twin with that green bark. Oleander is a different yard shrub: leathery leaves in whorls of three. Every part is poisonous, including the smoke if you burn it. https://extension.arizona.edu/sites/extension.arizona.edu/files/attachment/Oleanders.pdf USDA Parkinsonia microphylla: https://plants.usda.gov/plant-profile/PAMI5"
+    },
+    yuccaCare: {
+      name: "USDA PLANTS, banana yucca and death camas",
+      url: "https://plants.usda.gov/plant-profile/YUBA",
+      extra: "Banana yucca has a fleshy fruit. Cook yucca flowers and that ripe fruit. Do not eat the leaf. Agave leaves are thick, toothed, and end in a spine. The sap burns skin and mouth. Do not eat agave raw, and do not chew a leaf for water. Death camas is a bulb with grasslike leaves and small cream flowers. It does not smell like onion. If a bulb does not smell strongly of onion, it is not food. USDA death camas symbol TOVE2: https://plants.usda.gov/plant-profile/TOVE2 ITIS meadow deathcamas: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=522732"
+    },
+    cherryCare: {
+      name: "USDA PLANTS, silverleaf nightshade and desert ground cherry, and NC State datura",
+      url: "https://plants.usda.gov/plant-profile/SOEL",
+      extra: "Silverleaf nightshade has silvery leaves, prickly stems, a purple star flower, and a yellow berry with no papery husk. It is poisonous. Sacred datura has a large white trumpet and a spiny pod. Every part is poisonous. https://plants.ces.ncsu.edu/plants/datura-wrightii/ A ground cherry is eaten only as a ripe soft berry that you took out of its own papery husk, after the leaf and flower also match. Green fruit is not food. USDA Physalis crassifolia: https://plants.usda.gov/plant-profile/PHCR2"
+    },
+    hemlockCare: {
+      name: "University of Arizona invasive-plant guide, poison hemlock, and NC State fennel",
+      url: "https://azinvasiveplants.arizona.edu/sites/azinvasiveplants.arizona.edu/files/2024-01/Poison%2BHemlock.pdf",
+      extra: "Poison hemlock is hairless, with a hollow purple-spotted stem, fern-like leaves, white flower umbels, and a musty smell. All parts are deadly, including dead canes. Water hemlock grows in wet places and its root is chambered. A small bite of that root can kill. Fennel smells strongly of licorice, has thread-like leaves, and has yellow flowers. If you do not smell licorice, do not eat it. NC State fennel: https://plants.ces.ncsu.edu/plants/foeniculum-vulgare/ USDA water hemlock: https://plants.usda.gov/plant-profile/CIDO"
     }
   };
 
@@ -202,8 +232,8 @@ window.LIBRARY = (function () {
         baby: {
           drawing: "cpr-hands-baby",
           step2Drawing: "cpr-baby-depth",
-          step1Text: "Use two fingers in the center of the chest.",
-          step1Caption: "AHA: for an infant, use two fingers in the center of the chest. Get an adult right away. Hands-Only CPR is for teens and adults, not for babies.",
+          step1Text: "Use the heel of one hand on the center of the chest.",
+          step1Caption: "AHA: just below the nipple line. Heel of one hand, or two thumbs around the chest if your hands fit. Do not use two fingers. Get an adult right away. Hands-Only CPR is for teens and adults, not for babies.",
           step2Caption: "AHA: for an infant, push about one third of the chest depth, about 1½ inches. Let the chest come all the way back up."
         }
       },
@@ -232,9 +262,9 @@ window.LIBRARY = (function () {
       ],
       steps: [
         { text: "Cool the burn with cool running water for 10 minutes.", style: "detailed", drawing: "burn-cool", badge: "ok", caption: "Use cool or cold clean water. American Red Cross: at least 10 minutes. Use the timer at the top." },
-        { text: "Do not use ice, butter, oil, or toothpaste.", style: "simple", drawing: "burn-cool", badge: "bad" },
-        { text: "Cover loosely with a clean, dry cloth.", style: "simple", drawing: "burn-cool" },
-        { text: "Leave blisters closed. Do not pop them.", style: "simple", drawing: "burn-cool" }
+        { text: "Do not use ice, butter, oil, or toothpaste.", style: "simple", drawing: "burn-donts", badge: "bad" },
+        { text: "Cover loosely with a clean, dry cloth.", style: "simple", drawing: "burn-cover" },
+        { text: "Leave blisters closed. Do not pop them.", style: "simple", drawing: "burn-blister" }
       ]
     },
     {
@@ -307,7 +337,7 @@ window.LIBRARY = (function () {
         { text: "Get them out of the cold and into shelter.", style: "simple", drawing: "shelter-in" },
         { text: "Take off any wet clothes.", style: "simple", drawing: "wet-clothes" },
         { text: "Warm the chest, neck, head, and groin with dry blankets.", style: "detailed", drawing: "cold-warm", caption: "Warm the center of the body first. Dry layers. Skin-to-skin under blankets is okay. If they are awake, a warm drink is okay. No alcohol. No drinks if they are not awake." },
-        { text: "For frostbite, use warm water. Do not rub the skin.", style: "detailed", drawing: "frostbite-water", badge: "bad", caption: "Water should feel warm, not hot, on skin that is not numb. No stove, no heating pad, no rubbing. Do not walk on frostbitten feet if you can help it." }
+        { text: "For frostbite, use warm water. Do not rub the skin.", style: "detailed", drawing: "frostbite-water", caption: "Water should feel warm, not hot, on skin that is not numb. No stove, no heating pad, no rubbing. Do not walk on frostbitten feet if you can help it." }
       ]
     },
     {
@@ -329,9 +359,9 @@ window.LIBRARY = (function () {
       ],
       steps: [
         { text: "If they can cough or speak, let them cough.", style: "simple", drawing: "choke-cough" },
-        { text: "If they cannot cough, speak, or breathe, stand behind them.", style: "simple", drawing: "choke-behind" },
-        { text: "Make a fist just above the belly button.", style: "detailed", drawing: "choke-fist", caption: "Grab that fist with your other hand." },
-        { text: "Pull in and up, hard, until the object comes out.", style: "detailed", drawing: "choke-thrust" }
+        { text: "If they cannot, lean them forward and give 5 back blows.", style: "detailed", drawing: "choke-back", caption: "Heel of your hand between the shoulder blades. Your other hand supports the chest." },
+        { text: "Make a fist just above the belly button.", style: "detailed", drawing: "choke-fist", caption: "Thumb side against the belly. Other hand on top. Then give 5 thrusts." },
+        { text: "Pull in and up, hard. Repeat 5 blows, then 5 thrusts.", style: "detailed", drawing: "choke-thrust" }
       ]
     },
     {
@@ -466,12 +496,12 @@ window.LIBRARY = (function () {
         "The meat stayed warmer than 40°F for more than 1 hour in hot air, or more than 2 hours in cooler air. Do not eat it."
       ],
       steps: [
-        { text: "Put gloves on if you have them. Roll the deer onto its back. Point the head slightly downhill. Spread the hind legs with a stick or rocks.", style: "detailed", drawing: "deer-open-cut", caption: "Head downhill. The dashed line is a shallow cut from the breastbone to the pelvis." },
-        { text: "Start where the breastbone ends. Cut only the skin and the belly wall. Keep the knife edge toward the hide. Two fingers push the guts down, away from the blade. Do not stab.", style: "detailed", drawing: "deer-open-cut", caption: "Edge up, toward the hide. Fingers hold the guts down." },
-        { text: "Cut a circle around the anus. Tie it shut with cord. Pull the tied end into the belly. Do not cut the tube that runs from the bladder.", style: "detailed", drawing: "deer-organs", caption: "Red outlines are the organs you must not puncture. Deer have no bile sac." },
-        { text: "Cut the diaphragm free from the ribs. Reach forward and cut the windpipe and the food tube. Roll the deer on its side so the guts fall out. Cut them free without slicing them.", style: "simple", drawing: "deer-organs" },
-        { text: "Keep the heart and liver only if they are smooth, wet, and dark red or purple, with no spots and no bad smell. Do not look for a gall bladder. A deer does not have one.", style: "simple", drawing: "deer-organs" },
-        { text: "Prop the cavity open with a clean stick. Wipe out hair, dirt, and feces. Do not rinse the carcass in a creek or pond.", style: "detailed", drawing: "deer-cool", caption: "Water spreads filth and washes off the glaze that limits bacteria." },
+        { text: "Put gloves on if you have them. Roll the deer onto its back. Point the head slightly downhill. Spread the hind legs with a stick or rocks.", style: "detailed", drawing: "deer-position", caption: "Head downhill. The dashed line is a shallow cut from the breastbone to the pelvis." },
+        { text: "Start where the breastbone ends. Cut only the skin and the belly wall. Keep the knife edge toward the hide. Two fingers push the guts down, away from the blade. Do not stab.", style: "detailed", drawing: "deer-midline", caption: "Edge up, toward the hide. Fingers hold the guts down." },
+        { text: "Cut a circle around the anus. Tie it shut with cord. Pull the tied end into the belly. Do not cut the tube that runs from the bladder.", style: "detailed", drawing: "deer-tie-anus", caption: "Red outlines are the organs you must not puncture. Deer have no bile sac." },
+        { text: "Cut the diaphragm free from the ribs. Reach forward and cut the windpipe and the food tube. Roll the deer on its side so the guts fall out. Cut them free without slicing them.", style: "simple", drawing: "deer-roll-guts" },
+        { text: "Keep the heart and liver only if they are smooth, wet, and dark red or purple, with no spots and no bad smell. Do not look for a gall bladder. A deer does not have one.", style: "simple", drawing: "deer-heart-liver" },
+        { text: "Prop the cavity open with a clean stick. Wipe out hair, dirt, and feces. Do not rinse the carcass in a creek or pond.", style: "detailed", drawing: "deer-wipe", caption: "Water spreads filth and washes off the glaze that limits bacteria." },
         { text: "In warm air, take the hide off. It holds the heat in. Do not touch the dark tarsal tufts on the inside of the hocks and then touch the meat.", style: "detailed", drawing: "deer-cool", caption: "Shade, hide off, cavity propped, meat off the hot ground." },
         { text: "Get the thick meat down to 40°F, or cook it the same day. If the air is hot, use the heat card.", style: "simple", drawing: "meat-time" }
       ]
@@ -492,14 +522,14 @@ window.LIBRARY = (function () {
         "The knife slips through into the bladder or the gut. Trim every piece the spill touched. If you cannot get it all, do not eat the meat."
       ],
       steps: [
-        { text: "Use this only when you will take the meat off now. If the carcass will sit whole until tomorrow, field dress it instead.", style: "simple", drawing: "gutless-side" },
-        { text: "Lay the animal on its side. Cut the skin along the backbone with short strokes. Point the blade out through the hide so the hair stays off the meat. Spread the hide hair-side down as a clean table.", style: "detailed", drawing: "gutless-side", caption: "The backstrap is outside the spine. The tenderloin is inside, under it." },
-        { text: "Front leg: there is no bone joint to the body. Pull the leg out and cut the muscle in the armpit. Stay close to the ribs.", style: "simple", drawing: "gutless-side" },
-        { text: "Backstrap: it lies outside the spine, from the pelvis toward the neck. Fillet it off. Keep the knife shallow.", style: "simple", drawing: "gutless-side" },
-        { text: "Hind leg: follow the seam to the pelvis. Keep the knife on the bone. The hip is a ball and socket. Cut the ligaments and bend the leg free. The bladder and the gut are just inside. Do not stab through.", style: "detailed", drawing: "gutless-side", caption: "Knife stays on the bone at the hip." },
-        { text: "Tenderloin: it is inside the belly, stuck to the underside of the spine. Make a shallow cut and free it with your fingers. Do not puncture the intestines.", style: "simple", drawing: "gutless-side" },
-        { text: "Roll the animal onto the skinned hide and repeat the other side. Hang the pieces separate, in the shade, with air between them. Do not stack them or seal them in plastic.", style: "simple", drawing: "meat-heat" },
-        { text: "If gut contents touch the meat, wash only that spot with clean water and dry it at once. Do not wash the rest.", style: "simple", drawing: "deer-cool" }
+        { text: "Use this only when you will take the meat off now. If the carcass will sit whole until tomorrow, field dress it instead.", style: "simple", drawing: "gutless-choose" },
+        { text: "Lay the animal on its side. Cut the skin along the backbone with short strokes. Point the blade out through the hide so the hair stays off the meat. Spread the hide hair-side down as a clean table.", style: "detailed", drawing: "gutless-skin", caption: "The backstrap is outside the spine. The tenderloin is inside, under it." },
+        { text: "Front leg: there is no bone joint to the body. Pull the leg out and cut the muscle in the armpit. Stay close to the ribs.", style: "simple", drawing: "gutless-front" },
+        { text: "Backstrap: it lies outside the spine, from the pelvis toward the neck. Fillet it off. Keep the knife shallow.", style: "simple", drawing: "gutless-backstrap" },
+        { text: "Hind leg: follow the seam to the pelvis. Keep the knife on the bone. The hip is a ball and socket. Cut the ligaments and bend the leg free. The bladder and the gut are just inside. Do not stab through.", style: "detailed", drawing: "gutless-hip", caption: "Knife stays on the bone at the hip." },
+        { text: "Tenderloin: it is inside the belly, stuck to the underside of the spine. Make a shallow cut and free it with your fingers. Do not puncture the intestines.", style: "simple", drawing: "gutless-tender" },
+        { text: "Roll the animal onto the skinned hide and repeat the other side. Hang the pieces separate, in the shade, with air between them. Do not stack them or seal them in plastic.", style: "simple", drawing: "gutless-hang" },
+        { text: "If gut contents touch the meat, wash only that spot with clean water and dry it at once. Do not wash the rest.", style: "simple", drawing: "gutless-spot" }
       ]
     },
     {
@@ -519,13 +549,13 @@ window.LIBRARY = (function () {
         "You broke the gut or the bladder open on the meat and cannot cut all of that meat away. Do not eat it."
       ],
       steps: [
-        { text: "Put gloves on if you have them. A rabbit or squirrel that acted sick is not food.", style: "simple", drawing: "small-game-skin" },
-        { text: "Rabbit: slit only the skin across the middle of the back. Work your fingers under the hide and pull it toward the head and toward the tail.", style: "detailed", drawing: "small-game-skin", caption: "Cut skin only. Pull the hide both ways." },
-        { text: "Squirrel: cut the tail bone from underneath and leave the tail skin attached. Step on the tail skin. Pull the hind legs up so the hide peels off toward the head.", style: "detailed", drawing: "small-game-skin", caption: "Foot on the tail skin. Pull the hind legs up." },
-        { text: "Cut off the head and the feet. They do not go in the pot. Keep the knife edge toward the hide so you do not slice the meat or dump hair on it.", style: "simple", drawing: "small-game-skin" },
+        { text: "Put gloves on if you have them. A rabbit or squirrel that acted sick is not food.", style: "simple", drawing: "small-game-sick" },
+        { text: "Rabbit: slit only the skin across the middle of the back. Work your fingers under the hide and pull it toward the head and toward the tail.", style: "detailed", drawing: "small-game-rabbit", caption: "Cut skin only. Pull the hide both ways." },
+        { text: "Squirrel: cut the tail bone from underneath and leave the tail skin attached. Step on the tail skin. Pull the hind legs up so the hide peels off toward the head.", style: "detailed", drawing: "small-game-squirrel", caption: "Foot on the tail skin. Pull the hind legs up." },
+        { text: "Cut off the head and the feet. They do not go in the pot. Keep the knife edge toward the hide so you do not slice the meat or dump hair on it.", style: "simple", drawing: "small-game-trim" },
         { text: "Slit the belly wall only. Pull the guts out, including the ones in the chest. Do not cut the intestines or the bladder.", style: "detailed", drawing: "small-game-gut", caption: "Rabbits and squirrels have a small green bile sac on the liver. Do not break it." },
-        { text: "Look at the liver. Smooth and dark red is normal. Many pinhead white or yellow spots, or a big swollen spleen: do not eat this animal. Wash your hands.", style: "detailed", drawing: "small-game-gut", caption: "Spotted liver means do not eat it." },
-        { text: "Cool the carcass at once. Cook rabbit or squirrel to 165°F in the center.", style: "simple", drawing: "cook-temps" }
+        { text: "Look at the liver. Smooth and dark red is normal. Many pinhead white or yellow spots, or a big swollen spleen: do not eat this animal. Wash your hands.", style: "detailed", drawing: "small-game-liver", caption: "Spotted liver means do not eat it." },
+        { text: "Cool the carcass at once. Cook rabbit or squirrel to 165°F in the center.", style: "simple", drawing: "small-game-cool" }
       ]
     },
     {
@@ -544,11 +574,11 @@ window.LIBRARY = (function () {
         "You have no ice and the air is hot. Cook it the same day or do not keep it."
       ],
       steps: [
-        { text: "Kill it with a firm blow just behind the eyes. Cut the gills or the throat and let the blood drain.", style: "detailed", drawing: "fish-clean", caption: "Blow behind the eyes. Cut the gills to bleed." },
-        { text: "If it has obvious scales, scrape from the tail toward the head. Leave trout in the skin. For catfish, do not scale it. Cut the skin behind the head and pull the skin toward the tail.", style: "detailed", drawing: "fish-clean", caption: "Scale from the tail toward the head." },
-        { text: "Slit the belly from the vent up to the gills. Pull the guts out. Scrape out the dark blood line under the spine.", style: "detailed", drawing: "fish-clean", caption: "The blood line is the dark strip along the backbone." },
-        { text: "Rinse with clean cold water if you have it. Do not rinse in a dirty ditch. Keep the fish cold.", style: "detailed", drawing: "fish-fresh", caption: "Clear eye and red or pink gills are fresh. Sunken eye, brown gills, slime, or a dent that stays means stop." },
-        { text: "In desert heat with no ice, cook it the same day. Cook fish to 145°F, until it is opaque and it flakes.", style: "simple", drawing: "cook-temps" }
+        { text: "Kill it with a firm blow just behind the eyes. Cut the gills or the throat and let the blood drain.", style: "detailed", drawing: "fish-stun", caption: "Blow behind the eyes. Cut the gills to bleed." },
+        { text: "If it has obvious scales, scrape from the tail toward the head. Leave trout in the skin. For catfish, do not scale it. Cut the skin behind the head and pull the skin toward the tail.", style: "detailed", drawing: "fish-scale", caption: "Scale from the tail toward the head." },
+        { text: "Slit the belly from the vent up to the gills. Pull the guts out. Scrape out the dark blood line under the spine.", style: "detailed", drawing: "fish-belly", caption: "The blood line is the dark strip along the backbone." },
+        { text: "Rinse with clean cold water if you have it. Do not rinse in a dirty ditch. Keep the fish cold.", style: "detailed", drawing: "fish-hold", caption: "Clear eye and red or pink gills are fresh. Sunken eye, brown gills, slime, or a dent that stays means stop." },
+        { text: "In desert heat with no ice, cook it the same day. Cook fish to 145°F, until it is opaque and it flakes.", style: "simple", drawing: "fish-cook" }
       ]
     },
     {
@@ -567,10 +597,10 @@ window.LIBRARY = (function () {
         "A person or a dog could walk into the snare. Do not set it there."
       ],
       steps: [
-        { text: "Use wire if you have it. Twist a small eye in one end and pass the standing wire through that eye so the loop can only get smaller.", style: "detailed", drawing: "snare-lock", caption: "Cord needs a one-way lock. Two wraps toward the noose, then one tuck toward the anchor." },
+        { text: "Use wire if you have it. Twist a small eye in one end and pass the standing wire through that eye so the loop can only get smaller.", style: "detailed", drawing: "snare-wire", caption: "Cord needs a one-way lock. Two wraps toward the noose, then one tuck toward the anchor." },
         { text: "If you only have cord, tie that lock. Two wraps face the noose. One more wrap faces the anchor, and the tag is tucked under that wrap. Do not use a slip knot.", style: "detailed", drawing: "snare-lock", caption: "Slide the hitch toward the anchor to shrink the noose. It jams if the loop tries to open." },
         { text: "Set the loop on a trail where brush makes a narrow funnel. Make it big enough for the head, at head height, not low enough to catch a foot. Anchor it to a stake that will not pull out. Prop the loop open with twigs.", style: "detailed", drawing: "snare-set", caption: "Funnel the trail. Loop at head height." },
-        { text: "A snare like this often catches the animal and does not kill it. Check it often. If the animal is alive, kill it at once with a hard blow to the head, then dress it.", style: "simple", drawing: "snare-set" },
+        { text: "A snare like this often catches the animal and does not kill it. Check it often. If the animal is alive, kill it at once with a hard blow to the head, then dress it.", style: "simple", drawing: "snare-dispatch" },
         { text: "Twitch-up: bend a springy sapling and strip the branches. Use two dry forked sticks. Drive one into the ground with its short leg parallel to the ground. Tie the other fork to the sapling and hook the short legs together. A head in the noose pulls the hooks apart and the sapling lifts.", style: "detailed", drawing: "snare-twitch", caption: "Dry dead wood only. Green sap can glue the trigger. The sapling must lift the animal clear." }
       ]
     },
@@ -591,12 +621,12 @@ window.LIBRARY = (function () {
       ],
       steps: [
         { text: "Cut three dry sticks. Do not use green wood. Sap can glue the trigger.", style: "detailed", drawing: "deadfall-parts", caption: "Upright: sloped top, square notch low on that side, flat bottom. Release: angled notch at one end. Bait: hook, square notch, then the point." },
-        { text: "Upright: the top slopes down to one side. Cut a square notch low on that same side. Leave the bottom flat. Do not pound this stick into the ground.", style: "detailed", drawing: "deadfall-parts", caption: "A deep stake can hold the log up after the trigger trips." },
-        { text: "Release stick: cut an angled notch near one end. That notch hooks the sloped top of the upright. The short tip past the notch goes under the log. The long end goes down to the bait stick.", style: "simple", drawing: "deadfall-parts" },
-        { text: "Bait stick: an angled hook on the blunt end, a square notch closer to the point, and a sharp point. The hook holds the long end of the release. The square notch locks into the upright.", style: "simple", drawing: "deadfall-parts" },
-        { text: "Stand the upright on the ground, just outside where the log will fall. Hook the release notch on the bevel. The short tip props the log. The long end comes down to the bait. The low end of the log rests on the ground.", style: "detailed", drawing: "deadfall-set", caption: "The three sticks make a 4. The upright only touches the ground and the other two sticks." },
+        { text: "Upright: the top slopes down to one side. Cut a square notch low on that same side. Leave the bottom flat. Do not pound this stick into the ground.", style: "detailed", drawing: "deadfall-upright", caption: "A deep stake can hold the log up after the trigger trips." },
+        { text: "Release stick: cut an angled notch near one end. That notch hooks the sloped top of the upright. The short tip past the notch goes under the log. The long end goes down to the bait stick.", style: "simple", drawing: "deadfall-release" },
+        { text: "Bait stick: an angled hook on the blunt end, a square notch closer to the point, and a sharp point. The hook holds the long end of the release. The square notch locks into the upright.", style: "simple", drawing: "deadfall-bait" },
+        { text: "Stand the upright on the ground, just outside where the log will fall. Hook the release notch on the bevel. The short tip props the log. The long end comes down to the bait. The low end of the log rests on the ground.", style: "detailed", drawing: "deadfall-stand", caption: "The three sticks make a 4. The upright only touches the ground and the other two sticks." },
         { text: "Lock the bait's square notch into the upright's side notch. Set the long end of the release into the angled hook. The point sticks out under the log.", style: "detailed", drawing: "deadfall-set", caption: "1 release notch on the bevel. 2 square notch in the upright. 3 angled hook holds the release." },
-        { text: "Use a log or a flat rock heavy enough to kill at once. Fit the sticks before you add the weight. Keep your hands out from under it. A nudge on the bait must drop the weight.", style: "simple", drawing: "deadfall-set" }
+        { text: "Use a log or a flat rock heavy enough to kill at once. Fit the sticks before you add the weight. Keep your hands out from under it. A nudge on the bait must drop the weight.", style: "simple", drawing: "deadfall-weight" }
       ]
     },
     {
@@ -614,12 +644,12 @@ window.LIBRARY = (function () {
         "The wraps cross, or the palomar strands in the eye are crossed. Untie it and start again. A bad knot slips when a fish pulls."
       ],
       steps: [
-        { text: "Improved clinch: pass the tag through the hook eye. Wrap the tag around the standing line 5 times on heavier line, or 7 times on light line. Do not let the wraps cross. The first wrap is the one next to the eye.", style: "detailed", drawing: "knot-clinch", caption: "Blue is the standing line. Red is the tag. Count five wraps." },
-        { text: "Pass the tag back through the small loop just above the eye. Then pass the tag through the big loop you just made. That second pass is what makes it improved.", style: "detailed", drawing: "knot-clinch", caption: "Through the small loop first, then the big loop." },
-        { text: "Wet the line. Pull the tag until the coils stack. Then pull the standing line so the knot slides down onto the eye. Leave a short tag. Tug the hook and the line to test it.", style: "detailed", drawing: "knot-clinch", caption: "Stacked coils sit against the eye." },
-        { text: "Palomar: double about 6 inches of line. Pass the doubled end through the eye. Tie a loose overhand with the doubled line. Do not twist the two strands. Do not tighten yet.", style: "detailed", drawing: "knot-palomar", caption: "The overhand stays loose until the hook is through the loop." },
-        { text: "Pass the whole hook through that end loop. Wet the line. Pull the standing line and the tag together. The loop seats around the eye.", style: "detailed", drawing: "knot-palomar", caption: "The two strands in the eye lie side by side, not crossed." },
-        { text: "Trim the tag and leave a short stub. Test the knot with a hard tug before you fish it.", style: "simple", drawing: "knot-palomar" }
+        { text: "Improved clinch: pass the tag through the hook eye. Wrap the tag around the standing line 5 times on heavier line, or 7 times on light line. Do not let the wraps cross. The first wrap is the one next to the eye.", style: "detailed", drawing: "knot-clinch-wraps", caption: "Blue is the standing line. Red is the tag. Count five wraps." },
+        { text: "Pass the tag back through the small loop just above the eye. Then pass the tag through the big loop you just made. That second pass is what makes it improved.", style: "detailed", drawing: "knot-clinch-tag", caption: "Through the small loop first, then the big loop." },
+        { text: "Wet the line. Pull the tag until the coils stack. Then pull the standing line so the knot slides down onto the eye. Leave a short tag. Tug the hook and the line to test it.", style: "detailed", drawing: "knot-clinch-cinch", caption: "Stacked coils sit against the eye." },
+        { text: "Palomar: double about 6 inches of line. Pass the doubled end through the eye. Tie a loose overhand with the doubled line. Do not twist the two strands. Do not tighten yet.", style: "detailed", drawing: "knot-palomar-loop", caption: "The overhand stays loose until the hook is through the loop." },
+        { text: "Pass the whole hook through that end loop. Wet the line. Pull the standing line and the tag together. The loop seats around the eye.", style: "detailed", drawing: "knot-palomar-hook", caption: "The two strands in the eye lie side by side, not crossed." },
+        { text: "Trim the tag and leave a short stub. Test the knot with a hard tug before you fish it.", style: "simple", drawing: "knot-palomar-dress" }
       ]
     },
     {
@@ -638,12 +668,12 @@ window.LIBRARY = (function () {
         "You cannot check the line for hours in hot weather. A dead fish in the heat spoils."
       ],
       steps: [
-        { text: "A gorge is a short piece of wood, bone, or wire, sharp at both ends, with a notch in the middle. Tie the line in the notch. Cover the gorge with bait laid lengthwise.", style: "detailed", drawing: "fish-kit", caption: "After the fish swallows it, a pull turns the gorge sideways." },
-        { text: "Or cut a short hardwood shank, notch one end, and lash a thorn, bone, or nail into that notch so the point cannot shift. Tie a smooth stone on the line above the hook for a weight.", style: "detailed", drawing: "fish-kit", caption: "The point has to stay put. The stone takes the bait down." },
-        { text: "Fish with a straight pole or with the line in your hand. Work the edges of the current, next to cover, not the fastest water. Set the hook with a firm pull.", style: "simple", drawing: "fish-kit" },
-        { text: "Trotline: tie a main line between two stakes driven into the bottom, or between two anchors on the bank. Stake tops can sit just under the surface.", style: "detailed", drawing: "trotline-set", caption: "Set it along the edge, near cover. Stay out of the fast current." },
-        { text: "Tie short droppers onto the main line so they cannot slide and cannot wrap each other. Make each dropper shorter than half the gap to the next one. Bait them. A stone can hold the line down.", style: "detailed", drawing: "trotline-set", caption: "Short droppers. Fixed to the main line." },
-        { text: "Check the line often. Kill and clean what you keep. Do not leave fish to die on the hooks in the heat.", style: "simple", drawing: "fish-fresh" }
+        { text: "A gorge is a short piece of wood, bone, or wire, sharp at both ends, with a notch in the middle. Tie the line in the notch. Cover the gorge with bait laid lengthwise.", style: "detailed", drawing: "fish-gorge", caption: "After the fish swallows it, a pull turns the gorge sideways." },
+        { text: "Or cut a short hardwood shank, notch one end, and lash a thorn, bone, or nail into that notch so the point cannot shift. Tie a smooth stone on the line above the hook for a weight.", style: "detailed", drawing: "fish-shank", caption: "The point has to stay put. The stone takes the bait down." },
+        { text: "Fish with a straight pole or with the line in your hand. Work the edges of the current, next to cover, not the fastest water. Set the hook with a firm pull.", style: "simple", drawing: "fish-work" },
+        { text: "Trotline: tie a main line between two stakes driven into the bottom, or between two anchors on the bank. Stake tops can sit just under the surface.", style: "detailed", drawing: "trotline-main", caption: "Set it along the edge, near cover. Stay out of the fast current." },
+        { text: "Tie short droppers onto the main line so they cannot slide and cannot wrap each other. Make each dropper shorter than half the gap to the next one. Bait them. A stone can hold the line down.", style: "detailed", drawing: "trotline-drops", caption: "Short droppers. Fixed to the main line." },
+        { text: "Check the line often. Kill and clean what you keep. Do not leave fish to die on the hooks in the heat.", style: "simple", drawing: "trotline-check" }
       ]
     },
     {
@@ -663,12 +693,12 @@ window.LIBRARY = (function () {
         "The meat smells sour or rotten, or it is warm and full of maggots. Do not eat it."
       ],
       steps: [
-        { text: "Start the clock when the animal dies. Get the hide off and the guts out, or the meat off the bone, as fast as you can. A hide holds heat. The center of a big ham stays hot.", style: "detailed", drawing: "meat-heat", caption: "Do not stack warm meat in plastic in the sun." },
-        { text: "Cut the meat into pieces you can cool. Put them in the shade, off the ground, separate, with air moving around them. Do not stack warm meat. Do not seal it in plastic.", style: "detailed", drawing: "meat-heat", caption: "Shade, pieces apart, air through a wet cloth." },
-        { text: "A wet cloth in dry desert air, in the shade, with a breeze, only slows spoilage. In a Phoenix summer it does not cool meat to 40°F. Re-wet the cloth. Humid air works worse. This buys time. It is not a refrigerator.", style: "detailed", drawing: "meat-heat", caption: "Evaporative cooling is still inside the danger zone." },
-        { text: "If you have ice, keep the cooler in the shade with the lid shut. Bag the meat. Put ice around it. Drain the melt water so the meat does not sit in blood.", style: "simple", drawing: "meat-heat" },
+        { text: "Start the clock when the animal dies. Get the hide off and the guts out, or the meat off the bone, as fast as you can. A hide holds heat. The center of a big ham stays hot.", style: "detailed", drawing: "meat-clock", caption: "Do not stack warm meat in plastic in the sun." },
+        { text: "Cut the meat into pieces you can cool. Put them in the shade, off the ground, separate, with air moving around them. Do not stack warm meat. Do not seal it in plastic.", style: "detailed", drawing: "meat-pieces", caption: "Shade, pieces apart, air through a wet cloth." },
+        { text: "A wet cloth in dry desert air, in the shade, with a breeze, only slows spoilage. In a Phoenix summer it does not cool meat to 40°F. Re-wet the cloth. Humid air works worse. This buys time. It is not a refrigerator.", style: "detailed", drawing: "meat-cloth", caption: "Evaporative cooling is still inside the danger zone." },
+        { text: "If you have ice, keep the cooler in the shade with the lid shut. Bag the meat. Put ice around it. Drain the melt water so the meat does not sit in blood.", style: "simple", drawing: "meat-ice" },
         { text: "Bacteria grow fastest from 40°F to 140°F. You cannot see them. Hold raw meat at 40°F or colder. Above 90°F air, you have 1 hour. In cooler air, you have 2 hours. Then cook it or do not eat it.", style: "detailed", drawing: "meat-time", caption: "Cold is 40°F and below. The red band is the danger zone. 140°F and hotter is for holding cooked food." },
-        { text: "Keep flies off with a light cloth that still lets air through. Do not use a sealed bag on warm meat.", style: "simple", drawing: "meat-heat" }
+        { text: "Keep flies off with a light cloth that still lets air through. Do not use a sealed bag on warm meat.", style: "simple", drawing: "meat-flies" }
       ]
     },
     {
@@ -688,15 +718,15 @@ window.LIBRARY = (function () {
         "It is bear, wild pig, or javelina and you only froze it. Freezing does not make that meat safe. Cook it to 160°F."
       ],
       steps: [
-        { text: "Put the thermometer in the center of the thickest part. Do not let it touch bone. Color is not a test.", style: "detailed", drawing: "cook-temps", caption: "The tip is in the middle of the meat, not on a bone." },
-        { text: "Deer and elk, steaks and roasts and ground meat: 160°F. Do not stop at 145°F. That beef rule is not the wild-game rule.", style: "detailed", drawing: "cook-temps", caption: "Deer and elk 160°F." },
-        { text: "Rabbit and squirrel: 165°F. All birds, including ground bird: 165°F. Fish: 145°F, or cook until it is opaque and flakes. Do not eat raw freshwater fish.", style: "detailed", drawing: "cook-temps", caption: "Rabbit and squirrel 165°F. Birds 165°F. Fish 145°F." },
-        { text: "Bear, wild pig, and javelina: 160°F in the center. Drying, smoking, curing, or freezing alone does not make this meat safe.", style: "simple", drawing: "cook-temps" },
-        { text: "Any meat that was shot through the gut, or poked full of holes, is treated like ground meat: 160°F, because bacteria are in the middle. Ground bird is 165°F.", style: "simple", drawing: "cook-temps" },
-        { text: "No thermometer: cut the meat into about 1-inch chunks. Simmer until the center of a chunk is gray-brown all the way through and the pot has been at a simmer, not just hot on the outside. If you are not sure, do not eat it.", style: "simple", drawing: "cook-temps" },
-        { text: "Jerky: slice no thicker than 1/4 inch and trim the fat. Boil the strips until the center of one reads 160°F. Quarter-inch strips often take about 5 minutes. Thicker strips take longer. Birds must reach 165°F. If you cannot measure a bird strip, do not dry it.", style: "detailed", drawing: "cook-temps", caption: "The heat step is what makes jerky safe. Drying alone does not." },
-        { text: "If you have an oven, you can dry first and then heat quarter-inch strips for 10 minutes at 275°F. Dry until a cooled piece cracks when you bend it but does not snap in two. Do not make jerky from meat that gut contents soaked. In desert heat, if you are not sure it is fully dry, keep it cold.", style: "detailed", drawing: "cook-temps", caption: "Cracks when bent. Does not break in two." },
-        { text: "Reheat leftovers to 165°F. Cool them in shallow pans so they get cold fast.", style: "simple", drawing: "meat-time" }
+        { text: "Put the thermometer in the center of the thickest part. Do not let it touch bone. Color is not a test.", style: "detailed", drawing: "cook-probe", caption: "The tip is in the middle of the meat, not on a bone." },
+        { text: "Deer and elk, steaks and roasts and ground meat: 160°F. Do not stop at 145°F. That beef rule is not the wild-game rule.", style: "detailed", drawing: "cook-venison", caption: "Deer and elk 160°F." },
+        { text: "Rabbit and squirrel: 165°F. All birds, including ground bird: 165°F. Fish: 145°F, or cook until it is opaque and flakes. Do not eat raw freshwater fish.", style: "detailed", drawing: "cook-small", caption: "Rabbit and squirrel 165°F. Birds 165°F. Fish 145°F." },
+        { text: "Bear, wild pig, and javelina: 160°F in the center. Drying, smoking, curing, or freezing alone does not make this meat safe.", style: "simple", drawing: "cook-bear" },
+        { text: "Any meat that was shot through the gut, or poked full of holes, is treated like ground meat: 160°F, because bacteria are in the middle. Ground bird is 165°F.", style: "simple", drawing: "cook-ground" },
+        { text: "No thermometer: cut the meat into about 1-inch chunks. Simmer until the center of a chunk is gray-brown all the way through and the pot has been at a simmer, not just hot on the outside. If you are not sure, do not eat it.", style: "simple", drawing: "cook-simmer" },
+        { text: "Jerky: slice no thicker than 1/4 inch and trim the fat. Boil the strips until the center of one reads 160°F. Quarter-inch strips often take about 5 minutes. Thicker strips take longer. Birds must reach 165°F. If you cannot measure a bird strip, do not dry it.", style: "detailed", drawing: "cook-jerky", caption: "The heat step is what makes jerky safe. Drying alone does not." },
+        { text: "If you have an oven, you can dry first and then heat quarter-inch strips for 10 minutes at 275°F. Dry until a cooled piece cracks when you bend it but does not snap in two. Do not make jerky from meat that gut contents soaked. In desert heat, if you are not sure it is fully dry, keep it cold.", style: "detailed", drawing: "cook-oven", caption: "Cracks when bent. Does not break in two." },
+        { text: "Reheat leftovers to 165°F. Cool them in shallow pans so they get cold fast.", style: "simple", drawing: "cook-reheat" }
       ]
     },
     {
@@ -716,15 +746,162 @@ window.LIBRARY = (function () {
         "The meat smells sour, rotten, or like ammonia or sulfur, or it is sticky and green. Do not eat it. Heat will not fix it."
       ],
       steps: [
-        { text: "Do not eat an animal you found already dead. Do not eat one that let you walk up to it, or that was stumbling, drooling, or very thin.", style: "detailed", drawing: "meat-disease", caption: "You cannot tell why a sick or dead animal died." },
-        { text: "Look at the liver before you keep the meat. Smooth, wet, and dark red or purple is normal to look at. Many white or yellow spots, or a swollen spleen: do not eat the animal.", style: "detailed", drawing: "meat-disease", caption: "Spotted liver means the whole animal is out." },
-        { text: "A pocket of white, yellow, or green pus in the meat, in a lymph node, or as a soft lump under the jaw: do not eat the animal. A bad smell or green discharge from the organs: do not eat the meat.", style: "detailed", drawing: "meat-disease", caption: "Do not trim a diseased carcass and hope the rest is fine." },
-        { text: "Deer and elk: do not eat the brain, spinal cord, eyes, spleen, tonsils, or lymph nodes. Do not saw through the backbone. You cannot see chronic wasting disease in a deer that still looks fine.", style: "simple", drawing: "meat-disease" },
+        { text: "Do not eat an animal you found already dead. Do not eat one that let you walk up to it, or that was stumbling, drooling, or very thin.", style: "detailed", drawing: "meat-sick", caption: "You cannot tell why a sick or dead animal died." },
+        { text: "Look at the liver before you keep the meat. Smooth, wet, and dark red or purple is normal to look at. Many white or yellow spots, or a swollen spleen: do not eat the animal.", style: "detailed", drawing: "meat-liver", caption: "Spotted liver means the whole animal is out." },
+        { text: "A pocket of white, yellow, or green pus in the meat, in a lymph node, or as a soft lump under the jaw: do not eat the animal. A bad smell or green discharge from the organs: do not eat the meat.", style: "detailed", drawing: "meat-pus", caption: "Do not trim a diseased carcass and hope the rest is fine." },
+        { text: "Deer and elk: do not eat the brain, spinal cord, eyes, spleen, tonsils, or lymph nodes. Do not saw through the backbone. You cannot see chronic wasting disease in a deer that still looks fine.", style: "simple", drawing: "meat-cwd" },
         { text: "Spoiled meat smells sour, rotten, like ammonia, or like sulfur. It may be sticky with slime, or green or gray-green into the meat. A drum-tight carcass that smells foul when you open it is spoiled. Hide that slips, with green skin underneath, is spoiled.", style: "detailed", drawing: "meat-spoil", caption: "Green, sticky, or foul: do not eat it." },
-        { text: "A rainbow shine on a dry, firm cut can be normal if there is no slime and no bad smell. Shine plus slime or a bad smell is spoiled. Cooking does not make spoiled meat safe.", style: "detailed", drawing: "meat-spoil", caption: "Rainbow alone, on dry firm meat, is not spoilage." },
-        { text: "Gut contents or urine on the meat: cut off all of it plus a margin with a clean knife. Do not rinse that mess into the rest of the carcass. If you cannot remove all of it, do not eat the meat.", style: "simple", drawing: "deer-organs" },
+        { text: "A rainbow shine on a dry, firm cut can be normal if there is no slime and no bad smell. Shine plus slime or a bad smell is spoiled. Cooking does not make spoiled meat safe.", style: "detailed", drawing: "meat-shine", caption: "Rainbow alone, on dry firm meat, is not spoilage." },
+        { text: "Gut contents or urine on the meat: cut off all of it plus a margin with a clean knife. Do not rinse that mess into the rest of the carcass. If you cannot remove all of it, do not eat the meat.", style: "simple", drawing: "meat-trim" },
         { text: "Looks can lie. If the meat was warmer than 40°F for more than 2 hours, or more than 1 hour when the air is above 90°F, do not eat it even if it still looks all right.", style: "simple", drawing: "meat-time" },
-        { text: "Cook it only when the animal acted normal, you dressed it soon, the organs looked normal, the gut did not soak the meat, you cooled it fast or you are still inside the time limit, and the meat smells mild and is firm, not sticky and not green. Then use the cooking temperatures.", style: "simple", drawing: "cook-temps" }
+        { text: "Cook it only when the animal acted normal, you dressed it soon, the organs looked normal, the gut did not soak the meat, you cooled it fast or you are still inside the time limit, and the meat smells mild and is firm, not sticky and not green. Then use the cooking temperatures.", style: "simple", drawing: "meat-ready" }
+      ]
+    },
+    {
+      id: "prickly-pear",
+      title: "Prickly pear pads and fruit",
+      helpLabel: "PRICKLY PEAR",
+      helpIcon: "food",
+      helpNow: false,
+      type: "card",
+      category: "food",
+      synonyms: ["prickly pear", "nopal", "nopales", "nopalitos", "tuna", "opuntia", "cactus pad", "cactus fruit", "cholla", "euphorbia", "milkbush", "pencil tree", "edible cactus", "forage"],
+      source: src.pearFood,
+      headerAction: null,
+      stopIf: [
+        "The joints are round cylinders, not flat pads. That is cholla. Do not cook it as a pad.",
+        "A broken stem bleeds milky white sap, or there are no spine clusters. That is not a cactus food. Do not eat it. Keep the sap out of your eyes.",
+        "You cannot scrape off the tiny hair-like spines. Do not eat that pad or fruit."
+      ],
+      steps: [
+        { text: "The leaf is a flat oval pad. Spine clusters, called areoles, sit in rows. Each cluster has longer spines and tiny barbed hairs called glochids.", style: "detailed", drawing: "plant-pear-leaf", caption: "Flat pad, areoles in rows. Cholla joints are round. A smooth stick with milky sap is not a cactus." },
+        { text: "Pads stack joint to joint. The joint is narrow. A broken pad does not bleed milky sap.", style: "detailed", drawing: "plant-pear-leaf", caption: "Cholla is a pile of cylinders. Euphorbia is smooth green sticks with white sap and no areoles." },
+        { text: "The flower is a cup of many petals on the edge of a pad. It is usually yellow, and it can be orange or pink.", style: "detailed", drawing: "plant-pear-flower", caption: "Euphorbia flowers are tiny. They are not a big cactus cup. The sap is the warning." },
+        { text: "The fruit sits on the rim of a pad. Ripe fruit is red to purple. The roots are shallow and fibrous. Do not dig them. They are not food.", style: "detailed", drawing: "plant-pear-flower", caption: "Scrape or singe every glochid off the fruit and the pad before it touches your mouth." },
+        { text: "Use a young bright-green pad. Scrape the glochids, trim the edge, and cook it. Older pads are woody. Eat ripe fruit only after the glochids are gone. If you are not sure, do not eat it.", style: "simple", drawing: "plant-pear-flower" }
+      ]
+    },
+    {
+      id: "mesquite-pods",
+      title: "Mesquite pods",
+      helpLabel: "MESQUITE",
+      helpIcon: "food",
+      helpNow: false,
+      type: "card",
+      category: "food",
+      synonyms: ["mesquite", "mesquite bean", "mesquite pod", "prosopis", "velvet mesquite", "mountain laurel", "texas mountain laurel", "sophora", "mescal bean", "coral bean", "erythrina", "red seed", "red bean"],
+      source: src.mesquiteFood,
+      headerAction: null,
+      stopIf: [
+        "The seeds are bright red. Do not eat them. Do not suck on one. Texas mountain laurel and coral bean seeds are poisonous.",
+        "The pod is black, moldy, or smells bad. Do not grind it.",
+        "The leaf is one row of shiny oval leaflets, or only three big leaflets. That is not mesquite."
+      ],
+      steps: [
+        { text: "Mesquite leaves are feathery and twice-divided. A main stalk holds side stalks, and each side stalk holds many tiny leaflets.", style: "detailed", drawing: "plant-mesquite-leaf", caption: "Mountain laurel leaves are once-divided: one row of shiny oval leaflets, not a feather." },
+        { text: "The bark is brown or gray, not green. Many velvet mesquites have a pair of thorns at the nodes.", style: "detailed", drawing: "plant-mesquite-leaf", caption: "Mountain laurel is an evergreen shrub without those paired long thorns." },
+        { text: "The flower is a yellow catkin, a fuzzy spike. Mountain laurel has hanging clusters of purple pea flowers. Coral bean has red tubes and only three big leaflets.", style: "detailed", drawing: "plant-mesquite-pod", caption: "A purple cluster or a red tube is not mesquite." },
+        { text: "Eat only dry tan pods that are not moldy. They pinch in between the seeds. The seeds inside are brown and very hard, not bright red. The root is a deep taproot. Do not eat it.", style: "detailed", drawing: "plant-mesquite-pod", caption: "Bright red seeds in a stiff pod are mountain laurel or coral bean. Those seeds can kill." },
+        { text: "Break dry tan pods and grind the sweet meal. Cook what you make from it. If any seed is red, throw the whole batch out.", style: "simple", drawing: "plant-mesquite-pod" }
+      ]
+    },
+    {
+      id: "palo-verde",
+      title: "Palo verde flowers and pods",
+      helpLabel: "PALO VERDE",
+      helpIcon: "food",
+      helpNow: false,
+      type: "card",
+      category: "food",
+      synonyms: ["palo verde", "paloverde", "parkinsonia", "foothill palo verde", "blue palo verde", "green bark", "oleander", "nerium"],
+      source: src.paloFood,
+      headerAction: null,
+      stopIf: [
+        "The leaves are long, leathery, and set in whorls of three. That is oleander. Do not eat it. Do not burn it. Do not cook food on its sticks.",
+        "The seeds are bright red. That is not palo verde. Do not eat them.",
+        "The pods are black or moldy. Do not eat them."
+      ],
+      steps: [
+        { text: "Palo verde has no deadly twin that shares its green bark. The leaves are tiny and may be missing in drought. The twigs stay green.", style: "detailed", drawing: "plant-palo-leaf", caption: "Oleander leaves are long and leathery, usually three at each node, with a pale midrib." },
+        { text: "The bark is smooth and green or blue-green. Oleander bark is gray-brown wood.", style: "detailed", drawing: "plant-palo-leaf", caption: "If the trunk is not green, it is not a palo verde." },
+        { text: "Flowers are small and yellow, with five petals, along the green twigs. Oleander flowers are pink, red, or white, in a cluster at the tip of the twig.", style: "detailed", drawing: "plant-palo-flower", caption: "Yellow flowers on green bark are the palo verde. A colored cluster on brown wood is oleander." },
+        { text: "The pod is flat and pinched between tan or green seeds. Seeds are never bright red. The root is a taproot and is not food. Oleander roots, pods, leaves, and smoke are all poisonous.", style: "detailed", drawing: "plant-palo-flower", caption: "Do not use oleander wood as a skewer or as firewood for cooking." },
+        { text: "Yellow flowers can be eaten in small amounts. Boil or parch the green seeds the way you cook other beans. Skip black or moldy pods. If you are not sure the bark is green, do not eat it.", style: "simple", drawing: "plant-palo-flower" }
+      ]
+    },
+    {
+      id: "yucca-agave",
+      title: "Yucca, agave, and death camas",
+      helpLabel: "YUCCA",
+      helpSub: "agave caution",
+      helpIcon: "food",
+      helpNow: false,
+      type: "card",
+      category: "food",
+      synonyms: ["yucca", "banana yucca", "soapweed", "agave", "century plant", "death camas", "zigadenus", "toxicoscordion", "wild onion", "onion", "bulb"],
+      source: src.yuccaCare,
+      headerAction: null,
+      stopIf: [
+        "You dug a bulb and it does not smell strongly of onion. That can be death camas. Do not taste it. Do not eat it.",
+        "The leaf is thick, has teeth on the edge, and ends in a big spine. That is agave. Do not eat it raw. The sap burns.",
+        "You only have the grasslike leaves and no onion smell. Do not eat any part."
+      ],
+      steps: [
+        { text: "Yucca leaves are narrow swords with a sharp tip and curling white threads. They do not have big teeth on the edge.", style: "detailed", drawing: "plant-yucca-leaf", caption: "Agave leaves are thick and fleshy, with teeth along the side and a dark spine at the tip." },
+        { text: "A yucca can be a trunk or a ground rosette, and it can flower again in later years. An agave is a tight rosette that flowers once on a tall stalk and then dies.", style: "detailed", drawing: "plant-yucca-leaf", caption: "Do not chew an agave leaf for water. Raw sap burns the mouth and the skin." },
+        { text: "Yucca flowers are thick creamy bells. Banana yucca also makes a short fleshy fruit. Cook the flowers. Cook ripe fleshy fruit. Do not eat the leaf.", style: "detailed", drawing: "plant-yucca-flower", caption: "Death camas flowers are small cream stars on a spike. Each petal has a green gland at its base." },
+        { text: "The yucca root is thick and sits under a rosette of swords. It is not a casual food. Death camas is a small coated bulb under grasslike leaves.", style: "detailed", drawing: "plant-yucca-flower", caption: "Smell the bulb without tasting it. No strong onion smell means it is not food." },
+        { text: "This card does not teach roasting an agave heart. If you cannot match the yucca flowers or the fleshy banana-yucca fruit, do not eat the plant.", style: "simple", drawing: "plant-yucca-flower" }
+      ]
+    },
+    {
+      id: "ground-cherry",
+      title: "Ground cherry, nightshade, and datura",
+      helpLabel: "GROUND CHERRY",
+      helpIcon: "food",
+      helpNow: false,
+      type: "card",
+      category: "food",
+      synonyms: ["ground cherry", "physalis", "husk tomato", "nightshade", "silverleaf", "silverleaf nightshade", "solanum", "trompillo", "datura", "jimsonweed", "jimson", "sacred datura", "moonflower", "poison berry", "poisonous plant"],
+      source: src.cherryCare,
+      headerAction: null,
+      stopIf: [
+        "The berry has no papery husk. Do not eat it. A yellow berry on a silver prickly plant is nightshade.",
+        "The flower is a large white trumpet, or the pod is a spiny ball. That is datura. Every part is poisonous.",
+        "The fruit is still green, or you did not see the husk on that same fruit. Do not eat it.",
+        "You are naming this plant for the first time from a picture. Do not eat it. This card is so you do not eat nightshade or datura."
+      ],
+      steps: [
+        { text: "Ground cherry leaves are plain green, simple, and alternate. They are not silver. The stem sprawls and is not covered in prickles.", style: "detailed", drawing: "plant-cherry-leaf", caption: "Silverleaf nightshade has silvery oblong leaves and short prickles on the stem." },
+        { text: "The flower hangs and is yellow, with five lobes and often a dark center. It is not a purple star and it is not a long white trumpet.", style: "detailed", drawing: "plant-cherry-fruit", caption: "Nightshade is a purple star with yellow anthers. Datura is a huge white trumpet." },
+        { text: "The fruit is a berry sealed inside an inflated papery lantern. Leaves, roots, and green fruit are not food. A ripe soft berry from a dry husk is the only part people eat, and only when they already know the plant.", style: "detailed", drawing: "plant-cherry-fruit", caption: "A yellow berry with only a small starry cap, and no lantern, is nightshade. Do not eat it." },
+        { text: "Datura fruit is a round pod covered in spines. The root is thick. Leaves, flowers, seeds, pod, and root are all poisonous. Do not eat any part.", style: "detailed", drawing: "plant-cherry-fruit", caption: "A spiny pod is not a husk tomato. Leave the whole plant alone." },
+        { text: "If the husk, the flower, and the leaf do not all match, do not eat it. If you are identifying it for the first time, do not eat it. The drawing is here so a bare yellow berry or a spiny pod does not get eaten.", style: "simple", drawing: "plant-cherry-leaf" }
+      ]
+    },
+    {
+      id: "fennel-hemlock",
+      title: "Fennel and poison hemlock",
+      helpLabel: "FENNEL",
+      helpSub: "not hemlock",
+      helpIcon: "food",
+      helpNow: false,
+      type: "card",
+      category: "food",
+      synonyms: ["fennel", "anise", "licorice", "poison hemlock", "hemlock", "conium", "water hemlock", "cicuta", "queen anne", "wild carrot", "umbrella flower", "parsley", "poison plant"],
+      source: src.hemlockCare,
+      headerAction: null,
+      stopIf: [
+        "The crushed leaf does not smell strongly of licorice. Do not eat it.",
+        "The stem has purple spots or blotches. That is poison hemlock. Do not eat it. Dead canes are still poisonous.",
+        "The cut root shows hollow chambers in a row. That is water hemlock. A small bite can kill. Do not taste it."
+      ],
+      steps: [
+        { text: "Fennel leaves are thread-like, like dill. Crush one. It must smell strongly of licorice or anise. A weak smell is a stop.", style: "detailed", drawing: "plant-fennel-leaf", caption: "Poison hemlock leaves are fern-like and broader, hairless, and smell musty, not like licorice." },
+        { text: "The fennel stem is smooth and green, with no purple spots. Poison hemlock is hollow, hairless, and blotched with purple.", style: "detailed", drawing: "plant-fennel-leaf", caption: "Purple spots on a hollow stem mean poison hemlock. Do not eat any part." },
+        { text: "Fennel flowers are yellow and held in umbrella clusters. Poison hemlock and water hemlock have white umbrella clusters.", style: "detailed", drawing: "plant-fennel-root", caption: "White flowers plus a carrot-family leaf is not your food unless every other test on this card passes. Yellow plus licorice is fennel." },
+        { text: "The fennel root or swollen base still smells of licorice when you cut it. Poison hemlock has a white taproot and a hollow purple-spotted stem. Water hemlock roots, cut across, show chambers like a row of empty pockets.", style: "detailed", drawing: "plant-fennel-root", caption: "Do not taste a root to test it. Smell a crush of the leaf first. No licorice smell means stop." },
+        { text: "Eat fennel leaves, the swollen base, or the seeds only when the smell is strong, the flowers are yellow, and there are no purple spots. If you are not sure, do not eat it.", style: "simple", drawing: "plant-fennel-leaf" }
       ]
     }
   ];
@@ -762,7 +939,7 @@ window.LIBRARY = (function () {
     water: "Water you can drink, and how to make it safer.",
     medical: "Hurt, sick, bitten, or burned. Use Help now first, then this list.",
     shelter: "Stay warm, stay cool, stay dry, and get out of smoke or CO.",
-    food: "Dressing game, fish, snares, and how to keep meat safe to eat.",
+    food: "Dressing game, fish, snares, desert plants, and how to keep meat safe to eat.",
     power: "Batteries, solar, and light. Sample pages are marked.",
     maps: "If you are lost, start here. Then maps and trails.",
     comms: "PLACEHOLDER. Radio and signaling pages will go here.",

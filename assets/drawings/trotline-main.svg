@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="260" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Main line between two stakes, along the edge.</text>
+  <rect x="16" y="70" width="368" height="120" fill="#D7E6EE" stroke="#1B6B93"/>
+  <path d="M50,40 L50,210" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M340,40 L340,210" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M50,110 L340,110" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="140" y="100" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">main line</text>
+  <text x="16" y="230" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Stake tops can sit just under the surface.</text>
+  <text x="16" y="252" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Set it near cover. Stay out of the fast current.</text>
+</svg>

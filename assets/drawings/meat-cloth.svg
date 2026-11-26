@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">A wet cloth only slows spoilage. It is not a refrigerator.</text>
+  <path d="M30,40 L120,24 L160,48 L40,60 Z" fill="#D6D0C4" stroke="none"/>
+  <rect x="70" y="100" width="50" height="36" fill="#C45C4A" stroke="none"/>
+  <path d="M50,90 L180,90 L190,150 L40,150 Z" fill="#D7E6EE" opacity="0.9"/>
+  <text x="200" y="110" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">wet cloth</text>
+  <text x="200" y="132" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">shade and a breeze</text>
+  <text x="16" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Re-wet the cloth. Humid air works worse.</text>
+  <text x="16" y="216" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">In a Phoenix summer this does not cool meat to 40°F.</text>
+  <text x="16" y="242" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">It buys time. The meat is still in the danger zone.</text>
+  <text x="16" y="266" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">This is not cold storage.</text>
+</svg>

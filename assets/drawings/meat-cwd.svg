@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Deer and elk: leave the brain, cord, eyes, spleen, nodes.</text>
+  <ellipse cx="90" cy="90" rx="36" ry="28" fill="#EED2A4"/>
+  <circle cx="78" cy="84" r="4" fill="#1A1A1A" stroke="none"/>
+  <circle cx="102" cy="84" r="4" fill="#1A1A1A" stroke="none"/>
+  <text x="140" y="70" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">eyes — do not eat</text>
+  <text x="140" y="92" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">brain — do not eat</text>
+  <path d="M70,120 L70,200" stroke="#D6D0C4" stroke-width="8"/>
+  <text x="90" y="160" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">spinal cord — do not saw the backbone</text>
+  <text x="16" y="230" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Also leave the spleen, tonsils, and lymph nodes.</text>
+  <text x="16" y="256" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">You cannot see chronic wasting disease</text>
+  <text x="16" y="276" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">in a deer that still looks fine.</text>
+</svg>

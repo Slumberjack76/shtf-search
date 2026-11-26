@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Wet it. Stack the coils. Slide the knot to the eye.</text>
+  <path d="M70,200 L70,160" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="70" cy="148" r="10" fill="none" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M70,138 L70,70" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M52,150 L88,150 M52,142 L88,142 M54,134 L86,134 M56,126 L84,126 M58,118 L82,118" stroke="#C62828" stroke-width="3"/>
+  <path d="M88,134 L120,120" stroke="#C62828" stroke-width="3"/>
+  <text x="126" y="124" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">short tag</text>
+  <text x="16" y="230" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Pull the tag until the coils stack.</text>
+  <text x="16" y="254" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Pull the standing line so the knot seats on the eye.</text>
+</svg>

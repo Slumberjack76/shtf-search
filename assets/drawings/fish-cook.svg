@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="240" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Fish: 145°F. Opaque, and it flakes.</text>
+  <ellipse cx="110" cy="110" rx="70" ry="32" fill="#E7D3A8"/>
+  <path d="M70,100 L150,124" stroke="#F4F1EA" stroke-width="4"/>
+  <path d="M160,50 L130,100" stroke="#1B6B93" stroke-width="3"/>
+  <circle cx="160" cy="46" r="8" fill="#FFFFFF" stroke="#1B6B93"/>
+  <text x="190" y="80" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">145°F</text>
+  <text x="190" y="110" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">in the center</text>
+  <text x="16" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Cook until it is opaque and it flakes.</text>
+  <text x="16" y="202" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not eat raw freshwater fish.</text>
+  <text x="16" y="226" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Same day if you have no ice.</text>
+</svg>

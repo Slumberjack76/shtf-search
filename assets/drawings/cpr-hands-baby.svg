@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
-  <!-- Infant hand placement, close-up from above: two fingertips in the center of the chest just below the nipple line, other hand gently on the forehead -->
+  <!-- Infant hand placement, close-up from above: heel of one hand on the midline, just below the nipple line. AHA 2025: two fingers are no longer used. -->
   <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
   <!-- firm flat table top -->
   <path d="M-4,18 L404,18 L404,268 L-4,268 Z" fill="#D6D0C4"/>
@@ -37,33 +37,17 @@
   <!-- nipple line landmark -->
   <path d="M190,100 L190,206" fill="none" stroke="#1B6B93" stroke-width="2" stroke-dasharray="5 5"/>
 
-  <!-- RESCUER -->
-  <!-- left hand resting gently on the forehead at the crown, face left clear -->
-  <g transform="translate(56,96) scale(0.8) translate(-84,-96)">
-  <path d="M84,96 C82,64 78,34 74,4" fill="none" stroke="#1A1A1A" stroke-width="40"/>
-  <path d="M84,96 C82,64 78,34 74,4" fill="none" stroke="#E2BB82" stroke-width="35"/>
-  <path d="M76,20 L72,-30" fill="none" stroke="#1A1A1A" stroke-width="50"/>
-  <path d="M76,20 L72,-30" fill="none" stroke="#14526F" stroke-width="45"/>
-  <path d="M60,96 C62,86 106,86 108,96 L110,150 C110,164 104,174 96,176 L72,176 C64,174 58,164 58,150 Z" fill="#EED2A4"/>
-  <path d="M72,146 L72,172 M84,146 L84,174 M96,146 L96,172" fill="none" stroke="#E2BB82" stroke-width="2"/>
-  <path d="M60,110 C46,118 42,136 48,146 C54,150 60,144 60,136 Z" fill="#EED2A4"/>
-  </g>
-
-  <!-- right hand: index and middle fingertips on the breastbone just below the nipple line, other fingers curled -->
-  <path d="M218,74 C220,44 222,16 224,-10" fill="none" stroke="#1A1A1A" stroke-width="44"/>
-  <path d="M218,74 C220,44 222,16 224,-10" fill="none" stroke="#EED2A4" stroke-width="39"/>
-  <path d="M222,8 L224,-30" fill="none" stroke="#1A1A1A" stroke-width="54"/>
-  <path d="M222,8 L224,-30" fill="none" stroke="#1B6B93" stroke-width="49"/>
-  <!-- two straight fingers, tips pressing -->
-  <path d="M200,110 L200,150 C200,160 218,160 218,150 L219,110 Z" fill="#EED2A4"/>
-  <path d="M221,110 L221,152 C221,162 239,162 239,152 L240,110 Z" fill="#EED2A4"/>
-  <path d="M203,150 C207,153 213,153 216,150 M224,152 C228,155 234,155 237,152" fill="none" stroke="#E2BB82" stroke-width="2"/>
-  <!-- back of the hand -->
-  <path d="M192,74 C194,64 244,64 246,74 L248,114 C246,122 194,122 190,114 Z" fill="#EED2A4"/>
-  <path d="M208,96 L209,114 M230,96 L230,114" fill="none" stroke="#E2BB82" stroke-width="2"/>
-  <!-- ring and little finger curled under -->
-  <path d="M190,96 C178,100 174,114 180,124 C186,130 196,126 198,118 Z" fill="#E2BB82"/>
-  <path d="M184,112 C180,118 182,124 188,126" fill="none" stroke-width="2"/>
-  <!-- thumb -->
-  <path d="M244,84 C260,90 266,108 260,118 C254,124 246,118 246,110 Z" fill="#EED2A4"/>
+  <!-- RESCUER: heel only, on the foot side of the nipple line (head is left, so larger x). Fingers curl back toward the wrist and stay off the chest. -->
+  <ellipse cx="236" cy="188" rx="22" ry="5" fill="#D6D0C4" stroke="none"/>
+  <path d="M228,108 C232,72 236,36 238,2" fill="none" stroke="#1A1A1A" stroke-width="36"/>
+  <path d="M228,108 C232,72 236,36 238,2" fill="none" stroke="#EED2A4" stroke-width="31"/>
+  <path d="M236,24 L238,-24" fill="none" stroke="#1A1A1A" stroke-width="44"/>
+  <path d="M236,24 L238,-24" fill="none" stroke="#1B6B93" stroke-width="39"/>
+  <!-- heel. Nipple line is x=190. Contact sits around x=230, toward the feet, and does not cross onto the head side. -->
+  <path d="M214,128 C216,118 252,118 254,130 L248,162 C246,170 218,170 214,160 Z" fill="#EED2A4"/>
+  <!-- fingers folded back over the hand, tips toward the wrist, not on the belly -->
+  <path d="M220,132 C208,118 214,100 228,104 C236,106 232,122 224,128 Z" fill="#EED2A4"/>
+  <path d="M234,126 C226,108 238,92 250,98 C258,102 252,118 242,124 Z" fill="#EED2A4"/>
+  <path d="M248,128 C246,110 260,96 270,104 C276,110 268,126 256,130 Z" fill="#EED2A4"/>
+  <path d="M224,112 C228,108 232,110 232,114 M242,106 C246,102 250,104 250,108 M262,112 C266,108 268,112 266,116" fill="none" stroke="#E2BB82" stroke-width="2"/>
 </svg>

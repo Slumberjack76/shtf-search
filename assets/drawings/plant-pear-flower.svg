@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="340" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Flower, fruit, and root. The root is not food.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">PRICKLY PEAR</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">EUPHORBIA</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — cup on the pad rim</text>
+  <ellipse cx="78" cy="128" rx="36" ry="28" fill="#7C9A46"/>
+  <circle cx="78" cy="108" r="16" fill="#F2D15A"/>
+  <circle cx="64" cy="98" r="8" fill="#F2D15A"/>
+  <circle cx="92" cy="98" r="8" fill="#F2D15A"/>
+  <circle cx="60" cy="114" r="8" fill="#F2D15A"/>
+  <circle cx="96" cy="114" r="8" fill="#F2D15A"/>
+  <circle cx="78" cy="108" r="5" fill="#C45C26"/>
+  <text x="16" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Yellow, orange, or pink cup.</text>
+  <text x="16" y="182" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Many petals. On the pad edge.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — tiny, not a cup</text>
+  <path d="M280,100 L280,156" stroke="#3E6B32" stroke-width="10"/>
+  <path d="M280,118 L318,104" stroke="#3E6B32" stroke-width="7"/>
+  <circle cx="318" cy="104" r="5" fill="#E7D48A"/>
+  <circle cx="280" cy="100" r="4" fill="#E7D48A"/>
+  <path d="M318,110 C324,116 322,124 316,124" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+  <text x="210" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">No big cactus flower.</text>
+  <text x="210" y="182" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Broken stem bleeds white sap.</text>
+  <text x="16" y="206" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FRUIT on the rim</text>
+  <ellipse cx="62" cy="248" rx="30" ry="22" fill="#7C9A46"/>
+  <ellipse cx="92" cy="236" rx="12" ry="16" fill="#A33B6B"/>
+  <path d="M40,278 L70,268 M48,286 L78,274 M36,270 L58,266" stroke="#8A6A42" stroke-width="2"/>
+  <path d="M16,292 L184,292" stroke="#C4B49A" stroke-width="6"/>
+  <text x="16" y="316" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Ripe fruit is red to purple.</text>
+  <text x="16" y="330" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Shallow fibrous roots. Not food.</text>
+  <text x="210" y="206" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — sap here too</text>
+  <path d="M300,230 L300,278" stroke="#3E6B32" stroke-width="8"/>
+  <path d="M300,278 C280,292 270,310 290,318 M300,278 C320,296 336,308 322,320 M300,284 C286,300 292,316 304,312" stroke="#8A6A42" stroke-width="2.4"/>
+  <path d="M206,300 L390,300" stroke="#C4B49A" stroke-width="6"/>
+  <text x="210" y="330" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Do not eat any part. Sap burns.</text>
+</svg>

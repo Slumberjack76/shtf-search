@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="340" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Green bark is palo verde. Oleander is not.</text>
+  <rect x="12" y="32" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="45" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">PALO VERDE</text>
+  <rect x="206" y="32" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="45" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">OLEANDER</text>
+  <text x="16" y="68" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — tiny, often missing</text>
+  <path d="M36,150 L150,110" stroke="#7C9A46" stroke-width="10"/>
+  <path d="M70,138 L58,118 M90,130 L108,114 M112,122 L124,108" stroke="#3E6B32" stroke-width="1.6"/>
+  <g fill="#6E8F45" stroke="#1A1A1A" stroke-width="1">
+    <ellipse cx="56" cy="114" rx="3" ry="1.6"/><ellipse cx="108" cy="112" rx="3" ry="1.6"/><ellipse cx="126" cy="106" rx="3" ry="1.6"/>
+  </g>
+  <text x="16" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Few tiny leaflets. In drought</text>
+  <text x="16" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">the green twigs may be bare.</text>
+  <text x="210" y="68" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — three in a whorl</text>
+  <path d="M300,150 L300,92" stroke="#6B5344" stroke-width="6"/>
+  <path d="M300,110 L248,86 L258,98 Z" fill="#2F6B3A"/>
+  <path d="M300,110 L352,86 L342,98 Z" fill="#2F6B3A"/>
+  <path d="M300,110 L300,70 L312,78 Z" fill="#2F6B3A"/>
+  <path d="M258,92 L292,104 M342,92 L308,104 M306,78 L306,104" stroke="#C9D6B0" stroke-width="1.2"/>
+  <text x="210" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Long leathery leaves, three</text>
+  <text x="210" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">at a node, pale midrib.</text>
+  <text x="16" y="216" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — bark stays green</text>
+  <path d="M40,240 L150,300" stroke="#7C9A46" stroke-width="14"/>
+  <path d="M40,240 L150,300" stroke="#3E6B32" stroke-width="2" stroke-dasharray="2 10"/>
+  <text x="16" y="324" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Smooth green or blue-green bark.</text>
+  <text x="210" y="216" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — gray-brown wood</text>
+  <path d="M230,246 L360,300" stroke="#6B5344" stroke-width="12"/>
+  <text x="210" y="324" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Not green. All parts are poison.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Gloves on. A sick-acting rabbit or squirrel is not food.</text>
+  <ellipse cx="120" cy="120" rx="70" ry="28" fill="#C4A574"/>
+  <circle cx="52" cy="112" r="14" fill="#EED2A4"/>
+  <path d="M40,100 L28,80 M48,96 L40,76" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="200" y="90" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">acted sick,</text>
+  <text x="200" y="112" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">stumbling, or</text>
+  <text x="200" y="134" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">easy to catch</text>
+  <text x="200" y="164" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">NOT FOOD</text>
+  <path d="M30,180 L70,150 L90,180" stroke="#EED2A4" stroke-width="8"/>
+  <text x="16" y="230" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Gloves if you have them. Wash your hands after.</text>
+  <text x="16" y="256" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not taste it to check.</text>
+</svg>

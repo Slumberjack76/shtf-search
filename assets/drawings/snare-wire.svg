@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Wire: a small eye. The loop can only get smaller.</text>
+  <circle cx="150" cy="130" r="16" fill="#FFFFFF" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M150,114 L150,70" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M150,146 C150,190 40,200 40,140 C40,80 120,70 146,114" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="176" y="70" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">standing wire</text>
+  <text x="176" y="88" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">through the eye</text>
+  <text x="180" y="126" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">small twisted eye</text>
+  <text x="180" y="170" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">noose — only shrinks</text>
+  <text x="16" y="230" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">A pull shrinks the loop. It does not open back up.</text>
+  <text x="16" y="256" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">This is not a slip knot.</text>
+</svg>

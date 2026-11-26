@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Belly from the vent to the gills. Scrape the blood line.</text>
+  <path d="M40,140 C80,90 190,86 280,116 C310,128 330,140 348,140 C330,152 310,164 280,176 C190,206 80,196 40,156 C28,148 28,148 40,140 Z" fill="#B7C9C4"/><path d="M40,140 L16,122 L22,148 L16,170 L40,156" fill="#8FB0B0"/><circle cx="310" cy="132" r="5" fill="#1A1A1A" stroke="none"/>
+  <path d="M90,168 L270,150" stroke="#1B6B93" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="90" y="196" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">slit from the vent up to the gills</text>
+  <rect x="16" y="214" width="368" height="70" rx="8" fill="#FFFFFF" stroke="#D6D0C4" stroke-width="2"/>
+  <path d="M36,248 L180,248" stroke="#D6D0C4" stroke-width="8"/>
+  <path d="M36,248 L180,248" stroke="#8C3A32" stroke-width="3"/>
+  <text x="190" y="246" fill="#8C3A32" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">dark blood line under the spine</text>
+  <text x="190" y="266" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">scrape it out</text>
+</svg>

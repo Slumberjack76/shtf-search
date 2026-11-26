@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Log or flat rock heavy enough to kill at once.</text>
+  <path d="M50,80 L220,60 L340,150 L300,170 L80,150 Z" fill="#8A6A42"/>
+  <path d="M16,190 L380,190" stroke="#8A6A42" stroke-width="3"/>
+  <path d="M70,180 L48,220" stroke="#EED2A4" stroke-width="8"/>
+  <path d="M300,176 L330,220" stroke="#EED2A4" stroke-width="8"/>
+  <text x="16" y="236" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Fit the sticks first. Keep your hands out from under it.</text>
+  <text x="16" y="260" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">A nudge on the bait must drop the weight.</text>
+</svg>

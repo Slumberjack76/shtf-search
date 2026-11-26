@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Trim a short tag. The two strands in the eye stay side by side.</text>
+  <path d="M120,220 L120,170" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="120" cy="158" r="10" fill="none" stroke="#5A5A5A" stroke-width="3"/>
+  <path d="M112,148 L112,80" stroke="#1B6B93" stroke-width="3"/>
+  <path d="M128,148 L128,100" stroke="#C62828" stroke-width="3"/>
+  <path d="M100,108 C130,88 156,100 128,118" stroke="#1A1A1A" stroke-width="2.5"/>
+  <path d="M104,128 L148,128" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="170" y="100" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">collar around the eye</text>
+  <text x="170" y="140" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">strands parallel,</text>
+  <text x="170" y="160" fill="#1B6B93" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">not crossed</text>
+  <text x="200" y="116" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">short tag</text>
+  <text x="16" y="252" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Tug the hook and the line before you fish it.</text>
+</svg>

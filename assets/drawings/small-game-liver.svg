@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Liver: smooth and dark red, or do not eat the animal.</text>
+  <path d="M30,90 C30,68 110,64 120,90 C128,116 90,132 48,122 Z" fill="#8C3A32"/>
+  <text x="30" y="156" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">smooth, dark red</text>
+  <text x="30" y="174" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">normal to look at</text>
+  <path d="M180,90 C180,68 270,64 280,90 C288,116 246,132 198,122 Z" fill="#8C3A32" stroke="#C62828" stroke-width="3"/>
+  <circle cx="214" cy="96" r="4" fill="#FFFFFF" stroke="none"/>
+  <circle cx="232" cy="108" r="3" fill="#F5D76E" stroke="none"/>
+  <circle cx="248" cy="94" r="4" fill="#FFFFFF" stroke="none"/>
+  <circle cx="226" cy="118" r="3" fill="#FFFFFF" stroke="none"/>
+  <text x="176" y="156" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">many white or yellow spots</text>
+  <text x="176" y="174" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">or a big swollen spleen</text>
+  <text x="16" y="214" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">DO NOT EAT. Wash your hands.</text>
+  <text x="16" y="244" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Rabbits and squirrels do have a small green bile sac.</text>
+  <text x="16" y="264" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Do not break it. A deer does not have one.</text>
+</svg>

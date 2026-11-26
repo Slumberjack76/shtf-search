@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="260" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Check often. If it is alive, kill it, then dress it.</text>
+  <circle cx="150" cy="110" r="28" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+  <ellipse cx="150" cy="150" rx="22" ry="14" fill="#C4A574"/>
+  <text x="190" y="100" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">loop on the trail</text>
+  <path d="M210,70 L160,110" stroke="#C62828" stroke-width="4"/>
+  <text x="220" y="78" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">hard blow</text>
+  <text x="220" y="98" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">to the head</text>
+  <text x="16" y="200" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">A plain snare often catches and does not kill.</text>
+  <text x="16" y="226" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not leave a live animal in it.</text>
+  <text x="16" y="250" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Then dress it.</text>
+</svg>

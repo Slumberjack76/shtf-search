@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="400" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Flower and root. Chambers mean water hemlock.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FENNEL</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">HEMLOCKS — never eat</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — yellow umbels</text>
+  <path d="M80,78 L80,108" stroke="#3E6B32" stroke-width="2"/>
+  <path d="M80,108 L52,92 M80,108 L64,86 M80,108 L96,86 M80,108 L112,94 M80,108 L108,112" stroke="#F2D15A" stroke-width="3"/>
+  <g fill="#F2D15A" stroke="none">
+    <circle cx="52" cy="92" r="4"/><circle cx="64" cy="86" r="4"/><circle cx="96" cy="86" r="4"/>
+    <circle cx="112" cy="94" r="4"/><circle cx="108" cy="112" r="4"/>
+  </g>
+  <text x="16" y="140" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Yellow flower umbrellas.</text>
+  <text x="16" y="154" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Whole plant smells of anise.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FLOWER — white umbels</text>
+  <path d="M300,78 L300,108" stroke="#3E6B32" stroke-width="2"/>
+  <path d="M300,108 L272,92 M300,108 L284,84 M300,108 L316,84 M300,108 L332,94 M300,108 L328,114" stroke="#F4F1EA" stroke-width="2"/>
+  <g fill="#F7F3EA" stroke="#1A1A1A" stroke-width="1">
+    <circle cx="272" cy="92" r="5"/><circle cx="284" cy="84" r="5"/><circle cx="316" cy="84" r="5"/>
+    <circle cx="332" cy="94" r="5"/><circle cx="328" cy="114" r="5"/>
+  </g>
+  <text x="210" y="140" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">White umbrellas. Poison hemlock</text>
+  <text x="210" y="154" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">and water hemlock both do this.</text>
+  <text x="16" y="182" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — smells of licorice</text>
+  <path d="M16,250 L184,250" stroke="#C4B49A" stroke-width="8"/>
+  <path d="M80,200 L80,250" stroke="#6E8F45" stroke-width="8"/>
+  <path d="M68,250 L62,300 C78,292 90,292 98,304 L92,250" fill="#F7F3EA"/>
+  <text x="16" y="324" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Base can be swollen. Cut it:</text>
+  <text x="16" y="338" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">it still smells of licorice.</text>
+  <text x="210" y="182" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">ROOT — taproot, or chambers</text>
+  <path d="M206,250 L390,250" stroke="#C4B49A" stroke-width="8"/>
+  <path d="M250,200 L250,250" stroke="#6E8F45" stroke-width="6"/>
+  <path d="M238,250 L232,310 L268,310 L262,250" fill="#F7F3EA"/>
+  <path d="M248,214 L248,292" stroke="#3E6B32" stroke-width="5"/>
+  <ellipse cx="248" cy="214" rx="8" ry="4" fill="#F4F1EA"/>
+  <path d="M330,230 L330,250" stroke="#3E6B32" stroke-width="4"/>
+  <rect x="312" y="250" width="36" height="58" rx="8" fill="#E7D3A8"/>
+  <path d="M316,264 L344,264 M316,278 L344,278 M316,292 L344,292" stroke="#F4F1EA" stroke-width="3"/>
+  <text x="210" y="336" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Left: hemlock taproot, hollow stem.</text>
+  <text x="210" y="352" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Right: water hemlock, chambered.</text>
+  <text x="210" y="388" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">A bite of that root can kill.</text>
+  <text x="12" y="388" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">No licorice smell: stop.</text>
+</svg>

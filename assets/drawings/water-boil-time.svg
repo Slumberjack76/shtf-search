@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
   <!-- Boil time: boiling pot, a timer with a short sweep, and on a high mountain a timer with a sweep three times longer; then a clean closed container -->
   <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Rolling boil: 1 minute. Above 6,500 feet: 3 minutes.</text>
   <ellipse cx="200" cy="262" rx="190" ry="8" fill="#D6D0C4" stroke="none"/>
 
   <!-- SMALL BOILING POT on a camp stove (left) -->
@@ -35,6 +36,7 @@
   <path d="M229,132 L227,136 M245,148 L241,150 M245,192 L241,190 M229,208 L227,204 M185,208 L187,204 M169,192 L173,190 M169,148 L173,150 M185,132 L187,136" fill="none" stroke-width="2"/>
   <path d="M207,170 L245,170" fill="none" stroke="#1A1A1A" stroke-width="4"/>
   <circle cx="207" cy="170" r="5" fill="#1A1A1A"/>
+  <text x="176" y="96" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">1 minute</text>
 
   <!-- MOUNTAIN with high-elevation line near the peak -->
   <path d="M262,262 L320,96 L382,262 Z" fill="#5A5A5A"/>
@@ -48,6 +50,7 @@
   <circle cx="320" cy="190" r="30" fill="none" stroke-width="3"/>
   <path d="M320,190 L298,190" fill="none" stroke="#1A1A1A" stroke-width="3.5"/>
   <circle cx="320" cy="190" r="3.5" fill="#1A1A1A"/>
+  <text x="286" y="78" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">3 minutes</text>
 
   <!-- CLEAN CLOSED CONTAINER (bottom right) -->
   <path d="M340,226 C340,220 344,218 350,218 L378,218 C384,218 388,220 388,226 L388,258 C388,262 384,264 380,264 L348,264 C344,264 340,262 340,258 Z" fill="#D7E6EE"/>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">The clock starts when the animal dies.</text>
+  <circle cx="70" cy="110" r="40" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M70,110 L70,82" stroke="#C62828" stroke-width="3"/>
+  <path d="M70,110 L92,118" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="130" y="80" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">hide off</text>
+  <text x="130" y="106" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">guts out, or</text>
+  <text x="130" y="132" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">meat off the bone</text>
+  <text x="16" y="190" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do this as fast as you can.</text>
+  <text x="16" y="216" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">A hide holds the heat in.</text>
+  <text x="16" y="242" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">The center of a big ham stays hot.</text>
+  <text x="16" y="268" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Do not stack that warm meat in plastic in the sun.</text>
+</svg>

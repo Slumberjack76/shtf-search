@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
-  <!-- Child CPR, side view: heel of one hand in the center of the chest, arm straight, shoulder over the hand; other hand on the forehead -->
+  <!-- Child CPR, side view: heel of one hand on the lower half of the breastbone, arm straight, shoulder over the hand -->
   <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
   <ellipse cx="220" cy="258" rx="150" ry="8" fill="#D6D0C4" stroke="none"/>
 
@@ -8,11 +8,6 @@
   <path d="M226,196 C236,184 260,186 268,200 L260,244 L222,244 Z" fill="#5A5A5A"/>
   <path d="M166,120 C176,108 200,104 216,110 C238,124 260,160 270,196 C262,210 240,214 226,208 C216,186 202,162 186,142 Z" fill="#1B6B93"/>
   <path d="M200,110 C210,138 228,172 240,206" fill="none" stroke="#14526F" stroke-width="2"/>
-  <!-- far arm reaching to the forehead, elbow soft -->
-  <path d="M198,122 C190,140 176,158 164,172" fill="none" stroke="#1A1A1A" stroke-width="17"/>
-  <path d="M198,122 C190,140 176,158 164,172" fill="none" stroke="#14526F" stroke-width="12"/>
-  <path d="M166,168 C156,184 146,196 140,208" fill="none" stroke="#1A1A1A" stroke-width="14"/>
-  <path d="M166,168 C156,184 146,196 140,208" fill="none" stroke="#E2BB82" stroke-width="9"/>
   <!-- neck and head looking down -->
   <path d="M158,122 L154,104 L170,100 L176,120 Z" fill="#EED2A4"/>
   <g transform="rotate(-16 164 80)">
@@ -48,20 +43,17 @@
   <path d="M153,220 C155,222 157,222 159,220" fill="none" stroke-width="2"/>
   <path d="M144,236 C147,234 149,239 146,241" fill="#E2BB82" stroke-width="2"/>
 
-  <!-- hand on the forehead -->
-  <path d="M120,220 C120,212 130,207 140,209 C146,211 146,217 141,219 L124,223 C121,223 120,222 120,220 Z" fill="#E2BB82"/>
+  <!-- near arm, locked straight, shoulder over the hand on the lower half of the chest -->
+  <path d="M214,116 L214,158" fill="none" stroke="#1A1A1A" stroke-width="19"/>
+  <path d="M214,116 L214,158" fill="none" stroke="#1B6B93" stroke-width="14"/>
+  <path d="M214,152 L214,200" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M214,152 L214,200" fill="none" stroke="#EED2A4" stroke-width="11"/>
+  <!-- one hand: heel on the lower half of the chest, toward the feet, fingers lifted -->
+  <path d="M226,212 C220,216 210,215 204,210 C198,205 196,200 200,198 C208,196 222,198 228,202 C231,206 230,210 226,212 Z" fill="#EED2A4"/>
+  <path d="M204,200 L200,204 M210,199 L206,206" fill="none" stroke-width="2"/>
+  <path d="M222,200 C226,200 228,204 224,206" fill="none" stroke-width="2"/>
 
-  <!-- near arm, locked straight, shoulder over the hand -->
-  <path d="M190,116 L190,158" fill="none" stroke="#1A1A1A" stroke-width="19"/>
-  <path d="M190,116 L190,158" fill="none" stroke="#1B6B93" stroke-width="14"/>
-  <path d="M190,152 L190,200" fill="none" stroke="#1A1A1A" stroke-width="16"/>
-  <path d="M190,152 L190,200" fill="none" stroke="#EED2A4" stroke-width="11"/>
-  <!-- one hand: heel on the center of the chest, fingers lifted -->
-  <path d="M198,212 C192,216 182,215 176,210 C170,205 168,200 172,198 C180,196 194,198 200,202 C203,206 202,210 198,212 Z" fill="#EED2A4"/>
-  <path d="M176,200 L172,204 M182,199 L178,206" fill="none" stroke-width="2"/>
-  <path d="M194,200 C198,200 200,204 196,206" fill="none" stroke-width="2"/>
-
-  <path d="M190,98 L190,214" fill="none" stroke="#1B6B93" stroke-width="2.5" stroke-dasharray="6 7"/>
+  <path d="M214,98 L214,214" fill="none" stroke="#1B6B93" stroke-width="2.5" stroke-dasharray="6 7"/>
   <!-- push down, let it come back up -->
   <path d="M110,152 L110,196 M102,162 L110,150 L118,162 M102,186 L110,198 L118,186" fill="none" stroke="#1B6B93" stroke-width="4"/>
 </svg>

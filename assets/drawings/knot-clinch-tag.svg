@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Tag goes through the small loop, then the big loop.</text>
+  <!-- hook and eye -->
+  <path d="M78,268 L78,236" stroke="#5A5A5A" stroke-width="3"/>
+  <circle cx="78" cy="222" r="12" fill="#FFFFFF" stroke="#5A5A5A" stroke-width="3"/>
+  <!-- standing line -->
+  <path d="M78,210 L78,48" stroke="#1B6B93" stroke-width="4"/>
+  <!-- small loop just above the eye. The tag crosses its middle. -->
+  <circle cx="78" cy="196" r="14" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <text x="100" y="200" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">A  small loop, first</text>
+  <!-- big loop, drawn so the returning tag crosses the opening -->
+  <ellipse cx="168" cy="118" rx="62" ry="40" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <text x="196" y="176" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">B  big loop, second</text>
+  <!-- tag: down through A, out the bottom, then up through B -->
+  <path d="M118,52 L92,150 L78,196 L64,214" stroke="#C62828" stroke-width="3"/>
+  <path d="M64,214 C36,200 28,150 70,112" stroke="#C62828" stroke-width="3"/>
+  <path d="M70,112 L150,96" stroke="#C62828" stroke-width="3"/>
+  <path d="M138,88 L154,96 L140,106" stroke="#C62828" stroke-width="3"/>
+  <text x="124" y="48" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">tag</text>
+  <text x="16" y="272" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">The line has to pass through each opening.</text>
+  <text x="16" y="292" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">That second pass makes it improved.</text>
+</svg>

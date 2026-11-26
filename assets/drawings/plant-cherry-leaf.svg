@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="340" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Leaf and stem. Silver or prickly is nightshade.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">GROUND CHERRY</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">SILVERLEAF NIGHTSHADE</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — plain green, alternate</text>
+  <path d="M40,150 L150,110" stroke="#3E6B32" stroke-width="3"/>
+  <path d="M70,140 C60,110 100,104 96,136 Z" fill="#6E8F45"/>
+  <path d="M110,126 C100,98 142,94 136,124 Z" fill="#7C9A46"/>
+  <text x="16" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Simple oval leaves, one at a</text>
+  <text x="16" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">node, not silver, not spiny.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — silver, wavy edge</text>
+  <path d="M230,150 L360,112" stroke="#8A8A80" stroke-width="3"/>
+  <path d="M260,140 C250,108 310,100 300,140 C292,128 270,128 260,140 Z" fill="#C5C6B8"/>
+  <path d="M320,124 C314,100 360,96 352,126 C344,116 328,114 320,124 Z" fill="#D5D6C8"/>
+  <text x="210" y="176" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Oblong, silvery, often wavy.</text>
+  <text x="210" y="190" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Alternate on the stem.</text>
+  <text x="16" y="216" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — sprawling, no spines</text>
+  <path d="M30,250 C80,270 120,250 170,290" stroke="#3E6B32" stroke-width="4"/>
+  <text x="16" y="320" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Low and branching. Leaves only.</text>
+  <text x="210" y="216" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — upright, with prickles</text>
+  <path d="M240,240 L340,300" stroke="#8A8A80" stroke-width="5"/>
+  <path d="M270,258 L262,248 M300,274 L292,264 M326,288 L318,278" stroke="#1A1A1A" stroke-width="1.8"/>
+  <text x="210" y="320" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Short sharp prickles. Poison.</text>
+</svg>

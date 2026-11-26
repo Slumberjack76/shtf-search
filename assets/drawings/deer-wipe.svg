@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Prop the cavity. Wipe it. Do not rinse it in a creek.</text>
+  <path d="M40,150 L220,130 L240,90 L70,100 Z" fill="#C4A574"/>
+  <path d="M80,118 L190,108 L186,150 L86,156 Z" fill="#F7F3EA"/>
+  <path d="M130,108 L130,156" stroke="#2E6F40" stroke-width="5"/>
+  <text x="140" y="140" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">clean stick</text>
+  <path d="M200,120 C230,100 270,110 280,140" stroke="#EED2A4" stroke-width="8"/>
+  <text x="200" y="96" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">wipe hair, dirt, feces</text>
+  <rect x="16" y="190" width="368" height="90" rx="8" fill="#FFFFFF" stroke="#C62828" stroke-width="3"/>
+  <text x="28" y="218" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not rinse the carcass in a creek or pond.</text>
+  <text x="28" y="242" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Water spreads filth and washes off the glaze</text>
+  <text x="28" y="262" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">that limits bacteria.</text>
+</svg>

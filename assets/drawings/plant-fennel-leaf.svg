@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="360" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="20" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Leaf and stem. No licorice smell means stop.</text>
+  <rect x="12" y="30" width="180" height="18" fill="#2E6F40" stroke="none"/>
+  <text x="20" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">FENNEL</text>
+  <rect x="206" y="30" width="182" height="18" fill="#C62828" stroke="none"/>
+  <text x="214" y="43" fill="#F4F1EA" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">POISON HEMLOCK</text>
+  <text x="16" y="66" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — thread-like</text>
+  <path d="M40,130 L120,100" stroke="#3E6B32" stroke-width="2"/>
+  <path d="M70,122 L52,100 M70,122 L48,112 M70,122 L50,128 M70,122 L56,140 M100,110 L88,92 M100,110 L92,84 M100,110 L110,88 M100,110 L118,96" stroke="#3E6B32" stroke-width="1.3"/>
+  <text x="16" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Hair-fine leaflets, like dill.</text>
+  <text x="16" y="182" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Crushed leaf smells of licorice.</text>
+  <text x="210" y="66" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">LEAF — fern, broader pieces</text>
+  <path d="M230,140 L340,100" stroke="#2F6B3A" stroke-width="2"/>
+  <path d="M260,128 L246,108 L258,112 L248,96 M290,116 L278,96 L292,102 L280,84 M320,108 L308,90 L324,96" fill="#3E6B32" stroke="#1A1A1A" stroke-width="1.2"/>
+  <text x="210" y="168" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Triangle leaf, fern-like, hairless.</text>
+  <text x="210" y="182" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Musty smell. Not licorice.</text>
+  <text x="16" y="208" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — green, no purple spots</text>
+  <path d="M70,224 L70,300" stroke="#6E8F45" stroke-width="14"/>
+  <ellipse cx="70" cy="224" rx="10" ry="5" fill="#8FB56A"/>
+  <text x="16" y="324" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">Smooth green. Crush it: licorice.</text>
+  <text x="16" y="338" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11">If the smell is weak, do not eat it.</text>
+  <text x="210" y="208" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">STEM — hollow, purple spots</text>
+  <path d="M300,224 L300,300" stroke="#6E8F45" stroke-width="16"/>
+  <ellipse cx="300" cy="224" rx="12" ry="6" fill="#F4F1EA"/>
+  <ellipse cx="300" cy="224" rx="6" ry="3" fill="#6E8F45"/>
+  <g fill="#7A4E9A" stroke="none">
+    <ellipse cx="292" cy="248" rx="5" ry="3"/><ellipse cx="308" cy="266" rx="4" ry="2.6"/>
+    <ellipse cx="294" cy="284" rx="5" ry="3"/>
+  </g>
+  <text x="210" y="324" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Hairless. Purple blotches. Hollow.</text>
+  <text x="210" y="338" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Every part is deadly.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" stroke="#1A1A1A" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Severe choking: person leans forward. Helper stands to the side and slightly behind. One hand supports the chest from underneath. The heel of the other hand is between the shoulder blades. -->
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <ellipse cx="190" cy="268" rx="150" ry="8" fill="#D6D0C4" stroke="none"/>
+
+  <!-- PERSON legs -->
+  <path d="M168,186 L192,184 L198,254 L180,254 Z" fill="#8FB0C2"/>
+  <path d="M180,254 L198,254 C200,262 196,266 190,266 L166,266 C160,266 160,258 168,256 Z" fill="#1A1A1A"/>
+  <path d="M146,188 L170,186 L162,256 L142,256 Z" fill="#A8C2CC"/>
+  <path d="M142,256 L162,256 C164,262 162,266 156,266 L130,266 C124,266 124,258 132,256 Z" fill="#5A5A5A"/>
+
+  <!-- torso at about 45 degrees. Top edge is the back. Bottom edge is the chest. -->
+  <path d="M196,168 C168,146 138,118 118,104 C104,96 86,108 92,124 C108,152 146,180 174,198 C160,210 184,216 198,204 C210,190 208,176 196,168 Z" fill="#F5D76E"/>
+  <!-- shoulder-blade marks on the back -->
+  <path d="M128,118 L142,104 M150,138 L164,124" fill="none" stroke="#1B6B93" stroke-width="2.5" stroke-dasharray="4 3"/>
+
+  <!-- head hanging, face down, mouth open -->
+  <path d="M96,118 L86,134 L104,140 L114,122 Z" fill="#EED2A4"/>
+  <path d="M52,156 C52,140 64,128 80,128 C96,128 108,140 108,156 C108,172 96,184 80,184 C64,184 52,172 52,156 Z" fill="#EED2A4"/>
+  <path d="M54,148 C56,134 68,126 82,130 C92,134 98,144 96,154 C92,146 86,142 80,142 C72,144 62,146 56,148 Z" fill="#5A5A5A"/>
+  <path d="M64,158 C66,160 70,160 72,158" fill="none" stroke-width="2"/>
+  <path d="M90,160 C94,158 96,164 92,168" fill="#E2BB82" stroke-width="2"/>
+  <path d="M66,172 C72,176 80,176 86,172" fill="none" stroke-width="2"/>
+
+  <!-- HELPER -->
+  <path d="M286,168 L310,166 L318,254 L298,256 Z" fill="#5A5A5A"/>
+  <path d="M298,256 L318,254 C322,262 318,266 312,266 L288,266 C282,266 282,258 290,256 Z" fill="#1A1A1A"/>
+  <path d="M262,170 L286,168 L280,256 L260,256 Z" fill="#5A5A5A"/>
+  <path d="M260,256 L280,256 C282,262 280,266 274,266 L248,266 C242,266 242,258 250,256 Z" fill="#1A1A1A"/>
+  <path d="M252,100 C258,86 274,80 288,84 C304,90 312,104 310,120 L306,174 L250,174 C248,148 246,122 252,100 Z" fill="#1B6B93"/>
+  <path d="M292,104 C296,128 296,150 294,172" fill="none" stroke="#14526F" stroke-width="2"/>
+  <path d="M262,100 L264,82 L280,82 L282,100 Z" fill="#EED2A4"/>
+  <path d="M246,62 C246,48 256,40 270,40 C284,40 294,50 294,64 C294,78 284,88 270,88 C262,88 254,84 250,78 L244,76 C242,74 243,70 246,69 L249,68 Z" fill="#EED2A4"/>
+  <path d="M248,58 C250,44 264,36 278,40 C290,44 296,56 292,70 C288,64 284,58 278,56 C270,60 260,60 250,58 Z" fill="#5A5A5A"/>
+  <path d="M256,66 C258,64 261,64 263,66" fill="none" stroke-width="2"/>
+  <path d="M282,66 C286,64 288,70 284,74" fill="#E2BB82" stroke-width="2"/>
+
+  <!-- support arm stays under the chest. Blue sleeve ends at the wrist so the hand reads as the helper's. -->
+  <path d="M258,132 C226,150 196,164 164,172" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M258,132 C226,150 196,164 164,172" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M164,166 C148,174 126,176 116,168 C110,160 118,150 134,150 C152,150 164,156 168,164 Z" fill="#EED2A4"/>
+  <path d="M124,162 L152,160 M122,168 L150,166" fill="none" stroke-width="1.6"/>
+
+  <!-- striking arm: heel between the shoulder blades -->
+  <path d="M286,108 C260,78 220,68 186,82" fill="none" stroke="#1A1A1A" stroke-width="18"/>
+  <path d="M286,108 C260,78 220,68 186,82" fill="none" stroke="#1B6B93" stroke-width="13"/>
+  <path d="M186,80 C172,90 160,104 156,116" fill="none" stroke="#1A1A1A" stroke-width="16"/>
+  <path d="M186,80 C172,90 160,104 156,116" fill="none" stroke="#EED2A4" stroke-width="11"/>
+  <path d="M140,108 C154,98 174,102 178,116 C180,132 164,142 148,136 C132,130 126,116 140,108 Z" fill="#EED2A4"/>
+  <path d="M150,116 L166,112 M148,124 L164,120" fill="none" stroke-width="1.6"/>
+
+  <!-- blow travels down onto the back -->
+  <path d="M176,48 L156,92" fill="none" stroke="#1B6B93" stroke-width="4"/>
+  <path d="M148,82 L156,96 L166,84" fill="none" stroke="#1B6B93" stroke-width="4"/>
+</svg>

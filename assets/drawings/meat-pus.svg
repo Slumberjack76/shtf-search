@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="280" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Pus, a bad organ smell, or green discharge: do not eat it.</text>
+  <rect x="30" y="56" width="120" height="80" rx="8" fill="#C45C4A"/>
+  <ellipse cx="90" cy="96" rx="22" ry="16" fill="#F5D76E" stroke="#1A1A1A"/>
+  <text x="36" y="160" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">pus in the meat,</text>
+  <text x="36" y="178" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">a lymph node,</text>
+  <text x="36" y="196" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">or under the jaw</text>
+  <ellipse cx="260" cy="100" rx="50" ry="30" fill="#6E8A62" stroke="#C62828" stroke-width="3"/>
+  <text x="200" y="160" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">green discharge</text>
+  <text x="200" y="178" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">or a bad smell</text>
+  <text x="200" y="196" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">from the organs</text>
+  <text x="16" y="236" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Do not trim a diseased carcass and hope.</text>
+  <text x="16" y="262" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">The whole animal is out.</text>
+</svg>

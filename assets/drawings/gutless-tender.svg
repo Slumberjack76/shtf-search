@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" aria-hidden="true" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="400" height="300" fill="#F4F1EA" stroke="none"/>
+  <text x="12" y="22" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Tenderloin: inside, on the underside of the spine.</text>
+  <path d="M40,70 L340,80 L330,200 L50,190 Z" fill="#F7F3EA" stroke="#8A6A42" stroke-width="6"/>
+  <path d="M70,96 L310,104" stroke="#1A1A1A" stroke-width="5"/>
+  <text x="80" y="90" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500">spine, seen from inside</text>
+  <path d="M180,110 L300,124" stroke="#2E6F40" stroke-width="8"/>
+  <text x="80" y="140" fill="#2E6F40" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">tenderloin — behind the ribs</text>
+  <path d="M90,160 C130,180 120,190 150,176" stroke="#E7B4A8" stroke-width="8"/>
+  <text x="160" y="176" fill="#C62828" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">intestines — do not puncture</text>
+  <text x="16" y="236" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Shallow cut, then free it with your fingers.</text>
+  <text x="16" y="262" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">It is not under the ribcage. It is under the loin.</text>
+  <text x="16" y="286" fill="#1A1A1A" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500">Head is to the left. Last ribs are left of this muscle.</text>
+</svg>
